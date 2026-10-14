@@ -3,8 +3,17 @@ layout: default
 title: Votações
 permalink: /votacoes/
 resumo: Índice de propostas legislativas acompanhadas pelo Arquivo Parlamentar.
+registros:
+  - titulo: "Fim da escala 6x1"
+    proposicao: "PEC 221/2019"
+    casa: "Senado Federal"
+    tema: "Trabalho"
+    situacao: "Acompanhamento preliminar"
+    resumo: "Proposta de redução da jornada semanal e ampliação do descanso remunerado. Registros recebidos durante a sessão ainda aguardam confirmação nominal."
+    atualizado: "2026-10-14"
+    url: "/votacoes/pec-221-2019/"
 ---
-{% assign registros = site.data.votacoes %}
+{% assign registros = page.registros %}
 <section class="votacoes-hero" aria-labelledby="titulo-votacoes">
   <p class="sobretitulo">ARQUIVO PARLAMENTAR / ÍNDICE DE VOTAÇÕES</p>
   <h1 id="titulo-votacoes">VOTAÇÕES<span class="ponto-titulo">.</span></h1>
