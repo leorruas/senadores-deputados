@@ -2,6 +2,10 @@
 
 Arquivo público de acompanhamento de senadores e deputados: votos nominais, emendas, PECs, declarações e mudanças de posicionamento, com referências e histórico de atualizações.
 
+## Controle das 81 fichas do Senado
+
+[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **6 criadas, 75 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
+
 ## Perfis disponíveis
 
 | Parlamentar | Cargo e UF | Mandato | Situação em outubro de 2026 |
