@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **79 perfis criados** e **2 ainda não iniciados**.
+**Andamento:** **81 perfis criados** e **0 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -67,7 +67,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [x] [Fabiano Contarato](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/fabiano-contarato-pt-es.md) (PT) : **perfil criado**
 - [x] [Magno Malta](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/magno-malta-pl-es.md) (PL) : **perfil criado**
-- [ ] Marcos do Val (Avante) : pendente
+- [x] [Marcos do Val](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/marcos-do-val-avante-es.md) (Avante) : **perfil criado (pesquisa documental pendente)**
 
 ### GO
 
@@ -85,7 +85,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [x] [Carlos Viana](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/carlos-viana-psd-mg.md) (PSD) : **perfil criado**
 - [x] [Cleitinho](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/cleitinho-republicanos-mg.md) (Republicanos) : **perfil criado**
-- [ ] Renzo Braz (PP) : pendente
+- [x] [Renzo Braz](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/renzo-braz-pp-mg.md) (PP) : **perfil criado (pesquisa documental pendente)**
 
 ### MS
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 79 |
-| Fichas pendentes | 2 |
+| Fichas criadas | 81 |
+| Fichas pendentes | 0 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** criadas fichas de Marcos do Val e Renzo Braz. Inventário inicial de 81 fichas completo; permanecem pendentes validação de mandato e pesquisa documental em parte dos perfis.
 
 - **14/10/2026:** fichas iniciais de Angelo Coronel, Sargento Reginauro e Leany Lemos, com pesquisa documental pendente. Total: 79 de 81.
 
