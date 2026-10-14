@@ -1,0 +1,30 @@
+---
+layout: default
+title: Parlamentares
+permalink: /
+---
+{% assign perfis = site.pages | where: "layout", "perfil" | sort: "nome" %}
+<section class="home-hero">
+  <p class="sobretitulo">Registro público / Política brasileira</p>
+  <h1>O que disseram.<br><em>O que fizeram.</em></h1>
+  <p>Um histórico de votos, propostas e declarações de senadores e deputados, com datas, fontes e espaço para acompanhar mudanças de posição.</p>
+</section>
+<section class="catalogo" aria-labelledby="titulo-catalogo">
+  <div class="titulo-secao"><div><p class="sobretitulo">Arquivo em construção</p><h2 id="titulo-catalogo">Parlamentares <span class="contagem-total">{{ perfis | size }}</span></h2></div><a href="{{ '/metodologia/' | relative_url }}">Como os perfis são produzidos ↗</a></div>
+  <div class="filtros">
+    <div class="campo-busca"><label for="busca">Buscar por nome, sigla, estado ou tema</label><input id="busca" type="search" placeholder="Ex.: Eliziane, 6x1, Maranhão" autocomplete="off"></div>
+    <div class="campo-filtro"><label for="cargo">Cargo</label><select id="cargo"><option value="">Todos</option><option value="senador">Senado</option><option value="deputado">Câmara</option></select></div>
+    <div class="campo-filtro"><label for="situacao">Situação eleitoral</label><select id="situacao"><option value="">Todas</option><option value="Não reeleito em 2026">Não reeleitos em 2026</option><option value="Reeleito em 2026">Reeleitos em 2026</option><option value="Mandato até 2031">Mandatos até 2031</option><option value="A verificar">A verificar</option></select></div>
+  </div>
+  <p id="resultado-contagem" class="resultado-contagem" aria-live="polite">{{ perfis | size }} perfis no arquivo</p>
+  <div class="lista-perfis" id="lista-perfis">
+  {% for pessoa in perfis %}
+    <a class="cartao-perfil" href="{{ pessoa.url | relative_url }}" data-busca="{{ pessoa.nome | escape }} {{ pessoa.partido | escape }} {{ pessoa.uf | escape }} {{ pessoa.temas | join: ' ' | escape }} {{ pessoa.resumo | escape }}" data-cargo="{{ pessoa.cargo | downcase | escape }}" data-situacao="{{ pessoa.situacao | escape }}">
+      <div class="cartao-topo"><span>{{ pessoa.cargo | escape }} · {{ pessoa.uf | escape }}</span><span>Atualizado em {{ pessoa.atualizado | date: "%d/%m/%Y" }}</span></div>
+      <div class="cartao-centro"><div><h3>{{ pessoa.nome | escape }}</h3><p class="cartao-partido">{{ pessoa.partido | escape }} · {{ pessoa.mandato | escape }}</p></div><span class="seta-cartao" aria-hidden="true">↗</span></div>
+      <p class="cartao-resumo">{{ pessoa.resumo | escape }}</p><div class="cartao-rodape"><strong>{{ pessoa.situacao | escape }}</strong><span>Ver perfil →</span></div>
+    </a>
+  {% endfor %}
+  </div>
+  <p id="sem-resultados" class="sem-resultados" hidden>Nenhum parlamentar corresponde a esses filtros.</p>
+</section>
