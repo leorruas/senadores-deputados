@@ -3,7 +3,7 @@ layout: default
 title: Metodologia
 permalink: /metodologia/
 ---
-<div class="pagina-texto">
+<div class="pagina-texto" markdown="1">
 <p class="sobretitulo">Sobre o projeto</p>
 
 # Como este arquivo é produzido
@@ -35,8 +35,8 @@ O arquivo é incremental e não representa inventário completo de votos ou de p
 ## Participação e transparência
 
 Os arquivos originais, o código do site e as alterações estão disponíveis no [repositório público](https://github.com/leorruas/senadores-deputados). O projeto é independente e não é uma publicação oficial do Congresso Nacional.
-</div>
-
 ## Como escrevemos
 
 Usamos palavras comuns e frases curtas. Primeiro explicamos **o que aconteceu**, depois **o que a proposta muda na prática** e **quem pode ganhar ou perder direitos e poder de decisão**. Siglas são explicadas quando aparecem pela primeira vez. Preferimos “assinou”, “apresentou”, “votou sim” ou “votou não” a expressões vagas como “atuou pela pauta”. Quando algo ainda precisa ser conferido, escrevemos isso claramente. Uma conclusão ou hipótese deve ser apresentada com as fontes que a sustentam.
+
+</div>
