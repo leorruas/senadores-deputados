@@ -10,7 +10,7 @@
   const contagem = document.getElementById("resultado-contagem");
   const vazio = document.getElementById("sem-resultados");
   const normalizar = (texto) => (texto || "")
-    .normalize("NFD").replace(/[\\u0300-\\u036f]/g, "").toLowerCase().trim();
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
 
   if (busca && uf && partido && cargo && situacao && contagem && vazio) {
     const campos = [
