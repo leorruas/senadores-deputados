@@ -4,11 +4,11 @@
 
 ## Fase 1: fichas e inventário do Senado
 
-**Em execução.** Há **11 fichas iniciadas** e **70 pendentes** na lista de 81 senadores em exercício no retrato de 14/10/2026.
+**Em execução.** Há **14 fichas iniciadas** e **67 pendentes** na lista de 81 senadores em exercício no retrato de 14/10/2026.
 
 O trabalho continua em **lotes de 3 a 5 parlamentares**. Cada lote inclui: pesquisa documental, uma ficha Markdown por pessoa, referências, situação do mandato, distinção entre votos e declarações, e atualização do [controle dos 81 nomes](parlamentares/senadores/ACOMPANHAMENTO.md) e do README.
 
-**Último lote registrado:** Omar Aziz, Rogério Marinho, Paulo Paim, Oriovisto Guimarães e Flávio Bolsonaro.
+**Lote mais recente:** Tereza Cristina, Hamilton Mourão e Jaime Bagattoli (três perfis sobre a tramitação da PEC 221/2019). **Lote anterior:** Omar Aziz, Rogério Marinho, Paulo Paim, Oriovisto Guimarães e Flávio Bolsonaro.
 
 **Limite de cada etapa:** publicar somente as fichas sustentadas por fontes; marcar fatos não conferidos como pendentes. Não multiplicar fichas vazias apenas para avançar a contagem.
 
