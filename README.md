@@ -9,6 +9,7 @@ Arquivo público de acompanhamento de senadores e deputados: votos nominais, eme
 | [Eliziane Gama](parlamentares/senadores/eliziane-gama-pt-ma.md) | Senadora, MA (PT; antes PSD) | 2019 a 2027 | Não reeleita |
 | [Fabiano Contarato](parlamentares/senadores/fabiano-contarato-pt-es.md) | Senador, ES (PT) | 2019 a 2027 | Não reeleito |
 | [Humberto Costa](parlamentares/senadores/humberto-costa-pt-pe.md) | Senador, PE (PT) | Reeleito para 2027 a 2035 | Reeleito |
+| [Teresa Leitão](parlamentares/senadores/teresa-leitao-pt-pe.md) | Senadora, PE (PT) | 2023 a 2031 | Mandato em curso; não disputou em 2026 |
 | [Vanderlan Cardoso](parlamentares/senadores/vanderlan-cardoso-psd-go.md) | Senador, GO (PSD) | 2019 a 2027 | Não reeleito |
 | [Zenaide Maia](parlamentares/senadores/zenaide-maia-psd-rn.md) | Senadora, RN (PSD) | 2019 a 2027 | Não reeleita |
 
