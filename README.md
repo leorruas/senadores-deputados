@@ -6,7 +6,7 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 
 ## Controle das 81 fichas do Senado
 
-[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **73 criadas, 8 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
+[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **76 criadas, 5 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
 
 ## Perfis disponíveis
 
@@ -103,6 +103,10 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 | [Renan Filho](parlamentares/senadores/renan-filho-mdb-al.md) | Senador eleito, AL (MDB) | 2023 a 2031 | Períodos de licença/exercício a conferir |
 | [Camilo Santana](parlamentares/senadores/camilo-santana-pt-ce.md) | Senador eleito, CE (PT) | 2023 a 2031 | Períodos de licença/exercício a conferir |
 | [Chico Rodrigues](parlamentares/senadores/chico-rodrigues-psb-rr.md) | Senador, RR (PSB na lista de referência) | Exercício a conferir | Pesquisa inicial incompleta |
+
+| [Jorge Kajuru](parlamentares/senadores/jorge-kajuru-psb-go.md) | Senador, GO (PSB) | Exercício a verificar | Pesquisa legislativa pendente |
+| [Wilder Morais](parlamentares/senadores/wilder-morais-pl-go.md) | Senador, GO (PL) | Exercício a verificar | Pesquisa legislativa pendente |
+| [Luis Carlos Heinze](parlamentares/senadores/luis-carlos-heinze-pp-rs.md) | Senador, RS (PP) | Exercício a verificar | Pesquisa legislativa pendente |
 
 ## Acompanhamento de votações
 
