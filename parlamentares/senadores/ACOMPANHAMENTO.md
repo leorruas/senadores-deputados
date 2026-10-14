@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **52 perfis criados** e **29 ainda não iniciados**.
+**Andamento:** **55 perfis criados** e **26 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -161,9 +161,9 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### SC
 
-- [ ] Esperidião Amin (PP) : pendente
-- [ ] Ivete da Silveira (MDB) : pendente
-- [ ] Jorge Seif (PL) : pendente
+- [x] [Esperidião Amin](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/esperidiao-amin-pp-sc.md) (PP) : **perfil criado**
+- [x] [Ivete da Silveira](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/ivete-da-silveira-mdb-sc.md) (MDB) : **perfil criado**
+- [x] [Jorge Seif](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/jorge-seif-pl-sc.md) (PL) : **perfil criado**
 
 ### SE
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 52 |
-| Fichas pendentes | 29 |
+| Fichas criadas | 55 |
+| Fichas pendentes | 26 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** fichas iniciais de Ivete da Silveira, Jorge Seif e Esperidião Amin (SC). Total: 55 de 81.
 
 - **14/10/2026:** fichas iniciais de Dra. Eudócia, Lucas Barreto e Roberta Acioly criadas com referências oficiais. Total: 52 de 81.
 
