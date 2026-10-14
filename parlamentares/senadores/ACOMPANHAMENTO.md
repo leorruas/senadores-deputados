@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **70 perfis criados** e **11 ainda não iniciados**.
+**Andamento:** **73 perfis criados** e **8 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -31,7 +31,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [x] [Dra. Eudócia](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/dra-eudocia-psdb-al.md) (PSDB) : **perfil criado**
 - [x] [Renan Calheiros](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/renan-calheiros-mdb-al.md) (MDB) : **perfil criado**
-- [ ] Renan Filho (MDB) : pendente
+- [x] [Renan Filho](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/renan-filho-mdb-al.md) (MDB) : **perfil criado (pesquisa a completar)**
 
 ### AP
 
@@ -53,7 +53,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### CE
 
-- [ ] Camilo Santana (PT) : pendente
+- [x] [Camilo Santana](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/camilo-santana-pt-ce.md) (PT) : **perfil criado (pesquisa a completar)**
 - [x] [Cid Gomes](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/cid-gomes-psb-ce.md) (PSB) : **perfil criado**
 - [ ] Sargento Reginauro (PSDB) : pendente
 
@@ -149,7 +149,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### RR
 
-- [ ] Chico Rodrigues (PSB) : pendente
+- [x] [Chico Rodrigues](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/chico-rodrigues-psb-rr.md) (PSB) : **perfil criado (pesquisa a completar)**
 - [x] [Dr. Hiran](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/dr-hiran-pp-rr.md) (PP) : **perfil criado**
 - [x] [Roberta Acioly](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/roberta-acioly-republicanos-rr.md) (Republicanos) : **perfil criado**
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 70 |
-| Fichas pendentes | 11 |
+| Fichas criadas | 73 |
+| Fichas pendentes | 8 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** iniciadas fichas de Renan Filho, Camilo Santana e Chico Rodrigues, com pendências de verificação de exercício e atos legislativos. Total: 73 de 81.
 
 - **14/10/2026:** fichas iniciais de Marcos Rogério, Eduardo Gomes e Irajá. Total: 70 de 81.
 
