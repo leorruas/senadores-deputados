@@ -6,7 +6,7 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 
 ## Controle das 81 fichas do Senado
 
-[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **79 criadas, 2 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
+[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **81 criadas, 0 pendentes de criação.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
 
 ## Perfis disponíveis
 
@@ -111,6 +111,9 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 | [Angelo Coronel](parlamentares/senadores/angelo-coronel-republicanos-ba.md) | Senador, BA (Republicanos na lista de referência) | Exercício a verificar | Pesquisa documental pendente |
 | [Sargento Reginauro](parlamentares/senadores/sargento-reginauro-psdb-ce.md) | Senador, CE (PSDB na lista de referência) | Exercício a verificar | Pesquisa documental pendente |
 | [Leany Lemos](parlamentares/senadores/leany-lemos-psb-df.md) | Senadora, DF (PSB na lista de referência) | Exercício a verificar | Pesquisa documental pendente |
+
+| [Marcos do Val](parlamentares/senadores/marcos-do-val-avante-es.md) | Senador, ES (Avante na lista de referência) | Exercício a verificar | Pesquisa documental pendente |
+| [Renzo Braz](parlamentares/senadores/renzo-braz-pp-mg.md) | Senador, MG (PP na lista de referência) | Exercício a verificar | Pesquisa documental pendente |
 
 ## Acompanhamento de votações
 
