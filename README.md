@@ -2,6 +2,8 @@
 
 Arquivo público de acompanhamento de senadores e deputados: votos nominais, emendas, PECs, declarações e mudanças de posicionamento, com referências e histórico de atualizações.
 
+O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): primeiro pesquisa de perfis em lotes, depois assuntos, votações e divisão entre Senado e Câmara.
+
 ## Controle das 81 fichas do Senado
 
 [**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **11 criadas, 70 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
