@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **25 perfis criados** e **56 ainda não iniciados**.
+**Andamento:** **28 perfis criados** e **53 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -97,7 +97,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [ ] Carlos Fávaro (PSD) : pendente
 - [ ] Jayme Campos (União Brasil) : pendente
-- [ ] Wellington Fagundes (PL) : pendente
+- [x] [Wellington Fagundes](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/wellington-fagundes-pl-mt.md) (PL) : **perfil criado**
 
 ### PA
 
@@ -150,7 +150,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### RR
 
 - [ ] Chico Rodrigues (PSB) : pendente
-- [ ] Dr. Hiran (PP) : pendente
+- [x] [Dr. Hiran](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/dr-hiran-pp-rr.md) (PP) : **perfil criado**
 - [ ] Roberta Acioly (Republicanos) : pendente
 
 ### RS
@@ -181,14 +181,14 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [ ] Eduardo Gomes (PL) : pendente
 - [ ] Irajá (PSD) : pendente
-- [ ] Professora Dorinha Seabra (União Brasil) : pendente
+- [x] [Professora Dorinha Seabra](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/professora-dorinha-seabra-uniao-to.md) (União Brasil) : **perfil criado**
 
 ## Resumo do andamento
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 25 |
-| Fichas pendentes | 56 |
+| Fichas criadas | 28 |
+| Fichas pendentes | 53 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** fichas de Dr. Hiran, Wellington Fagundes e Professora Dorinha Seabra adicionadas, com registro do requerimento de debates da PEC 221/2019. Total: 28 fichas criadas e 53 pendentes.
 
 - **14/10/2026:** adicionadas fichas de Alessandro Vieira, Rogério Carvalho e Soraya Thronicke. Total de 25 fichas, 56 pendentes. As fichas estão sujeitas a complementação documental.
 
