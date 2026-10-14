@@ -4,11 +4,11 @@
 
 ## Fase 1: fichas e inventário do Senado
 
-**Em execução.** Há **25 fichas iniciadas** e **56 pendentes** na lista de 81 senadores em exercício no retrato de 14/10/2026.
+**Em execução.** Há **28 fichas iniciadas** e **53 pendentes** na lista de 81 senadores em exercício no retrato de 14/10/2026.
 
 O trabalho continua em **lotes de 3 a 5 parlamentares**. Cada lote inclui: pesquisa documental, uma ficha Markdown por pessoa, referências, situação do mandato, distinção entre votos e declarações, e atualização do [controle dos 81 nomes](parlamentares/senadores/ACOMPANHAMENTO.md) e do README.
 
-**Lote mais recente:** Alessandro Vieira, Rogério Carvalho e Soraya Thronicke. **Lote anterior:** Jaques Wagner, Efraim Filho e Sergio Moro. **Lote anterior:** Cleitinho e Carlos Portinho. **Lote anterior:** Randolfe Rodrigues, Davi Alcolumbre e Magno Malta — três papéis diferentes na discussão da PEC 221/2019: articulação da votação, condução da pauta e fala sobre possíveis efeitos econômicos. **Lotes anteriores:** Tereza Cristina, Hamilton Mourão, Jaime Bagattoli; Omar Aziz, Rogério Marinho, Paulo Paim, Oriovisto Guimarães e Flávio Bolsonaro.
+**Lote mais recente:** Dr. Hiran, Wellington Fagundes e Professora Dorinha Seabra. **Lote anterior:** Alessandro Vieira, Rogério Carvalho e Soraya Thronicke. **Lote anterior:** Jaques Wagner, Efraim Filho e Sergio Moro. **Lote anterior:** Cleitinho e Carlos Portinho. **Lote anterior:** Randolfe Rodrigues, Davi Alcolumbre e Magno Malta — três papéis diferentes na discussão da PEC 221/2019: articulação da votação, condução da pauta e fala sobre possíveis efeitos econômicos. **Lotes anteriores:** Tereza Cristina, Hamilton Mourão, Jaime Bagattoli; Omar Aziz, Rogério Marinho, Paulo Paim, Oriovisto Guimarães e Flávio Bolsonaro.
 
 **Limite de cada etapa:** publicar somente as fichas sustentadas por fontes; marcar fatos não conferidos como pendentes. Não multiplicar fichas vazias apenas para avançar a contagem.
 
