@@ -6,13 +6,16 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 
 ## Controle das 81 fichas do Senado
 
-[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **14 criadas, 67 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
+[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **17 criadas, 64 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
 
 ## Perfis disponíveis
 
 | Parlamentar | Cargo e UF | Mandato | Situação em outubro de 2026 |
 | --- | --- | --- | --- |
 | [Eliziane Gama](parlamentares/senadores/eliziane-gama-pt-ma.md) | Senadora, MA (PT; antes PSD) | 2019 a 2027 | Não reeleita |
+| [Davi Alcolumbre](parlamentares/senadores/davi-alcolumbre-uniao-ap.md) | Senador, AP (União Brasil) | 2023 a 2031 | Mandato em curso |
+| [Magno Malta](parlamentares/senadores/magno-malta-pl-es.md) | Senador, ES (PL) | 2023 a 2031 | Mandato em curso |
+| [Randolfe Rodrigues](parlamentares/senadores/randolfe-rodrigues-pt-ap.md) | Senador, AP (PT) | 2019 a 2027 | Não reeleito |
 | [Hamilton Mourão](parlamentares/senadores/hamilton-mourao-republicanos-rs.md) | Senador, RS (Republicanos) | 2023 a 2031 | Mandato em curso |
 | [Jaime Bagattoli](parlamentares/senadores/jaime-bagattoli-pl-ro.md) | Senador, RO (PL) | 2023 a 2031 | Mandato em curso |
 | [Tereza Cristina](parlamentares/senadores/tereza-cristina-pp-ms.md) | Senadora, MS (PP) | 2023 a 2031 | Mandato em curso |
