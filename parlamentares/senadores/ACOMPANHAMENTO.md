@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **55 perfis criados** e **26 ainda não iniciados**.
+**Andamento:** **58 perfis criados** e **23 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -60,7 +60,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### DF
 
 - [x] [Damares Alves](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/damares-alves-republicanos-df.md) (Republicanos) : **perfil criado**
-- [ ] Izalci Lucas (PL) : pendente
+- [x] [Izalci Lucas](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/izalci-lucas-pl-df.md) (PL) : **perfil criado**
 - [ ] Leany Lemos (PSB) : pendente
 
 ### ES
@@ -83,7 +83,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### MG
 
-- [ ] Carlos Viana (PSD) : pendente
+- [x] [Carlos Viana](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/carlos-viana-psd-mg.md) (PSD) : **perfil criado**
 - [x] [Cleitinho](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/cleitinho-republicanos-mg.md) (Republicanos) : **perfil criado**
 - [ ] Renzo Braz (PP) : pendente
 
@@ -174,7 +174,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### SP
 
 - [ ] Astronauta Marcos Pontes (PL) : pendente
-- [ ] Giordano (Podemos) : pendente
+- [x] [Giordano](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/giordano-podemos-sp.md) (Podemos) : **perfil criado**
 - [x] [Mara Gabrilli](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/mara-gabrilli-psd-sp.md) (PSD) : **perfil criado**
 
 ### TO
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 55 |
-| Fichas pendentes | 26 |
+| Fichas criadas | 58 |
+| Fichas pendentes | 23 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** fichas iniciais de Carlos Viana, Izalci Lucas e Giordano adicionadas. Total: 58 fichas, 23 pendentes. Mudanças de sigla de Carlos Viana ainda precisam de conferência temporal.
 
 - **14/10/2026:** fichas iniciais de Ivete da Silveira, Jorge Seif e Esperidião Amin (SC). Total: 55 de 81.
 
