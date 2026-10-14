@@ -47,3 +47,7 @@ MODELO.md                Modelo para novos perfis
 **Votação nominal:** data, proposição, turno, objeto e registro individual. **Votação simbólica:** resultado coletivo, sem atribuir um voto individual. **Proposta, PEC e emenda:** distinguir primeiro autor, signatário, relator e autor de emenda. **Declaração:** data, fonte, contexto e cuidado com mudanças no sentido da fala. **Interpretação:** hipóteses identificadas e abertas à revisão. **Mandato:** distinguir resultado eleitoral e prazo de exercício. Priorizar Senado, Câmara e TSE; complementar com jornalismo identificado.
 
 A pesquisa é incremental: **um campo ainda não investigado não equivale a ausência de atuação**. Versões anteriores podem ser auditadas nos commits. O acervo é independente e não é publicação oficial do Congresso.
+
+## Linguagem dos perfis
+
+Escrever para quem não acompanha o Congresso diariamente. Usar frases curtas e explicar PEC, comissão, emenda e votação quando necessário. Para cada proposta, dizer em linguagem direta **o que mudaria na vida das pessoas** e quem ganha poder de decisão. Distinguir “assinou”, “propôs”, “disse” e “votou”. Evitar elogios automáticos, rótulos políticos sem prova e termos vagos como “flexibilização” para mudanças que podem reduzir direitos. O texto pode ter uma leitura crítica, mas deve deixar claras as evidências, as perguntas abertas e os limites da pesquisa.
