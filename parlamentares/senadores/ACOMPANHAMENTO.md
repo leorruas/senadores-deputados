@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **19 perfis criados** e **62 ainda não iniciados**.
+**Andamento:** **22 perfis criados** e **59 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -48,7 +48,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### BA
 
 - [ ] Angelo Coronel (Republicanos) : pendente
-- [ ] Jaques Wagner (PT) : pendente
+- [x] [Jaques Wagner](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/jaques-wagner-pt-ba.md) (PT) : **perfil criado**
 - [ ] Otto Alencar (PSD) : pendente
 
 ### CE
@@ -108,7 +108,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### PB
 
 - [ ] Daniella Ribeiro (PP) : pendente
-- [ ] Efraim Filho (PL) : pendente
+- [x] [Efraim Filho](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/efraim-filho-pl-pb.md) (PL) : **perfil criado**
 - [ ] Veneziano Vital do Rêgo (MDB) : pendente
 
 ### PE
@@ -127,7 +127,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [ ] Flávio Arns (PSB) : pendente
 - [x] [Oriovisto Guimarães](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/oriovisto-guimaraes-psdb-pr.md) (PSDB) : **perfil criado**
-- [ ] Sergio Moro (PL) : pendente
+- [x] [Sergio Moro](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/sergio-moro-pl-pr.md) (PL) : **perfil criado**
 
 ### RJ
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 19 |
-| Fichas pendentes | 62 |
+| Fichas criadas | 22 |
+| Fichas pendentes | 59 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** acrescentadas fichas iniciais de Jaques Wagner, Efraim Filho e Sergio Moro. Total: 22 fichas, 59 pendentes. Os votos da PEC 221/2019 seguem pendentes de confirmação nominal.
 
 - **14/10/2026, lote de duas fichas:** criados os perfis de Cleitinho e Carlos Portinho. Total: 19 fichas, 62 pendentes.
 
