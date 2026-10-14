@@ -35,7 +35,7 @@ Em **13 de agosto de 2026**, atuou como **relator da MSF 40/2026**, que submetia
 
 Fonte: [pronunciamento como relator](https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/523881).
 
-## Atendimento a pessoas com deficiência
+## Proteção de crianças e adolescentes
 
 Em **1º de julho de 2026**, atuou como **relator ad hoc** na Comissão de Direitos Humanos do PLP 26/2025, de autoria de Damares Alves, sobre prioridade para ações de proteção a crianças e adolescentes em emendas de bancadas estaduais. A comissão aprovou o parecer favorável. **Relator ad hoc** é quem substitui o relator original durante a deliberação.
 
