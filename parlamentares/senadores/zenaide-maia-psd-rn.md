@@ -54,6 +54,8 @@ Fontes: [pronunciamento de 9/6/2026](https://www25.senado.leg.br/web/atividade/p
 
 **Situação:** a proposta **não virou lei**. Zenaide voltou a pedir sua aprovação em março de 2026.
 
+**Ligação com outros parlamentares deste arquivo:** [Eliziane Gama]({{ '/parlamentares/senadores/eliziane-gama/' | relative_url }}), [Fabiano Contarato]({{ '/parlamentares/senadores/fabiano-contarato/' | relative_url }}) e [Humberto Costa]({{ '/parlamentares/senadores/humberto-costa/' | relative_url }}) também assinaram a PEC 79/2019. Essas assinaturas constam da página oficial. Assinar uma PEC mostra apoio à sua apresentação, mas não equivale a votar pelo texto em plenário.
+
 Fontes: [texto da PEC 79/2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/136812), [explicação da Agência Senado](https://www12.senado.leg.br/noticias/materias/2019/11/05/pec-de-zenaide-maia-limita-juros-de-bancos-a-tres-vezes-taxa-selic) e [discurso de março de 2026](https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/520584).
 
 ## Votos e decisões importantes
