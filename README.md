@@ -6,7 +6,7 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 
 ## Controle das 81 fichas do Senado
 
-[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **58 criadas, 23 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
+[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **61 criadas, 20 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
 
 ## Perfis disponíveis
 
@@ -83,6 +83,10 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 | [Carlos Viana](parlamentares/senadores/carlos-viana-psd-mg.md) | Senador, MG (PSD na lista de referência) | Exercício em 2026 | Histórico partidário a conferir |
 | [Izalci Lucas](parlamentares/senadores/izalci-lucas-pl-df.md) | Senador, DF (PL) | Exercício em 2026 | Eleição de 2026 a verificar |
 | [Giordano](parlamentares/senadores/giordano-podemos-sp.md) | Senador, SP (Podemos) | Exercício em 2026 | Eleição de 2026 a verificar |
+
+| [Cid Gomes](parlamentares/senadores/cid-gomes-psb-ce.md) | Senador, CE (PSB) | Exercício em 2026 | Mandato a conferir |
+| [Confúcio Moura](parlamentares/senadores/confucio-moura-mdb-ro.md) | Senador, RO (MDB) | Exercício em 2026 | Mandato a conferir |
+| [Styvenson Valentim](parlamentares/senadores/styvenson-valentim-podemos-rn.md) | Senador, RN (Podemos) | Exercício em 2026 | Mandato a conferir |
 
 ## Acompanhamento de votações
 
