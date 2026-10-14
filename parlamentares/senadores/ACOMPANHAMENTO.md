@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **64 perfis criados** e **17 ainda não iniciados**.
+**Andamento:** **67 perfis criados** e **14 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -95,7 +95,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### MT
 
-- [ ] Carlos Fávaro (PSD) : pendente
+- [x] [Carlos Fávaro](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/carlos-favaro-psd-mt.md) (PSD) : **perfil criado**
 - [x] [Jayme Campos](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/jayme-campos-uniao-mt.md) (União Brasil) : **perfil criado**
 - [x] [Wellington Fagundes](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/wellington-fagundes-pl-mt.md) (PL) : **perfil criado**
 
@@ -120,7 +120,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### PI
 
 - [x] [Ciro Nogueira](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/ciro-nogueira-pp-pi.md) (PP) : **perfil criado**
-- [ ] Jussara Lima (PSD) : pendente
+- [x] [Jussara Lima](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/jussara-lima-psd-pi.md) (PSD) : **perfil criado**
 - [x] [Marcelo Castro](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/marcelo-castro-mdb-pi.md) (MDB) : **perfil criado**
 
 ### PR
@@ -173,7 +173,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### SP
 
-- [ ] Astronauta Marcos Pontes (PL) : pendente
+- [x] [Astronauta Marcos Pontes](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/astronauta-marcos-pontes-pl-sp.md) (PL) : **perfil criado**
 - [x] [Giordano](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/giordano-podemos-sp.md) (Podemos) : **perfil criado**
 - [x] [Mara Gabrilli](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/mara-gabrilli-psd-sp.md) (PSD) : **perfil criado**
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 64 |
-| Fichas pendentes | 17 |
+| Fichas criadas | 67 |
+| Fichas pendentes | 14 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** fichas iniciais de Carlos Fávaro, Astronauta Marcos Pontes e Jussara Lima adicionadas. Total 67 de 81.
 
 - **14/10/2026:** adicionados perfis de Plínio Valério, Jayme Campos e Laércio Oliveira, com atos de 2026 e fontes oficiais. Total: 64 fichas; 17 pendentes.
 
