@@ -1,30 +1,32 @@
 ---
 layout: default
 ---
-<a class="voltar" href="{{ '/' | relative_url }}">← Voltar para os parlamentares</a>
+<a class="voltar" href="{{ '/' | relative_url }}">← ÍNDICE DE PARLAMENTARES</a>
 <section class="perfil-cabecalho" aria-labelledby="titulo-perfil">
-  <div class="perfil-descricao"><p class="sobretitulo">Ficha parlamentar <span aria-hidden="true">/</span> {{ page.cargo | escape }} <span aria-hidden="true">/</span> {{ page.uf | escape }}</p>
-    <h1 id="titulo-perfil">{{ page.nome | escape }}<span class="ponto-titulo">.</span></h1>
+  <div class="perfil-descricao">
+    <p class="sobretitulo">FICHA PARLAMENTAR / {{ page.cargo | upcase | escape }} / {{ page.uf | escape }}</p>
+    <h1 id="titulo-perfil">{{ page.nome | upcase | escape }}<span class="ponto-titulo">.</span></h1>
     <p class="perfil-sinopse">{{ page.resumo | escape }}</p>
-    <div class="temas">{% for tema in page.temas %}<span>{{ tema | escape }}</span>{% endfor %}</div>
+    <div class="temas" aria-label="Temas desta pesquisa">{% for tema in page.temas %}<span>{{ tema | escape }}</span>{% endfor %}</div>
   </div>
-  <aside class="painel-mandato" aria-label="Resumo do mandato">
-    <p class="painel-rotulo">Situação em {{ page.atualizado | date: "%d/%m/%Y" }}</p>
-    <strong class="painel-situacao">{{ page.situacao | escape }}</strong>
-    <dl><div><dt>Partido</dt><dd>{{ page.partido | escape }}{% if page.partido_anterior %} <small>(antes: {{ page.partido_anterior | escape }})</small>{% endif %}</dd></div>
-      <div><dt>Estado</dt><dd>{{ page.uf | escape }}</dd></div>
-      <div><dt>Mandato</dt><dd>{{ page.mandato | escape }}</dd></div>
-      <div><dt>Última revisão</dt><dd>{{ page.atualizado | date: "%d/%m/%Y" }}</dd></div>
+  <aside class="painel-mandato" aria-label="Dados e situação do mandato">
+    <p class="painel-rotulo">SITUAÇÃO ELEITORAL / 2026</p>
+    <strong class="painel-situacao">{{ page.situacao | upcase | escape }}</strong>
+    <dl>
+      <div><dt>PARTIDO</dt><dd>{{ page.partido | escape }}{% if page.partido_anterior %} <small>ANTES: {{ page.partido_anterior | escape }}</small>{% endif %}</dd></div>
+      <div><dt>ESTADO</dt><dd>{{ page.uf | escape }}</dd></div>
+      <div><dt>MANDATO</dt><dd>{{ page.mandato | escape }}</dd></div>
+      <div><dt>ATUALIZADO</dt><dd>{{ page.atualizado | date: "%d/%m/%Y" }}</dd></div>
     </dl>
   </aside>
 </section>
 <div class="perfil-corpo">
-  <aside class="indice-perfil"><h2>Nesta ficha</h2><nav id="sumario" aria-label="Índice da ficha"><p>Índice da pesquisa</p></nav><p class="nota-indice">Os registros são datados e documentados. Atualizações podem alterar a análise.</p></aside>
+  <aside class="indice-perfil"><h2>ÍNDICE DA FICHA</h2><nav id="sumario" aria-label="Seções da ficha"><p>Carregando seções...</p></nav><p class="nota-indice">As fichas são revisadas conforme surgem novas fontes e votações.</p></aside>
   <article class="texto-perfil" id="texto-perfil">
     {{ content }}
     <div class="fim-ficha">
-      <p>Os registros são atualizados conforme novas fontes e votações ficam disponíveis.</p>
-      <a href="https://github.com/leorruas/senadores-deputados/blob/main/{{ page.path }}" target="_blank" rel="noopener noreferrer">Ver Markdown e histórico no GitHub ↗</a>
+      <p>FIM DA FICHA / REGISTRO EM ATUALIZAÇÃO</p>
+      <a href="https://github.com/leorruas/senadores-deputados/blob/main/{{ page.path }}" target="_blank" rel="noopener noreferrer">VER FONTES, MARKDOWN E HISTÓRICO ↗</a>
     </div>
   </article>
 </div>
