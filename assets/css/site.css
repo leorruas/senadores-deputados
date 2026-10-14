@@ -219,3 +219,7 @@ a:focus-visible, input:focus-visible, select:focus-visible { outline: 3px solid 
   html { scroll-behavior: auto; }
   * { transition: none !important; }
 }
+
+/* Ação secundária na busca */
+.limpar-busca { padding: .55rem; flex: 0 0 auto; background: transparent; border: 0; font-size: .66rem; font-weight: 900; letter-spacing: .10em; cursor: pointer; }
+.limpar-busca:hover { color: var(--color-green); }
