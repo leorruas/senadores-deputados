@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **49 perfis criados** e **32 ainda não iniciados**.
+**Andamento:** **52 perfis criados** e **29 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -29,14 +29,14 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### AL
 
-- [ ] Dra. Eudócia (PSDB) : pendente
+- [x] [Dra. Eudócia](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/dra-eudocia-psdb-al.md) (PSDB) : **perfil criado**
 - [x] [Renan Calheiros](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/renan-calheiros-mdb-al.md) (MDB) : **perfil criado**
 - [ ] Renan Filho (MDB) : pendente
 
 ### AP
 
 - [x] [Davi Alcolumbre](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/davi-alcolumbre-uniao-ap.md) (União Brasil) : **perfil criado**
-- [ ] Lucas Barreto (PSD) : pendente
+- [x] [Lucas Barreto](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/lucas-barreto-psd-ap.md) (PSD) : **perfil criado**
 - [x] [Randolfe Rodrigues](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/randolfe-rodrigues-pt-ap.md) (PT) : **perfil criado**
 
 ### AM
@@ -151,7 +151,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [ ] Chico Rodrigues (PSB) : pendente
 - [x] [Dr. Hiran](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/dr-hiran-pp-rr.md) (PP) : **perfil criado**
-- [ ] Roberta Acioly (Republicanos) : pendente
+- [x] [Roberta Acioly](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/roberta-acioly-republicanos-rr.md) (Republicanos) : **perfil criado**
 
 ### RS
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 49 |
-| Fichas pendentes | 32 |
+| Fichas criadas | 52 |
+| Fichas pendentes | 29 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** fichas iniciais de Dra. Eudócia, Lucas Barreto e Roberta Acioly criadas com referências oficiais. Total: 52 de 81.
 
 - **14/10/2026:** fichas iniciais de Alan Rick, Marcio Bittar e Sérgio Petecão (AC) com propostas e atos de 2026. Total: 49 de 81.
 
