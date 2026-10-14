@@ -1,0 +1,49 @@
+---
+layout: default
+title: Votações
+permalink: /votacoes/
+resumo: Índice de propostas legislativas acompanhadas pelo Arquivo Parlamentar.
+---
+{% assign registros = site.data.votacoes %}
+<section class="votacoes-hero" aria-labelledby="titulo-votacoes">
+  <p class="sobretitulo">ARQUIVO PARLAMENTAR / ÍNDICE DE VOTAÇÕES</p>
+  <h1 id="titulo-votacoes">VOTAÇÕES<span class="ponto-titulo">.</span></h1>
+  <div class="votacoes-hero__rodape"><p>O que está em discussão, o que cada proposta mudaria e como os parlamentares votaram — quando houver registro nominal verificável.</p><span>{{ registros | size }} PROPOSTA{% if registros.size != 1 %}S{% endif %} EM ACOMPANHAMENTO</span></div>
+</section>
+<section class="votacoes-catalogo" aria-labelledby="votacoes-lista-titulo">
+  <div class="votacoes-catalogo__cabecalho"><p class="sobretitulo">CONSULTA / 01</p><h2 id="votacoes-lista-titulo">PROPOSTAS <span>({{ registros | size }})</span></h2></div>
+  <div class="votacoes-filtro"><label for="votacoes-busca">BUSCAR PROPOSTA OU ASSUNTO</label><input id="votacoes-busca" type="search" placeholder="Ex.: 6x1, trabalho, PEC..." autocomplete="off" aria-describedby="votacoes-contagem"></div>
+  <p id="votacoes-contagem" class="votacoes-contagem" role="status" aria-live="polite">{{ registros | size }} proposta(s) encontrada(s)</p>
+  <div class="votacoes-lista" id="votacoes-lista">
+    {% for registro in registros %}
+    <a class="votacao-item" href="{{ registro.url | relative_url }}" data-busca="{{ registro.titulo | escape }} {{ registro.proposicao | escape }} {{ registro.tema | escape }} {{ registro.casa | escape }} {{ registro.resumo | escape }}">
+      <span class="votacao-item__numero" aria-hidden="true">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
+      <div class="votacao-item__corpo"><p class="sobretitulo">{{ registro.casa | escape }} / {{ registro.proposicao | escape }} / {{ registro.tema | escape }}</p><h3>{{ registro.titulo | escape }}</h3><p>{{ registro.resumo | escape }}</p></div>
+      <div class="votacao-item__meta"><strong>{{ registro.situacao | escape }}</strong><span>Atualizado em {{ registro.atualizado | date: "%d/%m/%Y" }}</span></div>
+      <span class="votacao-item__seta" aria-hidden="true">↗</span>
+    </a>
+    {% endfor %}
+  </div>
+  <p id="votacoes-vazio" class="votacoes-vazio" hidden>Nenhuma proposta encontrada. Experimente outro termo.</p>
+</section>
+<section class="votacoes-nota" aria-labelledby="votacoes-metodo"><p class="sobretitulo">COMO LER / 02</p><div><h2 id="votacoes-metodo">REGISTRO NÃO É VOTO.</h2><p>Um pronunciamento, uma declaração de apoio ou um relato durante a sessão não equivalem a um voto nominal. Cada página indica a fonte, a data e se o registro foi confirmado no mapa oficial. Quando não houver confirmação, isso será informado.</p><a href="{{ '/metodologia/' | relative_url }}">CONHEÇA A METODOLOGIA ↗</a></div></section>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const input = document.getElementById('votacoes-busca');
+  const cards = Array.from(document.querySelectorAll('.votacao-item'));
+  const count = document.getElementById('votacoes-contagem');
+  const empty = document.getElementById('votacoes-vazio');
+  const normalize = value => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+  input.addEventListener('input', function () {
+    const query = normalize(input.value.trim());
+    let visible = 0;
+    cards.forEach(card => {
+      const matches = normalize(card.dataset.busca || '').includes(query);
+      card.hidden = !matches;
+      if (matches) visible++;
+    });
+    count.textContent = visible + (visible === 1 ? ' proposta encontrada' : ' propostas encontradas');
+    empty.hidden = visible !== 0;
+  });
+});
+</script>
