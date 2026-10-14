@@ -6,7 +6,7 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 
 ## Controle das 81 fichas do Senado
 
-[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **37 criadas, 44 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
+[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **40 criadas, 41 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
 
 ## Perfis disponíveis
 
@@ -55,6 +55,10 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 | [Ciro Nogueira](parlamentares/senadores/ciro-nogueira-pp-pi.md) | Senador, PI (PP) | 2019 a 2027 | Eleição a verificar |
 | [Marcelo Castro](parlamentares/senadores/marcelo-castro-mdb-pi.md) | Senador, PI (MDB) | 2019 a 2027 | Eleição a verificar |
 | [Otto Alencar](parlamentares/senadores/otto-alencar-psd-ba.md) | Senador, BA (PSD) | 2023 a 2031 | Mandato em curso |
+
+| [Beto Faro](parlamentares/senadores/beto-faro-pt-pa.md) | Senador, PA (PT) | 2023 a 2031 | Mandato em curso |
+| [Jader Barbalho](parlamentares/senadores/jader-barbalho-mdb-pa.md) | Senador, PA (MDB) | 2019 a 2027 | Eleição a verificar |
+| [Zequinha Marinho](parlamentares/senadores/zequinha-marinho-podemos-pa.md) | Senador, PA (Podemos) | 2019 a 2027 | Eleição a verificar |
 
 ## Acompanhamento de votações
 
