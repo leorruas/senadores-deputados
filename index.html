@@ -29,7 +29,8 @@ permalink: /
     <div class="campo-busca">
       <label for="busca">01 / Busque um nome, estado ou assunto</label>
       <div class="campo-busca__linha">
-        <input id="busca" type="search" placeholder="Buscar parlamentar..." autocomplete="off">
+        <input id="busca" type="search" placeholder="Buscar parlamentar..." autocomplete="off" aria-describedby="resultado-contagem">
+        <button type="button" id="limpar-busca" class="limpar-busca" hidden>LIMPAR</button>
         <span aria-hidden="true">⌕</span>
       </div>
     </div>
