@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **14 perfis criados** e **67 ainda não iniciados**.
+**Andamento:** **17 perfis criados** e **64 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -35,9 +35,9 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### AP
 
-- [ ] Davi Alcolumbre (União Brasil) : pendente
+- [x] [Davi Alcolumbre](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/davi-alcolumbre-uniao-ap.md) (União Brasil) : **perfil criado**
 - [ ] Lucas Barreto (PSD) : pendente
-- [ ] Randolfe Rodrigues (PT) : pendente
+- [x] [Randolfe Rodrigues](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/randolfe-rodrigues-pt-ap.md) (PT) : **perfil criado**
 
 ### AM
 
@@ -66,7 +66,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### ES
 
 - [x] [Fabiano Contarato](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/fabiano-contarato-pt-es.md) (PT) : **perfil criado**
-- [ ] Magno Malta (PL) : pendente
+- [x] [Magno Malta](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/magno-malta-pl-es.md) (PL) : **perfil criado**
 - [ ] Marcos do Val (Avante) : pendente
 
 ### GO
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 14 |
-| Fichas pendentes | 67 |
+| Fichas criadas | 17 |
+| Fichas pendentes | 64 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026, novo lote de três:** acrescentadas as fichas de Randolfe Rodrigues (AP), Davi Alcolumbre (AP) e Magno Malta (ES). Total atualizado para 17 fichas e 64 pendentes.
 
 - **14/10/2026, lote de três:** acrescentadas Tereza Cristina (MS), Hamilton Mourão (RS) e Jaime Bagattoli (RO). O controle passa a 14 fichas, com 67 pendências. As três fichas registram posição contrária ao relatório da PEC 221/2019 na CCJ, sem confundir isso com votação nominal de plenário.
 
