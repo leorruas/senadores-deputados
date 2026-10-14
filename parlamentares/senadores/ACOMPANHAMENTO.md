@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **58 perfis criados** e **23 ainda não iniciados**.
+**Andamento:** **61 perfis criados** e **20 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -54,7 +54,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### CE
 
 - [ ] Camilo Santana (PT) : pendente
-- [ ] Cid Gomes (PSB) : pendente
+- [x] [Cid Gomes](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/cid-gomes-psb-ce.md) (PSB) : **perfil criado**
 - [ ] Sargento Reginauro (PSDB) : pendente
 
 ### DF
@@ -138,12 +138,12 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### RN
 
 - [x] [Rogério Marinho](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/rogerio-marinho-pl-rn.md) (PL) : **perfil criado**
-- [ ] Styvenson Valentim (Podemos) : pendente
+- [x] [Styvenson Valentim](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/styvenson-valentim-podemos-rn.md) (Podemos) : **perfil criado**
 - [x] [Zenaide Maia](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/zenaide-maia-psd-rn.md) (PSD) : **perfil criado**
 
 ### RO
 
-- [ ] Confúcio Moura (MDB) : pendente
+- [x] [Confúcio Moura](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/confucio-moura-mdb-ro.md) (MDB) : **perfil criado**
 - [x] [Jaime Bagattoli](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/jaime-bagattoli-pl-ro.md) (PL) : **perfil criado**
 - [ ] Marcos Rogério (PL) : pendente
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 58 |
-| Fichas pendentes | 23 |
+| Fichas criadas | 61 |
+| Fichas pendentes | 20 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** perfis de Cid Gomes, Confúcio Moura e Styvenson Valentim adicionados. Total: 61 de 81, 20 pendentes.
 
 - **14/10/2026:** fichas iniciais de Carlos Viana, Izalci Lucas e Giordano adicionadas. Total: 58 fichas, 23 pendentes. Mudanças de sigla de Carlos Viana ainda precisam de conferência temporal.
 
