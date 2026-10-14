@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **6 perfis criados** e **75 ainda não iniciados**.
+**Andamento:** **11 perfis criados** e **70 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -42,7 +42,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### AM
 
 - [ ] Eduardo Braga (MDB) : pendente
-- [ ] Omar Aziz (PSD) : pendente
+- [x] [Omar Aziz](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/omar-aziz-psd-am.md) (PSD) : **perfil criado**
 - [ ] Plínio Valério (PSDB) : pendente
 
 ### BA
@@ -126,18 +126,18 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### PR
 
 - [ ] Flávio Arns (PSB) : pendente
-- [ ] Oriovisto Guimarães (PSDB) : pendente
+- [x] [Oriovisto Guimarães](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/oriovisto-guimaraes-psdb-pr.md) (PSDB) : **perfil criado**
 - [ ] Sergio Moro (PL) : pendente
 
 ### RJ
 
 - [ ] Carlos Portinho (PL) : pendente
-- [ ] Flávio Bolsonaro (PL) : pendente
+- [x] [Flávio Bolsonaro](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/flavio-bolsonaro-pl-rj.md) (PL) : **perfil criado**
 - [ ] Romário (Sem partido) : pendente
 
 ### RN
 
-- [ ] Rogério Marinho (PL) : pendente
+- [x] [Rogério Marinho](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/rogerio-marinho-pl-rn.md) (PL) : **perfil criado**
 - [ ] Styvenson Valentim (Podemos) : pendente
 - [x] [Zenaide Maia](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/zenaide-maia-psd-rn.md) (PSD) : **perfil criado**
 
@@ -157,7 +157,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [ ] Hamilton Mourão (Republicanos) : pendente
 - [ ] Luis Carlos Heinze (PP) : pendente
-- [ ] Paulo Paim (PT) : pendente
+- [x] [Paulo Paim](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/paulo-paim-pt-rs.md) (PT) : **perfil criado**
 
 ### SC
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 6 |
-| Fichas pendentes | 75 |
+| Fichas criadas | 11 |
+| Fichas pendentes | 70 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -197,6 +197,7 @@ Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arqui
 
 ## Histórico
 
+- **14/10/2026:** cinco perfis adicionados: Omar Aziz, Rogério Marinho, Paulo Paim, Oriovisto Guimarães e Flávio Bolsonaro (11 fichas no total).
 - **14/10/2026:** controle inicial com os 81 senadores em exercício, segundo o Senado Federal. Seis fichas marcadas como criadas: Eliziane Gama, Fabiano Contarato, Humberto Costa, Teresa Leitão, Vanderlan Cardoso e Zenaide Maia.
 
 </div>
