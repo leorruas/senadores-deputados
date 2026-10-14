@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **43 perfis criados** e **38 ainda não iniciados**.
+**Andamento:** **46 perfis criados** e **35 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -77,7 +77,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### MA
 
-- [ ] Ana Paula Lobato (PSB) : pendente
+- [x] [Ana Paula Lobato](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/ana-paula-lobato-psb-ma.md) (PSB) : **perfil criado**
 - [x] [Eliziane Gama](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/eliziane-gama-pt-ma.md) (PT) : **perfil criado**
 - [x] [Weverton](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/weverton-pdt-ma.md) (PDT) : **perfil criado**
 
@@ -133,7 +133,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [x] [Carlos Portinho](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/carlos-portinho-pl-rj.md) (PL) : **perfil criado**
 - [x] [Flávio Bolsonaro](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/flavio-bolsonaro-pl-rj.md) (PL) : **perfil criado**
-- [ ] Romário (Sem partido) : pendente
+- [x] [Romário](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/romario-sem-partido-rj.md) (Sem partido) : **perfil criado**
 
 ### RN
 
@@ -175,7 +175,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [ ] Astronauta Marcos Pontes (PL) : pendente
 - [ ] Giordano (Podemos) : pendente
-- [ ] Mara Gabrilli (PSD) : pendente
+- [x] [Mara Gabrilli](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/mara-gabrilli-psd-sp.md) (PSD) : **perfil criado**
 
 ### TO
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 43 |
-| Fichas pendentes | 38 |
+| Fichas criadas | 46 |
+| Fichas pendentes | 35 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** fichas iniciais de Ana Paula Lobato, Mara Gabrilli e Romário, com fontes legislativas. Total: 46 de 81.
 
 - **14/10/2026:** fichas iniciais de Daniella Ribeiro, Fernando Dueire e Nelsinho Trad adicionadas. Total: 43 de 81 fichas, com 38 pendentes.
 
