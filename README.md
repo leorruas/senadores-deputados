@@ -6,7 +6,7 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 
 ## Controle das 81 fichas do Senado
 
-[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **25 criadas, 56 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
+[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **28 criadas, 53 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
 
 ## Perfis disponíveis
 
@@ -39,6 +39,10 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 | [Alessandro Vieira](parlamentares/senadores/alessandro-vieira-mdb-se.md) | Senador, SE (MDB) | 2019 a 2027 | Eleição de 2026 a verificar |
 | [Rogério Carvalho](parlamentares/senadores/rogerio-carvalho-pt-se.md) | Senador, SE (PT) | 2019 a 2027 | Eleição de 2026 a verificar |
 | [Soraya Thronicke](parlamentares/senadores/soraya-thronicke-psb-ms.md) | Senadora, MS (PSB) | 2019 a 2027 | Eleição de 2026 a verificar |
+
+| [Dr. Hiran](parlamentares/senadores/dr-hiran-pp-rr.md) | Senador, RR (PP) | 2023 a 2031 | Mandato em curso |
+| [Wellington Fagundes](parlamentares/senadores/wellington-fagundes-pl-mt.md) | Senador, MT (PL) | 2023 a 2031 | Mandato em curso |
+| [Professora Dorinha Seabra](parlamentares/senadores/professora-dorinha-seabra-uniao-to.md) | Senadora, TO (União Brasil) | 2023 a 2031 | Mandato em curso |
 
 ## Acompanhamento de votações
 
