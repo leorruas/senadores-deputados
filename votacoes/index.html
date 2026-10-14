@@ -16,11 +16,11 @@ resumo: Índice de propostas legislativas acompanhadas pelo Arquivo Parlamentar.
   <p id="votacoes-contagem" class="votacoes-contagem" role="status" aria-live="polite">{{ registros | size }} proposta(s) encontrada(s)</p>
   <div class="votacoes-lista" id="votacoes-lista">
     {% for registro in registros %}
-    <a class="votacao-item" href="{{ registro.url | relative_url }}" data-busca="{{ registro.titulo | escape }} {{ registro.proposicao | escape }} {{ registro.tema | escape }} {{ registro.casa | escape }} {{ registro.resumo | escape }}">
+    <a class="votacao-item" href="{{ registro.url | relative_url }}" aria-label="Abrir votação: {{ registro.titulo | escape }}" data-busca="{{ registro.titulo | escape }} {{ registro.proposicao | escape }} {{ registro.tema | escape }} {{ registro.casa | escape }} {{ registro.resumo | escape }}">
       <span class="votacao-item__numero" aria-hidden="true">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
       <div class="votacao-item__corpo"><p class="sobretitulo">{{ registro.casa | escape }} / {{ registro.proposicao | escape }} / {{ registro.tema | escape }}</p><h3>{{ registro.titulo | escape }}</h3><p>{{ registro.resumo | escape }}</p></div>
       <div class="votacao-item__meta"><strong>{{ registro.situacao | escape }}</strong><span>Atualizado em {{ registro.atualizado | date: "%d/%m/%Y" }}</span></div>
-      <span class="votacao-item__seta" aria-hidden="true">↗</span>
+      <span class="votacao-item__seta" aria-hidden="true">ABRIR ↗</span>
     </a>
     {% endfor %}
   </div>
