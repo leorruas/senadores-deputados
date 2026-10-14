@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **61 perfis criados** e **20 ainda não iniciados**.
+**Andamento:** **64 perfis criados** e **17 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -43,7 +43,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [x] [Eduardo Braga](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/eduardo-braga-mdb-am.md) (MDB) : **perfil criado**
 - [x] [Omar Aziz](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/omar-aziz-psd-am.md) (PSD) : **perfil criado**
-- [ ] Plínio Valério (PSDB) : pendente
+- [x] [Plínio Valério](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/plinio-valerio-psdb-am.md) (PSDB) : **perfil criado**
 
 ### BA
 
@@ -96,7 +96,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### MT
 
 - [ ] Carlos Fávaro (PSD) : pendente
-- [ ] Jayme Campos (União Brasil) : pendente
+- [x] [Jayme Campos](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/jayme-campos-uniao-mt.md) (União Brasil) : **perfil criado**
 - [x] [Wellington Fagundes](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/wellington-fagundes-pl-mt.md) (PL) : **perfil criado**
 
 ### PA
@@ -168,7 +168,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### SE
 
 - [x] [Alessandro Vieira](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/alessandro-vieira-mdb-se.md) (MDB) : **perfil criado**
-- [ ] Laércio Oliveira (PP) : pendente
+- [x] [Laércio Oliveira](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/laercio-oliveira-pp-se.md) (PP) : **perfil criado**
 - [x] [Rogério Carvalho](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/rogerio-carvalho-pt-se.md) (PT) : **perfil criado**
 
 ### SP
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 61 |
-| Fichas pendentes | 20 |
+| Fichas criadas | 64 |
+| Fichas pendentes | 17 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** adicionados perfis de Plínio Valério, Jayme Campos e Laércio Oliveira, com atos de 2026 e fontes oficiais. Total: 64 fichas; 17 pendentes.
 
 - **14/10/2026:** perfis de Cid Gomes, Confúcio Moura e Styvenson Valentim adicionados. Total: 61 de 81, 20 pendentes.
 
