@@ -4,6 +4,10 @@ Arquivo público de acompanhamento de senadores e deputados: votos nominais, eme
 
 O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): primeiro pesquisa de perfis em lotes, depois assuntos, votações e divisão entre Senado e Câmara.
 
+## Votações acompanhadas
+
+[Abrir índice de votações](https://leorruas.github.io/senadores-deputados/votacoes/). As propostas são cadastradas em [\`_data/votacoes.yml\`](_data/votacoes.yml), com páginas individuais em \`votacoes/\`. O primeiro registro é a [PEC 221/2019 — fim da escala 6x1](votacoes/pec-221-2019.md); relatos da sessão não são apresentados como votos nominais oficiais.
+
 ## Controle das 81 fichas do Senado
 
 [**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **81 criadas, 0 pendentes de criação.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
