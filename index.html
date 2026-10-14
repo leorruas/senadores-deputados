@@ -4,6 +4,8 @@ title: Parlamentares
 permalink: /
 ---
 {% assign perfis = site.pages | where: "layout", "perfil" | sort: "nome" %}
+{% assign estados = perfis | map: "uf" | uniq | sort %}
+{% assign partidos = perfis | map: "partido" | uniq | sort %}
 <section class="home-hero" aria-labelledby="titulo-inicial">
   <div class="home-hero__eyebrow">
     <p class="sobretitulo">Arquivo parlamentar / Brasil</p>
@@ -27,7 +29,7 @@ permalink: /
 
   <div class="filtros" role="search">
     <div class="campo-busca">
-      <label for="busca">01 / Busque um nome, estado ou assunto</label>
+      <label for="busca">01 / Nome ou assunto</label>
       <div class="campo-busca__linha">
         <input id="busca" type="search" placeholder="Buscar parlamentar..." autocomplete="off" aria-describedby="resultado-contagem">
         <button type="button" id="limpar-busca" class="limpar-busca" hidden>LIMPAR</button>
@@ -35,20 +37,34 @@ permalink: /
       </div>
     </div>
     <div class="campo-filtro">
-      <label for="cargo">02 / Cargo</label>
+      <label for="uf">02 / Estado</label>
+      <select id="uf">
+        <option value="">Todos os estados</option>
+        {% for estado in estados %}{% if estado != empty and estado != nil %}<option value="{{ estado | escape }}">{{ estado | escape }}</option>{% endif %}{% endfor %}
+      </select>
+    </div>
+    <div class="campo-filtro">
+      <label for="partido">03 / Partido</label>
+      <select id="partido">
+        <option value="">Todos os partidos</option>
+        {% for sigla in partidos %}{% if sigla != empty and sigla != nil %}<option value="{{ sigla | escape }}">{{ sigla | escape }}</option>{% endif %}{% endfor %}
+      </select>
+    </div>
+    <div class="campo-filtro">
+      <label for="cargo">04 / Cargo</label>
       <select id="cargo"><option value="">Todos os cargos</option><option value="senador">Senado</option><option value="deputado">Câmara</option></select>
     </div>
     <div class="campo-filtro">
-      <label for="situacao">03 / Situação eleitoral</label>
+      <label for="situacao">05 / Situação eleitoral</label>
       <select id="situacao"><option value="">Todas as situações</option><option value="Não reeleito em 2026">Não reeleitos em 2026</option><option value="Reeleito em 2026">Reeleitos em 2026</option><option value="Mandato até 2031">Mandatos até 2031</option><option value="A verificar">A verificar</option></select>
     </div>
   </div>
 
-  <div class="resultado-barra"><p id="resultado-contagem" class="resultado-contagem" role="status" aria-live="polite">{{ perfis | size }} perfis encontrados</p><span>Ordem alfabética</span></div>
+  <div class="resultado-barra"><p id="resultado-contagem" class="resultado-contagem" role="status" aria-live="polite">{{ perfis | size }} perfis encontrados</p><div class="resultado-barra__acoes"><button type="button" id="limpar-filtros" class="limpar-filtros" hidden>LIMPAR FILTROS ×</button><span>Ordem alfabética</span></div></div>
 
   <div class="lista-perfis" id="lista-perfis">
   {% for pessoa in perfis %}
-    <a class="cartao-perfil" href="{{ pessoa.url | relative_url }}" data-busca="{{ pessoa.nome | escape }} {{ pessoa.partido | escape }} {{ pessoa.uf | escape }} {{ pessoa.temas | join: ' ' | escape }} {{ pessoa.resumo | escape }}" data-cargo="{{ pessoa.cargo | downcase | escape }}" data-situacao="{{ pessoa.categoria_eleitoral | default: pessoa.situacao | escape }}">
+    <a class="cartao-perfil" href="{{ pessoa.url | relative_url }}" data-busca="{{ pessoa.nome | escape }} {{ pessoa.partido | escape }} {{ pessoa.uf | escape }} {{ pessoa.temas | join: ' ' | escape }} {{ pessoa.resumo | escape }}" data-uf="{{ pessoa.uf | escape }}" data-partido="{{ pessoa.partido | escape }}" data-cargo="{{ pessoa.cargo | downcase | escape }}" data-situacao="{{ pessoa.categoria_eleitoral | default: pessoa.situacao | escape }}">
       <span class="cartao-numero" aria-hidden="true">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
       <div class="cartao-principal">
         <p class="cartao-topo">{{ pessoa.cargo | upcase | escape }} / {{ pessoa.uf | escape }} / {{ pessoa.partido | escape }}</p>
@@ -60,6 +76,6 @@ permalink: /
     </a>
   {% endfor %}
   </div>
-  <p id="sem-resultados" class="sem-resultados" hidden>Nenhum perfil encontrado. Tente outro nome, estado ou tema.</p>
+  <p id="sem-resultados" class="sem-resultados" hidden>Nenhum perfil encontrado. Tente outra busca ou combinação de filtros.</p>
   <div class="catalogo-fim"><span>Fim do índice</span><span>Novas fichas são adicionadas ao arquivo</span></div>
 </section>
