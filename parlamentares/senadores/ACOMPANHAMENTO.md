@@ -15,7 +15,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 **Legenda:** `[x]` perfil já criado; `[ ]` ficha pendente. O objetivo deste controle é acompanhar a **criação das fichas**, não registrar voto favorável ou contrário.
 
-**Fontes:** [Senado Federal: relatório dos 81 senadores em exercício, 14/10/2026](https://adm.senado.gov.br/adm-dadosabertos/api/v1/senadores?formato=html) · [Acompanhamento específico da votação da PEC 221/2019](../votacoes/pec-221-2019.md).
+**Fontes:** [Senado Federal: relatório dos 81 senadores em exercício, 14/10/2026](https://adm.senado.gov.br/adm-dadosabertos/api/v1/senadores?formato=html) · [Acompanhamento específico da votação da PEC 221/2019](https://github.com/leorruas/senadores-deputados/blob/main/votacoes/pec-221-2019.md).
 
 **Partidos:** siglas baseadas no cadastro oficial consultado. Eliziane Gama está identificada como PT por sua filiação divulgada em abril de 2026, embora o relatório do Senado ainda a liste como PSD. Para evitar perda de contexto, mudanças posteriores devem ser registradas com data.
 
@@ -65,20 +65,20 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### ES
 
-- [x] [Fabiano Contarato](fabiano-contarato-pt-es.md) (PT) : **perfil criado**
+- [x] [Fabiano Contarato](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/fabiano-contarato-pt-es.md) (PT) : **perfil criado**
 - [ ] Magno Malta (PL) : pendente
 - [ ] Marcos do Val (Avante) : pendente
 
 ### GO
 
 - [ ] Jorge Kajuru (PSB) : pendente
-- [x] [Vanderlan Cardoso](vanderlan-cardoso-psd-go.md) (PSD) : **perfil criado**
+- [x] [Vanderlan Cardoso](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/vanderlan-cardoso-psd-go.md) (PSD) : **perfil criado**
 - [ ] Wilder Morais (PL) : pendente
 
 ### MA
 
 - [ ] Ana Paula Lobato (PSB) : pendente
-- [x] [Eliziane Gama](eliziane-gama-pt-ma.md) (PT) : **perfil criado**
+- [x] [Eliziane Gama](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/eliziane-gama-pt-ma.md) (PT) : **perfil criado**
 - [ ] Weverton (PDT) : pendente
 
 ### MG
@@ -114,8 +114,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### PE
 
 - [ ] Fernando Dueire (PSD) : pendente
-- [x] [Humberto Costa](humberto-costa-pt-pe.md) (PT) : **perfil criado**
-- [x] [Teresa Leitão](teresa-leitao-pt-pe.md) (PT) : **perfil criado**
+- [x] [Humberto Costa](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/humberto-costa-pt-pe.md) (PT) : **perfil criado**
+- [x] [Teresa Leitão](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/teresa-leitao-pt-pe.md) (PT) : **perfil criado**
 
 ### PI
 
@@ -139,7 +139,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [ ] Rogério Marinho (PL) : pendente
 - [ ] Styvenson Valentim (Podemos) : pendente
-- [x] [Zenaide Maia](zenaide-maia-psd-rn.md) (PSD) : **perfil criado**
+- [x] [Zenaide Maia](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/zenaide-maia-psd-rn.md) (PSD) : **perfil criado**
 
 ### RO
 
