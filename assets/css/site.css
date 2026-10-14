@@ -254,3 +254,7 @@ a:focus-visible, input:focus-visible, select:focus-visible { outline: 3px solid 
 .votacoes-nota p:not(.sobretitulo) { max-width: 65ch; }
 .votacoes-nota a { display: inline-block; margin-top: 1rem; font-size: .7rem; font-weight: 900; letter-spacing: .08em; }
 @media (max-width: 720px) { .votacoes-hero__rodape { align-items: start; flex-direction: column; gap: 1.3rem; } .votacao-item { grid-template-columns: 42px minmax(0,1fr) 24px; } .votacao-item__corpo { grid-column: 2; } .votacao-item__meta { grid-column: 2; grid-row: 2; } .votacao-item__seta { grid-column: 3; grid-row: 1; } .votacoes-nota { grid-template-columns: 1fr; } }
+
+.votacao-item__seta { justify-self: end; align-self: start; white-space: nowrap; font-size: .73rem; font-weight: 900; letter-spacing: .06em; }
+.votacao-item:hover .votacao-item__seta { color: var(--color-green); }
+@media(max-width:720px){.votacao-item__seta{font-size:.65rem;}}
