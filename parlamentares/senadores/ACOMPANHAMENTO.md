@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **17 perfis criados** e **64 ainda não iniciados**.
+**Andamento:** **19 perfis criados** e **62 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -84,7 +84,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### MG
 
 - [ ] Carlos Viana (PSD) : pendente
-- [ ] Cleitinho (Republicanos) : pendente
+- [x] [Cleitinho](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/cleitinho-republicanos-mg.md) (Republicanos) : **perfil criado**
 - [ ] Renzo Braz (PP) : pendente
 
 ### MS
@@ -131,7 +131,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### RJ
 
-- [ ] Carlos Portinho (PL) : pendente
+- [x] [Carlos Portinho](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/carlos-portinho-pl-rj.md) (PL) : **perfil criado**
 - [x] [Flávio Bolsonaro](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/flavio-bolsonaro-pl-rj.md) (PL) : **perfil criado**
 - [ ] Romário (Sem partido) : pendente
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 17 |
-| Fichas pendentes | 64 |
+| Fichas criadas | 19 |
+| Fichas pendentes | 62 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026, lote de duas fichas:** criados os perfis de Cleitinho e Carlos Portinho. Total: 19 fichas, 62 pendentes.
 
 - **14/10/2026, novo lote de três:** acrescentadas as fichas de Randolfe Rodrigues (AP), Davi Alcolumbre (AP) e Magno Malta (ES). Total atualizado para 17 fichas e 64 pendentes.
 
