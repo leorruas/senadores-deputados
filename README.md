@@ -6,7 +6,7 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 
 ## Controle das 81 fichas do Senado
 
-[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **64 criadas, 17 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
+[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **67 criadas, 14 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
 
 ## Perfis disponíveis
 
@@ -91,6 +91,10 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 | [Plínio Valério](parlamentares/senadores/plinio-valerio-psdb-am.md) | Senador, AM (PSDB) | Exercício em 2026 | Situação eleitoral a verificar |
 | [Jayme Campos](parlamentares/senadores/jayme-campos-uniao-mt.md) | Senador, MT (União Brasil) | Exercício em 2026 | Situação eleitoral a verificar |
 | [Laércio Oliveira](parlamentares/senadores/laercio-oliveira-pp-se.md) | Senador, SE (PP) | Exercício em 2026 | Situação eleitoral a verificar |
+
+| [Carlos Fávaro](parlamentares/senadores/carlos-favaro-psd-mt.md) | Senador, MT (PSD) | Exercício em 2026 | Detalhes do mandato a conferir |
+| [Astronauta Marcos Pontes](parlamentares/senadores/astronauta-marcos-pontes-pl-sp.md) | Senador, SP (PL) | 2023 a 2031 | Mandato em curso |
+| [Jussara Lima](parlamentares/senadores/jussara-lima-psd-pi.md) | Senadora, PI (PSD) | Exercício em 2026 | Detalhes do mandato a conferir |
 
 ## Acompanhamento de votações
 
