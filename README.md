@@ -6,7 +6,7 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 
 ## Controle das 81 fichas do Senado
 
-[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **52 criadas, 29 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
+[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **55 criadas, 26 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
 
 ## Perfis disponíveis
 
@@ -75,6 +75,10 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 | [Dra. Eudócia](parlamentares/senadores/dra-eudocia-psdb-al.md) | Senadora, AL (PSDB) | Exercício em 2026 | Detalhes do mandato a verificar |
 | [Lucas Barreto](parlamentares/senadores/lucas-barreto-psd-ap.md) | Senador, AP (PSD) | Exercício em 2026 | Detalhes do mandato a verificar |
 | [Roberta Acioly](parlamentares/senadores/roberta-acioly-republicanos-rr.md) | Senadora, RR (Republicanos) | Exercício em 2026 | Detalhes do mandato a verificar |
+
+| [Ivete da Silveira](parlamentares/senadores/ivete-da-silveira-mdb-sc.md) | Senadora, SC (MDB) | Exercício em 2026 | Situação eleitoral a verificar |
+| [Jorge Seif](parlamentares/senadores/jorge-seif-pl-sc.md) | Senador, SC (PL) | Exercício em 2026 | Situação eleitoral a verificar |
+| [Esperidião Amin](parlamentares/senadores/esperidiao-amin-pp-sc.md) | Senador, SC (PP) | Exercício em 2026 | Situação eleitoral a verificar |
 
 ## Acompanhamento de votações
 
