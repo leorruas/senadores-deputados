@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **22 perfis criados** e **59 ainda não iniciados**.
+**Andamento:** **25 perfis criados** e **56 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -90,7 +90,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### MS
 
 - [ ] Nelsinho Trad (PSD) : pendente
-- [ ] Soraya Thronicke (PSB) : pendente
+- [x] [Soraya Thronicke](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/soraya-thronicke-psb-ms.md) (PSB) : **perfil criado**
 - [x] [Tereza Cristina](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/tereza-cristina-pp-ms.md) (PP) : **perfil criado**
 
 ### MT
@@ -167,9 +167,9 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### SE
 
-- [ ] Alessandro Vieira (MDB) : pendente
+- [x] [Alessandro Vieira](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/alessandro-vieira-mdb-se.md) (MDB) : **perfil criado**
 - [ ] Laércio Oliveira (PP) : pendente
-- [ ] Rogério Carvalho (PT) : pendente
+- [x] [Rogério Carvalho](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/rogerio-carvalho-pt-se.md) (PT) : **perfil criado**
 
 ### SP
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 22 |
-| Fichas pendentes | 59 |
+| Fichas criadas | 25 |
+| Fichas pendentes | 56 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** adicionadas fichas de Alessandro Vieira, Rogério Carvalho e Soraya Thronicke. Total de 25 fichas, 56 pendentes. As fichas estão sujeitas a complementação documental.
 
 - **14/10/2026:** acrescentadas fichas iniciais de Jaques Wagner, Efraim Filho e Sergio Moro. Total: 22 fichas, 59 pendentes. Os votos da PEC 221/2019 seguem pendentes de confirmação nominal.
 
