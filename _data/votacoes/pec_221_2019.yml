@@ -1,0 +1,492 @@
+# PEC 221/2019 (fim da escala 6x1)
+# Base dos parlamentares em exercício: Senado Federal, 14/10/2026 às 15:42.
+# Dados de votação verificados na última consulta: NENHUM voto nominal publicado.
+# Este arquivo não é o resultado oficial, e não deve ser contado como placar.
+# primeiro_turno / segundo_turno: pendente | sim | nao | abstencao | nao_registrou
+# Registro preliminar != voto oficial.
+- nome: "Alan Rick"
+  uf: "AC"
+  partido: "Republicanos"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Marcio Bittar"
+  uf: "AC"
+  partido: "PL"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Sérgio Petecão"
+  uf: "AC"
+  partido: "PSD"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Dra. Eudócia"
+  uf: "AL"
+  partido: "PSDB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Renan Calheiros"
+  uf: "AL"
+  partido: "MDB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Renan Filho"
+  uf: "AL"
+  partido: "MDB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Davi Alcolumbre"
+  uf: "AP"
+  partido: "União Brasil"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Lucas Barreto"
+  uf: "AP"
+  partido: "PSD"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Randolfe Rodrigues"
+  uf: "AP"
+  partido: "PT"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Eduardo Braga"
+  uf: "AM"
+  partido: "MDB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Omar Aziz"
+  uf: "AM"
+  partido: "PSD"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Plínio Valério"
+  uf: "AM"
+  partido: "PSDB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Angelo Coronel"
+  uf: "BA"
+  partido: "Republicanos"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Jaques Wagner"
+  uf: "BA"
+  partido: "PT"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Otto Alencar"
+  uf: "BA"
+  partido: "PSD"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Camilo Santana"
+  uf: "CE"
+  partido: "PT"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Cid Gomes"
+  uf: "CE"
+  partido: "PSB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Sargento Reginauro"
+  uf: "CE"
+  partido: "PSDB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Damares Alves"
+  uf: "DF"
+  partido: "Republicanos"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Izalci Lucas"
+  uf: "DF"
+  partido: "PL"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Leany Lemos"
+  uf: "DF"
+  partido: "PSB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Fabiano Contarato"
+  uf: "ES"
+  partido: "PT"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: "Sim informado pelo usuário durante a sessão de 14/10/2026; sem confirmação do mapa nominal."
+- nome: "Magno Malta"
+  uf: "ES"
+  partido: "PL"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Marcos do Val"
+  uf: "ES"
+  partido: "Avante"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Jorge Kajuru"
+  uf: "GO"
+  partido: "PSB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Vanderlan Cardoso"
+  uf: "GO"
+  partido: "PSD"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: "Sim informado pelo usuário durante a sessão de 14/10/2026; sem confirmação do mapa nominal."
+- nome: "Wilder Morais"
+  uf: "GO"
+  partido: "PL"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Ana Paula Lobato"
+  uf: "MA"
+  partido: "PSB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Eliziane Gama"
+  uf: "MA"
+  partido: "PT"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: "Sim informado pelo usuário durante a sessão de 14/10/2026; sem confirmação do mapa nominal."
+- nome: "Weverton"
+  uf: "MA"
+  partido: "PDT"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Carlos Viana"
+  uf: "MG"
+  partido: "PSD"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Cleitinho"
+  uf: "MG"
+  partido: "Republicanos"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Renzo Braz"
+  uf: "MG"
+  partido: "PP"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Nelsinho Trad"
+  uf: "MS"
+  partido: "PSD"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Soraya Thronicke"
+  uf: "MS"
+  partido: "PSB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Tereza Cristina"
+  uf: "MS"
+  partido: "PP"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Carlos Fávaro"
+  uf: "MT"
+  partido: "PSD"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Jayme Campos"
+  uf: "MT"
+  partido: "União Brasil"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Wellington Fagundes"
+  uf: "MT"
+  partido: "PL"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Beto Faro"
+  uf: "PA"
+  partido: "PT"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Jader Barbalho"
+  uf: "PA"
+  partido: "MDB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Zequinha Marinho"
+  uf: "PA"
+  partido: "Podemos"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Daniella Ribeiro"
+  uf: "PB"
+  partido: "PP"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Efraim Filho"
+  uf: "PB"
+  partido: "PL"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Veneziano Vital do Rêgo"
+  uf: "PB"
+  partido: "MDB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Fernando Dueire"
+  uf: "PE"
+  partido: "PSD"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Humberto Costa"
+  uf: "PE"
+  partido: "PT"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Teresa Leitão"
+  uf: "PE"
+  partido: "PT"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Ciro Nogueira"
+  uf: "PI"
+  partido: "PP"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Jussara Lima"
+  uf: "PI"
+  partido: "PSD"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Marcelo Castro"
+  uf: "PI"
+  partido: "MDB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Flávio Arns"
+  uf: "PR"
+  partido: "PSB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Oriovisto Guimarães"
+  uf: "PR"
+  partido: "PSDB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Sergio Moro"
+  uf: "PR"
+  partido: "PL"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Carlos Portinho"
+  uf: "RJ"
+  partido: "PL"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Flávio Bolsonaro"
+  uf: "RJ"
+  partido: "PL"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Romário"
+  uf: "RJ"
+  partido: "Sem partido"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Rogério Marinho"
+  uf: "RN"
+  partido: "PL"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Styvenson Valentim"
+  uf: "RN"
+  partido: "Podemos"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Zenaide Maia"
+  uf: "RN"
+  partido: "PSD"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: "Sim informado pelo usuário durante a sessão de 14/10/2026; sem confirmação do mapa nominal."
+- nome: "Confúcio Moura"
+  uf: "RO"
+  partido: "MDB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Jaime Bagattoli"
+  uf: "RO"
+  partido: "PL"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Marcos Rogério"
+  uf: "RO"
+  partido: "PL"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Chico Rodrigues"
+  uf: "RR"
+  partido: "PSB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Dr. Hiran"
+  uf: "RR"
+  partido: "PP"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Roberta Acioly"
+  uf: "RR"
+  partido: "Republicanos"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Hamilton Mourão"
+  uf: "RS"
+  partido: "Republicanos"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Luis Carlos Heinze"
+  uf: "RS"
+  partido: "PP"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Paulo Paim"
+  uf: "RS"
+  partido: "PT"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Esperidião Amin"
+  uf: "SC"
+  partido: "PP"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Ivete da Silveira"
+  uf: "SC"
+  partido: "MDB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Jorge Seif"
+  uf: "SC"
+  partido: "PL"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Alessandro Vieira"
+  uf: "SE"
+  partido: "MDB"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Laércio Oliveira"
+  uf: "SE"
+  partido: "PP"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Rogério Carvalho"
+  uf: "SE"
+  partido: "PT"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Astronauta Marcos Pontes"
+  uf: "SP"
+  partido: "PL"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Giordano"
+  uf: "SP"
+  partido: "Podemos"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Mara Gabrilli"
+  uf: "SP"
+  partido: "PSD"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Eduardo Gomes"
+  uf: "TO"
+  partido: "PL"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Irajá"
+  uf: "TO"
+  partido: "PSD"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
+- nome: "Professora Dorinha Seabra"
+  uf: "TO"
+  partido: "União Brasil"
+  primeiro_turno: pendente
+  segundo_turno: pendente
+  informacao_preliminar: ""
