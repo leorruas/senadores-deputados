@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **46 perfis criados** e **35 ainda não iniciados**.
+**Andamento:** **49 perfis criados** e **32 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -23,9 +23,9 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### AC
 
-- [ ] Alan Rick (Republicanos) : pendente
-- [ ] Marcio Bittar (PL) : pendente
-- [ ] Sérgio Petecão (PSD) : pendente
+- [x] [Alan Rick](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/alan-rick-republicanos-ac.md) (Republicanos) : **perfil criado**
+- [x] [Marcio Bittar](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/marcio-bittar-pl-ac.md) (PL) : **perfil criado**
+- [x] [Sérgio Petecão](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/sergio-petecao-psd-ac.md) (PSD) : **perfil criado**
 
 ### AL
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 46 |
-| Fichas pendentes | 35 |
+| Fichas criadas | 49 |
+| Fichas pendentes | 32 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** fichas iniciais de Alan Rick, Marcio Bittar e Sérgio Petecão (AC) com propostas e atos de 2026. Total: 49 de 81.
 
 - **14/10/2026:** fichas iniciais de Ana Paula Lobato, Mara Gabrilli e Romário, com fontes legislativas. Total: 46 de 81.
 
