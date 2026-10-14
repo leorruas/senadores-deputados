@@ -6,8 +6,11 @@ Arquivo público de acompanhamento de senadores e deputados: votos nominais, eme
 
 | Parlamentar | Cargo e UF | Mandato | Situação em outubro de 2026 |
 | --- | --- | --- | --- |
+| [Eliziane Gama](parlamentares/senadores/eliziane-gama-pt-ma.md) | Senadora, MA (PT; antes PSD) | 2019 a 2027 | Não reeleita |
+| [Fabiano Contarato](parlamentares/senadores/fabiano-contarato-pt-es.md) | Senador, ES (PT) | 2019 a 2027 | Não reeleito |
+| [Humberto Costa](parlamentares/senadores/humberto-costa-pt-pe.md) | Senador, PE (PT) | Reeleito para 2027 a 2035 | Reeleito |
 | [Vanderlan Cardoso](parlamentares/senadores/vanderlan-cardoso-psd-go.md) | Senador, GO (PSD) | 2019 a 2027 | Não reeleito |
-| [Eliziane Gama](parlamentares/senadores/eliziane-gama-pt-ma.md) | Senadora, MA (PT; anteriormente PSD) | 2019 a 2027 | Não reeleita |
+| [Zenaide Maia](parlamentares/senadores/zenaide-maia-psd-rn.md) | Senadora, RN (PSD) | 2019 a 2027 | Não reeleita |
 
 ## Site de consulta
 
@@ -51,3 +54,8 @@ A pesquisa é incremental: **um campo ainda não investigado não equivale a aus
 ## Linguagem dos perfis
 
 Escrever para quem não acompanha o Congresso diariamente. Usar frases curtas e explicar PEC, comissão, emenda e votação quando necessário. Para cada proposta, dizer em linguagem direta **o que mudaria na vida das pessoas** e quem ganha poder de decisão. Distinguir “assinou”, “propôs”, “disse” e “votou”. Evitar elogios automáticos, rótulos políticos sem prova e termos vagos como “flexibilização” para mudanças que podem reduzir direitos. O texto pode ter uma leitura crítica, mas deve deixar claras as evidências, as perguntas abertas e os limites da pesquisa.
+
+
+## Direção visual
+
+O site usa os mesmos fundamentos gráficos do projeto [Você votaria nesta proposta?](https://github.com/leorruas/campanha): **Archivo**, fundo branco, texto preto, verde **#00823f**, amarelo **#f4c400**, grades modulares, letras grandes, números de índice e linhas finas. Os cartões foram substituídos por uma listagem editorial. As páginas de perfil usam título tipográfico, dados de mandato em uma coluna própria e índice lateral de leitura. A busca permite links com `?q=`; o atalho `/` abre a busca e `Esc` a limpa. A tipografia e a estrutura se adaptam a telas menores.
