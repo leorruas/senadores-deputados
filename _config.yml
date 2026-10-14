@@ -1,0 +1,15 @@
+title: "Arquivo parlamentar"
+description: "Histórico verificável de votos, propostas e posicionamentos de senadores e deputados."
+url: "https://leorruas.github.io"
+baseurl: "/senadores-deputados"
+lang: "pt-BR"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+permalink: pretty
+exclude:
+  - README.md
+  - MODELO.md
+  - Gemfile
+  - Gemfile.lock
