@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **67 perfis criados** e **14 ainda não iniciados**.
+**Andamento:** **70 perfis criados** e **11 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -145,7 +145,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [x] [Confúcio Moura](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/confucio-moura-mdb-ro.md) (MDB) : **perfil criado**
 - [x] [Jaime Bagattoli](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/jaime-bagattoli-pl-ro.md) (PL) : **perfil criado**
-- [ ] Marcos Rogério (PL) : pendente
+- [x] [Marcos Rogério](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/marcos-rogerio-pl-ro.md) (PL) : **perfil criado**
 
 ### RR
 
@@ -179,16 +179,16 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### TO
 
-- [ ] Eduardo Gomes (PL) : pendente
-- [ ] Irajá (PSD) : pendente
+- [x] [Eduardo Gomes](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/eduardo-gomes-pl-to.md) (PL) : **perfil criado**
+- [x] [Irajá](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/iraja-psd-to.md) (PSD) : **perfil criado**
 - [x] [Professora Dorinha Seabra](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/professora-dorinha-seabra-uniao-to.md) (União Brasil) : **perfil criado**
 
 ## Resumo do andamento
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 67 |
-| Fichas pendentes | 14 |
+| Fichas criadas | 70 |
+| Fichas pendentes | 11 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** fichas iniciais de Marcos Rogério, Eduardo Gomes e Irajá. Total: 70 de 81.
 
 - **14/10/2026:** fichas iniciais de Carlos Fávaro, Astronauta Marcos Pontes e Jussara Lima adicionadas. Total 67 de 81.
 
