@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **34 perfis criados** e **47 ainda não iniciados**.
+**Andamento:** **37 perfis criados** e **44 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -49,7 +49,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [ ] Angelo Coronel (Republicanos) : pendente
 - [x] [Jaques Wagner](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/jaques-wagner-pt-ba.md) (PT) : **perfil criado**
-- [ ] Otto Alencar (PSD) : pendente
+- [x] [Otto Alencar](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/otto-alencar-psd-ba.md) (PSD) : **perfil criado**
 
 ### CE
 
@@ -119,9 +119,9 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### PI
 
-- [ ] Ciro Nogueira (PP) : pendente
+- [x] [Ciro Nogueira](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/ciro-nogueira-pp-pi.md) (PP) : **perfil criado**
 - [ ] Jussara Lima (PSD) : pendente
-- [ ] Marcelo Castro (MDB) : pendente
+- [x] [Marcelo Castro](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/marcelo-castro-mdb-pi.md) (MDB) : **perfil criado**
 
 ### PR
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 34 |
-| Fichas pendentes | 47 |
+| Fichas criadas | 37 |
+| Fichas pendentes | 44 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** incluídas fichas iniciais de Ciro Nogueira, Marcelo Castro e Otto Alencar, com atos legislativos documentados. Contagem: 37 criadas e 44 pendentes.
 
 - **14/10/2026:** fichas de Renan Calheiros, Eduardo Braga e Damares Alves adicionadas. Total: 34 iniciadas, 47 pendentes. Votos da PEC 221/2019 ainda dependem de confirmação individual.
 
