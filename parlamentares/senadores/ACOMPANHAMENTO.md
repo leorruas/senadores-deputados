@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **11 perfis criados** e **70 ainda não iniciados**.
+**Andamento:** **14 perfis criados** e **67 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -91,7 +91,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [ ] Nelsinho Trad (PSD) : pendente
 - [ ] Soraya Thronicke (PSB) : pendente
-- [ ] Tereza Cristina (PP) : pendente
+- [x] [Tereza Cristina](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/tereza-cristina-pp-ms.md) (PP) : **perfil criado**
 
 ### MT
 
@@ -144,7 +144,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### RO
 
 - [ ] Confúcio Moura (MDB) : pendente
-- [ ] Jaime Bagattoli (PL) : pendente
+- [x] [Jaime Bagattoli](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/jaime-bagattoli-pl-ro.md) (PL) : **perfil criado**
 - [ ] Marcos Rogério (PL) : pendente
 
 ### RR
@@ -155,7 +155,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### RS
 
-- [ ] Hamilton Mourão (Republicanos) : pendente
+- [x] [Hamilton Mourão](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/hamilton-mourao-republicanos-rs.md) (Republicanos) : **perfil criado**
 - [ ] Luis Carlos Heinze (PP) : pendente
 - [x] [Paulo Paim](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/paulo-paim-pt-rs.md) (PT) : **perfil criado**
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 11 |
-| Fichas pendentes | 70 |
+| Fichas criadas | 14 |
+| Fichas pendentes | 67 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026, lote de três:** acrescentadas Tereza Cristina (MS), Hamilton Mourão (RS) e Jaime Bagattoli (RO). O controle passa a 14 fichas, com 67 pendências. As três fichas registram posição contrária ao relatório da PEC 221/2019 na CCJ, sem confundir isso com votação nominal de plenário.
 
 - **14/10/2026:** cinco perfis adicionados: Omar Aziz, Rogério Marinho, Paulo Paim, Oriovisto Guimarães e Flávio Bolsonaro (11 fichas no total).
 - **14/10/2026:** controle inicial com os 81 senadores em exercício, segundo o Senado Federal. Seis fichas marcadas como criadas: Eliziane Gama, Fabiano Contarato, Humberto Costa, Teresa Leitão, Vanderlan Cardoso e Zenaide Maia.
