@@ -3,26 +3,37 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#f6f5f0">
+  <meta name="theme-color" content="#ffffff">
   <meta name="description" content="{{ page.resumo | default: site.description | escape }}">
   <title>{% if page.nome %}{{ page.nome | escape }} : {% elsif page.title %}{{ page.title | escape }} : {% endif %}{{ site.title | escape }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
   <script src="{{ '/assets/js/site.js' | relative_url }}" defer></script>
 </head>
 <body>
-  <a class="pular" href="#conteudo">Pular para o conteúdo</a>
-  <div class="barra-superior"><div class="container barra-interna"><span>Observatório independente</span><span>Arquivo público · atualizado por pesquisa</span></div></div>
+  <a class="pular" href="#conteudo">Ir para o conteúdo</a>
+  <div class="barra-superior">
+    <div class="container barra-interna"><span>BRASIL / PODER LEGISLATIVO</span><span>HISTÓRICO PÚBLICO DE ATUAÇÃO PARLAMENTAR</span><span>2026 / EM CONSTRUÇÃO</span></div>
+  </div>
   <header class="cabecalho container">
-    <a class="marca" href="{{ '/' | relative_url }}" aria-label="Arquivo parlamentar: página inicial">ARQUIVO<span>PARLAMENTAR</span><span class="marca-ponto">.</span></a>
+    <a class="marca" href="{{ '/' | relative_url }}" aria-label="Arquivo parlamentar, página inicial">
+      <img src="{{ '/assets/img/bandeira.svg' | relative_url }}" alt="" width="30" height="22">
+      <span>ARQUIVO<br>PARLAMENTAR<span class="marca-ponto">.</span></span>
+    </a>
     <nav class="navegacao" aria-label="Navegação principal">
-      <a href="{{ '/' | relative_url }}">Parlamentares</a>
-      <a href="{{ '/metodologia/' | relative_url }}">Metodologia</a>
-      <a href="https://github.com/leorruas/senadores-deputados" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+      <a href="{{ '/' | relative_url }}">PARLAMENTARES</a>
+      <a href="{{ '/metodologia/' | relative_url }}">METODOLOGIA</a>
+      <a href="https://github.com/leorruas/senadores-deputados" target="_blank" rel="noopener noreferrer">REPOSITÓRIO ↗</a>
     </nav>
   </header>
   <main id="conteudo" class="container conteudo-principal">{{ content }}</main>
   <footer class="rodape">
-    <div class="container rodape-interno"><p>Arquivo parlamentar. Dados, fontes e hipóteses com registro de atualização.</p><a href="https://github.com/leorruas/senadores-deputados" target="_blank" rel="noopener noreferrer">Consultar os arquivos no GitHub ↗</a></div>
+    <div class="container rodape-interno">
+      <div><p class="rodape-marca">ARQUIVO<br>PARLAMENTAR<span class="ponto-titulo">.</span></p><p>Pesquisa independente com fontes verificáveis.</p></div>
+      <div><span>CONSULTA PÚBLICA / DADOS E HISTÓRICO</span><a href="https://github.com/leorruas/senadores-deputados" target="_blank" rel="noopener noreferrer">VER ARQUIVOS NO GITHUB ↗</a></div>
+    </div>
   </footer>
 </body>
 </html>
