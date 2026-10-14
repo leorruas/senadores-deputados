@@ -4,7 +4,7 @@ Arquivo público de acompanhamento de senadores e deputados: votos nominais, eme
 
 ## Controle das 81 fichas do Senado
 
-[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **6 criadas, 75 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
+[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **11 criadas, 70 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
 
 ## Perfis disponíveis
 
@@ -13,6 +13,11 @@ Arquivo público de acompanhamento de senadores e deputados: votos nominais, eme
 | [Eliziane Gama](parlamentares/senadores/eliziane-gama-pt-ma.md) | Senadora, MA (PT; antes PSD) | 2019 a 2027 | Não reeleita |
 | [Fabiano Contarato](parlamentares/senadores/fabiano-contarato-pt-es.md) | Senador, ES (PT) | 2019 a 2027 | Não reeleito |
 | [Humberto Costa](parlamentares/senadores/humberto-costa-pt-pe.md) | Senador, PE (PT) | Reeleito para 2027 a 2035 | Reeleito |
+| [Flávio Bolsonaro](parlamentares/senadores/flavio-bolsonaro-pl-rj.md) | Senador, RJ (PL) | 2019 a 2027 | Situação posterior pendente |
+| [Omar Aziz](parlamentares/senadores/omar-aziz-psd-am.md) | Senador, AM (PSD) | 2023 a 2031 | Mandato em curso |
+| [Oriovisto Guimarães](parlamentares/senadores/oriovisto-guimaraes-psdb-pr.md) | Senador, PR (PSDB) | 2019 a 2027 | Eleição de 2026 a verificar |
+| [Paulo Paim](parlamentares/senadores/paulo-paim-pt-rs.md) | Senador, RS (PT) | 2019 a 2027 | Não concorreu em 2026 |
+| [Rogério Marinho](parlamentares/senadores/rogerio-marinho-pl-rn.md) | Senador, RN (PL) | 2023 a 2031 | Mandato em curso |
 | [Teresa Leitão](parlamentares/senadores/teresa-leitao-pt-pe.md) | Senadora, PE (PT) | 2023 a 2031 | Mandato em curso; não disputou em 2026 |
 | [Vanderlan Cardoso](parlamentares/senadores/vanderlan-cardoso-psd-go.md) | Senador, GO (PSD) | 2019 a 2027 | Não reeleito |
 | [Zenaide Maia](parlamentares/senadores/zenaide-maia-psd-rn.md) | Senadora, RN (PSD) | 2019 a 2027 | Não reeleita |
