@@ -1,3 +1,23 @@
+---
+layout: perfil
+nome: Vanderlan Cardoso
+title: Vanderlan Cardoso
+partido: PSD
+uf: GO
+cargo: Senador
+mandato: "2019 a 2027"
+situacao: "Não reeleito em 2026"
+categoria_eleitoral: "Não reeleito em 2026"
+atualizado: 2026-10-14
+permalink: /parlamentares/senadores/vanderlan-cardoso/
+resumo: "Signatário da PEC das horas trabalhadas e autor de emendas à PEC do fim da escala 6x1. Declarou apoio ao fim da escala em outubro de 2026."
+temas:
+  - Jornada de trabalho
+  - Escala 6x1
+  - PEC 12/2026
+  - Direitos trabalhistas
+  - Eleições 2026
+---
 # Vanderlan Cardoso (PSD-GO)
 
 **Ficha iniciada em:** 14/10/2026  
