@@ -6,7 +6,7 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 
 ## Controle das 81 fichas do Senado
 
-[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **49 criadas, 32 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
+[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **52 criadas, 29 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
 
 ## Perfis disponíveis
 
@@ -71,6 +71,10 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 | [Alan Rick](parlamentares/senadores/alan-rick-republicanos-ac.md) | Senador, AC (Republicanos) | 2019 a 2027 | Eleição a verificar |
 | [Marcio Bittar](parlamentares/senadores/marcio-bittar-pl-ac.md) | Senador, AC (PL) | 2019 a 2027 | Eleição a verificar |
 | [Sérgio Petecão](parlamentares/senadores/sergio-petecao-psd-ac.md) | Senador, AC (PSD) | 2019 a 2027 | Eleição a verificar |
+
+| [Dra. Eudócia](parlamentares/senadores/dra-eudocia-psdb-al.md) | Senadora, AL (PSDB) | Exercício em 2026 | Detalhes do mandato a verificar |
+| [Lucas Barreto](parlamentares/senadores/lucas-barreto-psd-ap.md) | Senador, AP (PSD) | Exercício em 2026 | Detalhes do mandato a verificar |
+| [Roberta Acioly](parlamentares/senadores/roberta-acioly-republicanos-rr.md) | Senadora, RR (Republicanos) | Exercício em 2026 | Detalhes do mandato a verificar |
 
 ## Acompanhamento de votações
 
