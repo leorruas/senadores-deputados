@@ -19,7 +19,7 @@ permalink: /
   <p id="resultado-contagem" class="resultado-contagem" aria-live="polite">{{ perfis | size }} perfis no arquivo</p>
   <div class="lista-perfis" id="lista-perfis">
   {% for pessoa in perfis %}
-    <a class="cartao-perfil" href="{{ pessoa.url | relative_url }}" data-busca="{{ pessoa.nome | escape }} {{ pessoa.partido | escape }} {{ pessoa.uf | escape }} {{ pessoa.temas | join: ' ' | escape }} {{ pessoa.resumo | escape }}" data-cargo="{{ pessoa.cargo | downcase | escape }}" data-situacao="{{ pessoa.situacao | escape }}">
+    <a class="cartao-perfil" href="{{ pessoa.url | relative_url }}" data-busca="{{ pessoa.nome | escape }} {{ pessoa.partido | escape }} {{ pessoa.uf | escape }} {{ pessoa.temas | join: ' ' | escape }} {{ pessoa.resumo | escape }}" data-cargo="{{ pessoa.cargo | downcase | escape }}" data-situacao="{{ pessoa.categoria_eleitoral | default: pessoa.situacao | escape }}">
       <div class="cartao-topo"><span>{{ pessoa.cargo | escape }} · {{ pessoa.uf | escape }}</span><span>Atualizado em {{ pessoa.atualizado | date: "%d/%m/%Y" }}</span></div>
       <div class="cartao-centro"><div><h3>{{ pessoa.nome | escape }}</h3><p class="cartao-partido">{{ pessoa.partido | escape }} · {{ pessoa.mandato | escape }}</p></div><span class="seta-cartao" aria-hidden="true">↗</span></div>
       <p class="cartao-resumo">{{ pessoa.resumo | escape }}</p><div class="cartao-rodape"><strong>{{ pessoa.situacao | escape }}</strong><span>Ver perfil →</span></div>
