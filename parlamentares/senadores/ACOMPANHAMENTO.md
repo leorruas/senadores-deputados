@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **76 perfis criados** e **5 ainda não iniciados**.
+**Andamento:** **79 perfis criados** e **2 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -47,7 +47,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### BA
 
-- [ ] Angelo Coronel (Republicanos) : pendente
+- [x] [Angelo Coronel](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/angelo-coronel-republicanos-ba.md) (Republicanos) : **perfil criado (pesquisa documental pendente)**
 - [x] [Jaques Wagner](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/jaques-wagner-pt-ba.md) (PT) : **perfil criado**
 - [x] [Otto Alencar](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/otto-alencar-psd-ba.md) (PSD) : **perfil criado**
 
@@ -55,13 +55,13 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [x] [Camilo Santana](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/camilo-santana-pt-ce.md) (PT) : **perfil criado (pesquisa a completar)**
 - [x] [Cid Gomes](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/cid-gomes-psb-ce.md) (PSB) : **perfil criado**
-- [ ] Sargento Reginauro (PSDB) : pendente
+- [x] [Sargento Reginauro](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/sargento-reginauro-psdb-ce.md) (PSDB) : **perfil criado (pesquisa documental pendente)**
 
 ### DF
 
 - [x] [Damares Alves](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/damares-alves-republicanos-df.md) (Republicanos) : **perfil criado**
 - [x] [Izalci Lucas](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/izalci-lucas-pl-df.md) (PL) : **perfil criado**
-- [ ] Leany Lemos (PSB) : pendente
+- [x] [Leany Lemos](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/leany-lemos-psb-df.md) (PSB) : **perfil criado (pesquisa documental pendente)**
 
 ### ES
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 76 |
-| Fichas pendentes | 5 |
+| Fichas criadas | 79 |
+| Fichas pendentes | 2 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** fichas iniciais de Angelo Coronel, Sargento Reginauro e Leany Lemos, com pesquisa documental pendente. Total: 79 de 81.
 
 - **14/10/2026:** fichas de identificação de Jorge Kajuru, Wilder Morais e Luis Carlos Heinze criadas, ainda sem pesquisa de atos legislativos. Total: 76 de 81.
 
