@@ -6,7 +6,7 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 
 ## Controle das 81 fichas do Senado
 
-[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **31 criadas, 50 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
+[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **34 criadas, 47 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
 
 ## Perfis disponíveis
 
@@ -47,6 +47,10 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 | [Weverton](parlamentares/senadores/weverton-pdt-ma.md) | Senador, MA (PDT) | 2019 a 2027 | Eleição a verificar |
 | [Flávio Arns](parlamentares/senadores/flavio-arns-psb-pr.md) | Senador, PR (PSB) | 2019 a 2027 | Eleição a verificar |
 | [Veneziano Vital do Rêgo](parlamentares/senadores/veneziano-vital-do-rego-mdb-pb.md) | Senador, PB (MDB) | 2019 a 2027 | Eleição a verificar |
+
+| [Renan Calheiros](parlamentares/senadores/renan-calheiros-mdb-al.md) | Senador, AL (MDB) | 2019 a 2027 | Eleição a verificar |
+| [Eduardo Braga](parlamentares/senadores/eduardo-braga-mdb-am.md) | Senador, AM (MDB) | 2019 a 2027 | Eleição a verificar |
+| [Damares Alves](parlamentares/senadores/damares-alves-republicanos-df.md) | Senadora, DF (Republicanos) | 2023 a 2031 | Mandato em curso |
 
 ## Acompanhamento de votações
 
