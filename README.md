@@ -13,6 +13,10 @@ Arquivo público de acompanhamento de senadores e deputados: votos nominais, eme
 | [Vanderlan Cardoso](parlamentares/senadores/vanderlan-cardoso-psd-go.md) | Senador, GO (PSD) | 2019 a 2027 | Não reeleito |
 | [Zenaide Maia](parlamentares/senadores/zenaide-maia-psd-rn.md) | Senadora, RN (PSD) | 2019 a 2027 | Não reeleita |
 
+## Acompanhamento de votações
+
+- [PEC 221/2019: fim da escala 6x1](votacoes/pec-221-2019.md): registro iniciado em 14/10/2026 com quatro manifestações “sim” informadas durante o acompanhamento da sessão. A confirmação de voto nominal depende do mapa oficial do Senado; os turnos e eventuais destaques serão registrados separadamente.
+
 ## Site de consulta
 
 Este repositório também contém um site gerado por Jekyll, com índice, busca, filtros e páginas individuais a partir dos arquivos Markdown. **Os Markdown são a fonte única de cada perfil**: não é necessário alimentar um banco separado.
