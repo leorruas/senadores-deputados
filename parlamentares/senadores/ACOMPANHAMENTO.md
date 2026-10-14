@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **31 perfis criados** e **50 ainda não iniciados**.
+**Andamento:** **34 perfis criados** e **47 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -30,7 +30,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 ### AL
 
 - [ ] Dra. Eudócia (PSDB) : pendente
-- [ ] Renan Calheiros (MDB) : pendente
+- [x] [Renan Calheiros](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/renan-calheiros-mdb-al.md) (MDB) : **perfil criado**
 - [ ] Renan Filho (MDB) : pendente
 
 ### AP
@@ -41,7 +41,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### AM
 
-- [ ] Eduardo Braga (MDB) : pendente
+- [x] [Eduardo Braga](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/eduardo-braga-mdb-am.md) (MDB) : **perfil criado**
 - [x] [Omar Aziz](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/omar-aziz-psd-am.md) (PSD) : **perfil criado**
 - [ ] Plínio Valério (PSDB) : pendente
 
@@ -59,7 +59,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### DF
 
-- [ ] Damares Alves (Republicanos) : pendente
+- [x] [Damares Alves](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/damares-alves-republicanos-df.md) (Republicanos) : **perfil criado**
 - [ ] Izalci Lucas (PL) : pendente
 - [ ] Leany Lemos (PSB) : pendente
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 31 |
-| Fichas pendentes | 50 |
+| Fichas criadas | 34 |
+| Fichas pendentes | 47 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** fichas de Renan Calheiros, Eduardo Braga e Damares Alves adicionadas. Total: 34 iniciadas, 47 pendentes. Votos da PEC 221/2019 ainda dependem de confirmação individual.
 
 - **14/10/2026:** fichas iniciais de Weverton, Flávio Arns e Veneziano Vital do Rêgo. Total: 31 fichas, 50 pendentes.
 
