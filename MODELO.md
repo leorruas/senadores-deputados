@@ -1,55 +1,76 @@
-# [Nome do parlamentar] ([Partido]-[UF])
+---
+layout: perfil
+nome: Nome do Parlamentar
+title: Nome do Parlamentar
+partido: SIGLA
+uf: UF
+cargo: Senador
+mandato: "2023 a 2031"
+situacao: "Mandato até 2031"
+categoria_eleitoral: "Mandato até 2031"
+atualizado: 2026-10-14
+permalink: /parlamentares/senadores/nome-do-parlamentar/
+resumo: "Síntese factual e curta do que esta ficha investiga."
+temas:
+  - Tema principal
+  - Outro tema
+---
+# Nome do Parlamentar (SIGLA-UF)
 
-**Criado em:** AAAA-MM-DD  
-**Última verificação:** AAAA-MM-DD  
+**Ficha iniciada em:** DD/MM/AAAA  
+**Última verificação:** DD/MM/AAAA  
 **Cargo:** senador / deputado federal  
-**Mandato:** início a fim  
-**Eleição mais recente:** eleito / reeleito / não eleito / não concorreu / suplente / a verificar  
-**Situação para o ano seguinte:** continuará / encerrará mandato / indefinida, com fonte.
+**Mandato:** datas de início e fim  
+**Situação eleitoral:** reeleito, eleito, não reeleito, não concorreu ou ainda a verificar, com link para a apuração.
 
-## Resumo investigativo
+## Síntese investigativa
 
-Descrever, em poucos parágrafos, a principal questão a investigar, separando fatos, interpretações e hipóteses.
+Descrever o tema e os acontecimentos centrais, com fatos, fontes, limites e hipóteses separados.
 
 ## Linha do tempo
 
-| Data | Fato | Tipo de registro | Fonte |
+| Data | Fato verificável | Tipo de registro | Fonte |
 | --- | --- | --- | --- |
-| AAAA-MM-DD | Descrição com contexto | Voto nominal / votação simbólica / declaração / proposta / emenda / eleição | URL |
+| DD/MM/AAAA | Contexto do ato | Votação nominal, emenda, proposta, declaração, eleição | URL |
 
-## Propostas, PECs e emendas
+## Propostas e PECs relevantes
 
-### [Número e ano]: [tema]
+### PEC / PL nº/ano: tema
 
-**Papel:** autor principal / signatário / relator / autor de emenda.  
-**Regra atual:** identificar.  
-**Mudança proposta:** identificar.  
-**Quem recebe poder ou proteção:** descrever.  
+**Papel:** primeiro autor, signatário, relator ou autor de emenda.  
+**Regra atual:** o que vale hoje.  
+**Mudança proposta:** o que mudaria efetivamente.  
+**Quem ganha poder de decisão:** quais agentes, com quais limitações.  
 **Situação da tramitação:** consultar fonte primária.  
 **Fonte oficial:** URL.
 
-## Votações históricas nominais
+## Votos nominais históricos confirmados
 
 | Data | Proposição | Turno e objeto da votação | Voto | Fonte primária |
 | --- | --- | --- | --- | --- |
-| AAAA-MM-DD | PEC/PL nº/ano | Texto principal / destaque / emenda / veto | Sim / Não / Abstenção / Não registrou | URL |
+| DD/MM/AAAA | PEC/PL nº/ano | Texto principal / destaque / emenda / veto | Sim / Não / Abstenção / Não registrou | URL |
 
-**Nota de método:** uma votação simbólica não é prova de um voto nominal individual. Não preencher “Sim” automaticamente quando a comissão ou o plenário aprova por consenso. Apoiar ou assinar uma PEC tampouco equivale a ter votado pela sua aprovação.
+**Nota de método:** votação simbólica não permite atribuir voto nominal individual. Apoio público ou assinatura de uma proposta não é voto de aprovação.
 
 ## Declarações públicas e mudanças de posição
 
-Registrar data, contexto e palavras exatas apenas quando necessárias; preferir paráfrases fiéis e preservar a fonte original.
+Registrar data, contexto e fonte. Distinguir posição antes e depois de mudanças de texto ou de contexto político.
 
-## Hipóteses investigativas
+## Hipóteses sob acompanhamento
 
-**H1:** hipótese e evidências existentes.  
-**Como testar:** fontes e acontecimentos que permitiriam corroborar ou refutar.  
-**Limite:** separar intenção atribuída de conduta comprovada.
+**H1:** hipótese e evidências disponíveis.  
+**Como testar:** novos atos e fontes que podem confirmar ou contrariar.  
+**Limite:** intenção atribuída não é automaticamente fato comprovado.
 
-## Pendências
+## Próximas verificações
 
-- Documentos ou votações que ainda faltam verificar.
+- Consultas pendentes à base oficial.
+- Eventuais divergências entre fontes.
 
-## Histórico de atualizações
+## Registro de atualizações
 
-- **AAAA-MM-DD:** descrição do que foi adicionado, confirmado ou corrigido. Manter entradas antigas; o histórico de commits documenta as mudanças.
+- **AAAA-MM-DD:** fatos adicionados e pendências remanescentes.
+
+---
+
+**Metadados do site:** `layout: perfil` é obrigatório para aparecer no catálogo; `nome`, `cargo`, `partido`, `uf`, `situacao` e `atualizado` alimentam a apresentação. `categoria_eleitoral` usa um dos seguintes valores: `Não reeleito em 2026`, `Reeleito em 2026`, `Mandato até 2031` ou `A verificar`. O campo `situacao` pode ter a forma feminina. Quando alterar os dados, atualize a data e a seção de histórico. Arquivos devem ficar em `parlamentares/senadores/` ou `parlamentares/deputados/`.
