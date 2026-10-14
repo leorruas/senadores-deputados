@@ -4,27 +4,61 @@ title: Parlamentares
 permalink: /
 ---
 {% assign perfis = site.pages | where: "layout", "perfil" | sort: "nome" %}
-<section class="home-hero">
-  <p class="sobretitulo">Registro público / Política brasileira</p>
-  <h1>O que disseram.<br><em>O que fizeram.</em></h1>
-  <p>Um histórico de votos, propostas e declarações de senadores e deputados, com datas, fontes e espaço para acompanhar mudanças de posição.</p>
-</section>
-<section class="catalogo" aria-labelledby="titulo-catalogo">
-  <div class="titulo-secao"><div><p class="sobretitulo">Arquivo em construção</p><h2 id="titulo-catalogo">Parlamentares <span class="contagem-total">{{ perfis | size }}</span></h2></div><a href="{{ '/metodologia/' | relative_url }}">Como os perfis são produzidos ↗</a></div>
-  <div class="filtros">
-    <div class="campo-busca"><label for="busca">Buscar por nome, sigla, estado ou tema</label><input id="busca" type="search" placeholder="Ex.: Eliziane, 6x1, Maranhão" autocomplete="off"></div>
-    <div class="campo-filtro"><label for="cargo">Cargo</label><select id="cargo"><option value="">Todos</option><option value="senador">Senado</option><option value="deputado">Câmara</option></select></div>
-    <div class="campo-filtro"><label for="situacao">Situação eleitoral</label><select id="situacao"><option value="">Todas</option><option value="Não reeleito em 2026">Não reeleitos em 2026</option><option value="Reeleito em 2026">Reeleitos em 2026</option><option value="Mandato até 2031">Mandatos até 2031</option><option value="A verificar">A verificar</option></select></div>
+<section class="home-hero" aria-labelledby="titulo-inicial">
+  <div class="home-hero__eyebrow">
+    <p class="sobretitulo">Arquivo parlamentar / Brasil</p>
+    <span class="hero-indicador" aria-hidden="true"></span>
   </div>
-  <p id="resultado-contagem" class="resultado-contagem" aria-live="polite">{{ perfis | size }} perfis no arquivo</p>
+  <div class="home-hero__titulo">
+    <h1 id="titulo-inicial">DISCURSO.<br>PROPOSTAS.<br><em>VOTOS.</em></h1>
+  </div>
+  <p class="home-hero__descricao">O que parlamentares disseram, propuseram e votaram. Um histórico para consultar, conferir e acompanhar ao longo do tempo.</p>
+  <p class="home-hero__contador"><strong>{{ perfis | size }}</strong><span>perfis<br>documentados</span></p>
+</section>
+
+<section class="catalogo" aria-labelledby="titulo-catalogo">
+  <header class="titulo-secao">
+    <div>
+      <p class="sobretitulo">Índice / 01</p>
+      <h2 id="titulo-catalogo">PARLAMENTARES<span class="contagem-total">({{ perfis | size }})</span></h2>
+    </div>
+    <a href="{{ '/metodologia/' | relative_url }}">COMO PESQUISAMOS ↗</a>
+  </header>
+
+  <div class="filtros" role="search">
+    <div class="campo-busca">
+      <label for="busca">01 / Busque um nome, estado ou assunto</label>
+      <div class="campo-busca__linha">
+        <input id="busca" type="search" placeholder="Buscar parlamentar..." autocomplete="off">
+        <span aria-hidden="true">⌕</span>
+      </div>
+    </div>
+    <div class="campo-filtro">
+      <label for="cargo">02 / Cargo</label>
+      <select id="cargo"><option value="">Todos os cargos</option><option value="senador">Senado</option><option value="deputado">Câmara</option></select>
+    </div>
+    <div class="campo-filtro">
+      <label for="situacao">03 / Situação eleitoral</label>
+      <select id="situacao"><option value="">Todas as situações</option><option value="Não reeleito em 2026">Não reeleitos em 2026</option><option value="Reeleito em 2026">Reeleitos em 2026</option><option value="Mandato até 2031">Mandatos até 2031</option><option value="A verificar">A verificar</option></select>
+    </div>
+  </div>
+
+  <div class="resultado-barra"><p id="resultado-contagem" class="resultado-contagem" role="status" aria-live="polite">{{ perfis | size }} perfis encontrados</p><span>Ordem alfabética</span></div>
+
   <div class="lista-perfis" id="lista-perfis">
   {% for pessoa in perfis %}
     <a class="cartao-perfil" href="{{ pessoa.url | relative_url }}" data-busca="{{ pessoa.nome | escape }} {{ pessoa.partido | escape }} {{ pessoa.uf | escape }} {{ pessoa.temas | join: ' ' | escape }} {{ pessoa.resumo | escape }}" data-cargo="{{ pessoa.cargo | downcase | escape }}" data-situacao="{{ pessoa.categoria_eleitoral | default: pessoa.situacao | escape }}">
-      <div class="cartao-topo"><span>{{ pessoa.cargo | escape }} · {{ pessoa.uf | escape }}</span><span>Atualizado em {{ pessoa.atualizado | date: "%d/%m/%Y" }}</span></div>
-      <div class="cartao-centro"><div><h3>{{ pessoa.nome | escape }}</h3><p class="cartao-partido">{{ pessoa.partido | escape }} · {{ pessoa.mandato | escape }}</p></div><span class="seta-cartao" aria-hidden="true">↗</span></div>
-      <p class="cartao-resumo">{{ pessoa.resumo | escape }}</p><div class="cartao-rodape"><strong>{{ pessoa.situacao | escape }}</strong><span>Ver perfil →</span></div>
+      <span class="cartao-numero" aria-hidden="true">{{ forloop.index | prepend: '0' | slice: -2, 2 }}</span>
+      <div class="cartao-principal">
+        <p class="cartao-topo">{{ pessoa.cargo | upcase | escape }} / {{ pessoa.uf | escape }} / {{ pessoa.partido | escape }}</p>
+        <h3>{{ pessoa.nome | escape }}</h3>
+        <p class="cartao-resumo">{{ pessoa.resumo | escape }}</p>
+      </div>
+      <div class="cartao-info"><strong>{{ pessoa.situacao | escape }}</strong><span>Revisto em {{ pessoa.atualizado | date: "%d/%m/%Y" }}</span></div>
+      <span class="cartao-seta" aria-hidden="true">↗</span>
     </a>
   {% endfor %}
   </div>
-  <p id="sem-resultados" class="sem-resultados" hidden>Nenhum parlamentar corresponde a esses filtros.</p>
+  <p id="sem-resultados" class="sem-resultados" hidden>Nenhum perfil encontrado. Tente outro nome, estado ou tema.</p>
+  <div class="catalogo-fim"><span>Fim do índice</span><span>Novas fichas são adicionadas ao arquivo</span></div>
 </section>
