@@ -49,6 +49,14 @@ Em **9 de junho de 2026**, Contarato falou no Senado sobre a necessidade de acab
 
 Fontes: [fala de 9 de junho](https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/522847) e [PEC sobre a escala 6x1](https://www25.senado.leg.br/web/atividade/materias/-/materia/174386).
 
+## Agrotóxicos: uma decisão que merece acompanhar
+
+Em **novembro de 2023**, Contarato foi **relator na Comissão de Meio Ambiente** do projeto que mudou as regras para registrar e fiscalizar agrotóxicos (**PL 1459/2022**). Ele apresentou um relatório **favorável à aprovação, com mudanças no texto**, aceito pela comissão.
+
+No plenário, a senadora [Zenaide Maia]({{ '/parlamentares/senadores/zenaide-maia/' | relative_url }}) registrou voto contrário à aprovação. **Isso mostra posições diferentes durante a análise da mesma lei, mas os papéis não são iguais:** relatório apresentado em comissão não é voto nominal no plenário. Ainda precisamos conferir se houve manifestação individual de Contarato na decisão final.
+
+Fontes: [tramitação do PL no Senado](https://www25.senado.leg.br/web/atividade/materias/-/materia/153396) e [registro do voto contrário de Zenaide](https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/502739).
+
 ## Votos importantes que já conferimos
 
 | Data | Assunto | Como votou |
