@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **37 perfis criados** e **44 ainda não iniciados**.
+**Andamento:** **40 perfis criados** e **41 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -101,9 +101,9 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### PA
 
-- [ ] Beto Faro (PT) : pendente
-- [ ] Jader Barbalho (MDB) : pendente
-- [ ] Zequinha Marinho (Podemos) : pendente
+- [x] [Beto Faro](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/beto-faro-pt-pa.md) (PT) : **perfil criado**
+- [x] [Jader Barbalho](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/jader-barbalho-mdb-pa.md) (MDB) : **perfil criado**
+- [x] [Zequinha Marinho](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/zequinha-marinho-podemos-pa.md) (Podemos) : **perfil criado**
 
 ### PB
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 37 |
-| Fichas pendentes | 44 |
+| Fichas criadas | 40 |
+| Fichas pendentes | 41 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** fichas de Beto Faro, Jader Barbalho e Zequinha Marinho incluídas, totalizando 40 de 81.
 
 - **14/10/2026:** incluídas fichas iniciais de Ciro Nogueira, Marcelo Castro e Otto Alencar, com atos legislativos documentados. Contagem: 37 criadas e 44 pendentes.
 
