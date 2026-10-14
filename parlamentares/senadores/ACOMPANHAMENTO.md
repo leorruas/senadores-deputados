@@ -9,7 +9,7 @@ permalink: /senado/
 
 **Data da lista:** 14/10/2026, 15h42 (horário informado pelo Senado).  
 **Última atualização do controle:** 14/10/2026.  
-**Andamento:** **28 perfis criados** e **53 ainda não iniciados**.
+**Andamento:** **31 perfis criados** e **50 ainda não iniciados**.
 
 Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por estado. Inclui os suplentes que ocupavam uma cadeira naquele momento. A composição do Senado pode mudar com licenças e substituições. Estar nesta lista significa poder participar das deliberações, **não que o parlamentar tenha votado na PEC 221/2019**.
 
@@ -79,7 +79,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [ ] Ana Paula Lobato (PSB) : pendente
 - [x] [Eliziane Gama](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/eliziane-gama-pt-ma.md) (PT) : **perfil criado**
-- [ ] Weverton (PDT) : pendente
+- [x] [Weverton](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/weverton-pdt-ma.md) (PDT) : **perfil criado**
 
 ### MG
 
@@ -109,7 +109,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 - [ ] Daniella Ribeiro (PP) : pendente
 - [x] [Efraim Filho](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/efraim-filho-pl-pb.md) (PL) : **perfil criado**
-- [ ] Veneziano Vital do Rêgo (MDB) : pendente
+- [x] [Veneziano Vital do Rêgo](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/veneziano-vital-do-rego-mdb-pb.md) (MDB) : **perfil criado**
 
 ### PE
 
@@ -125,7 +125,7 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 ### PR
 
-- [ ] Flávio Arns (PSB) : pendente
+- [x] [Flávio Arns](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/flavio-arns-psb-pr.md) (PSB) : **perfil criado**
 - [x] [Oriovisto Guimarães](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/oriovisto-guimaraes-psdb-pr.md) (PSDB) : **perfil criado**
 - [x] [Sergio Moro](https://github.com/leorruas/senadores-deputados/blob/main/parlamentares/senadores/sergio-moro-pl-pr.md) (PL) : **perfil criado**
 
@@ -187,8 +187,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 
 | Situação | Quantidade |
 | --- | ---: |
-| Fichas criadas | 28 |
-| Fichas pendentes | 53 |
+| Fichas criadas | 31 |
+| Fichas pendentes | 50 |
 | Total de senadores em exercício em 14/10/2026 | 81 |
 
 ## Como manter atualizado
@@ -196,6 +196,8 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 Quando uma ficha for criada, mudar `[ ]` para `[x]`, colocar o link para o arquivo correspondente e corrigir a contagem. Se a composição do Senado mudar, acrescentar uma nota datada e preservar a lista de referência de 14/10/2026, em vez de substituir nomes sem explicação. O histórico de commits permite conferir quando cada ficha entrou no arquivo.
 
 ## Histórico
+
+- **14/10/2026:** fichas iniciais de Weverton, Flávio Arns e Veneziano Vital do Rêgo. Total: 31 fichas, 50 pendentes.
 
 - **14/10/2026:** fichas de Dr. Hiran, Wellington Fagundes e Professora Dorinha Seabra adicionadas, com registro do requerimento de debates da PEC 221/2019. Total: 28 fichas criadas e 53 pendentes.
 
