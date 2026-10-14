@@ -6,13 +6,15 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 
 ## Controle das 81 fichas do Senado
 
-[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **17 criadas, 64 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
+[**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **19 criadas, 62 pendentes.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
 
 ## Perfis disponíveis
 
 | Parlamentar | Cargo e UF | Mandato | Situação em outubro de 2026 |
 | --- | --- | --- | --- |
 | [Eliziane Gama](parlamentares/senadores/eliziane-gama-pt-ma.md) | Senadora, MA (PT; antes PSD) | 2019 a 2027 | Não reeleita |
+| [Cleitinho](parlamentares/senadores/cleitinho-republicanos-mg.md) | Senador, MG (Republicanos) | 2023 a 2031 | Mandato em curso |
+| [Carlos Portinho](parlamentares/senadores/carlos-portinho-pl-rj.md) | Senador, RJ (PL) | Reeleito para 2027 a 2035 | Reeleito |
 | [Davi Alcolumbre](parlamentares/senadores/davi-alcolumbre-uniao-ap.md) | Senador, AP (União Brasil) | 2023 a 2031 | Mandato em curso |
 | [Magno Malta](parlamentares/senadores/magno-malta-pl-es.md) | Senador, ES (PL) | 2023 a 2031 | Mandato em curso |
 | [Randolfe Rodrigues](parlamentares/senadores/randolfe-rodrigues-pt-ap.md) | Senador, AP (PT) | 2019 a 2027 | Não reeleito |
