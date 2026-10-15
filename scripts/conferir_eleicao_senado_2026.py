@@ -193,19 +193,28 @@ def ajustar_frontmatter(texto, registro):
 
     texto_conferencia = (
         f"\n\n{MARCADOR_INICIO}\n"
-        f"## Situação eleitoral — conferência de {DATA}\n\n"
+        "## Situação eleitoral — conferência de 14/10/2026\n\n"
         f"**Situação:** {registro['situacao']}.\n\n"
-        f"**Cadeira:** {registro['mandato']}. "
+        f"**Período da cadeira:** {registro['mandato']}. "
         f"**Condição no registro do Senado:** {registro['role']}.\n\n"
         f"**Fontes oficiais:** {' · '.join(fontes)}.\n\n"
-        "**Critério:** esta classificação diferencia vitória na eleição de 2026, "
-        "continuidade de uma cadeira escolhida em 2022 e ausência de novo mandato "
-        "eleito para o Senado em 2026. A categoria de encerramento da cadeira "
-        "**não afirma que a pessoa tenha sido candidata ou derrotada nas urnas**. "
-        "Para suplentes, o período indicado é o da cadeira, não um mandato "
-        "individual obtido por eleição direta.\n"
+        "**Critério:** 'sem novo mandato' não significa necessariamente "
+        "que tenha concorrido à reeleição; para suplentes, o período indicado "
+        "é o da cadeira, não um mandato individual obtido por eleição direta.\n"
         f"{MARCADOR_FIM}\n"
     )
+    # Substitui apenas afirmações desatualizadas sobre pendências eleitorais.
+    # Outras pendências legislativas e de votação permanecem registradas.
+    substituir_frases = {
+        "A situação eleitoral de 2026 será apurada separadamente; esta ficha ainda não a classifica.":
+            "A situação eleitoral de 2026 está verificada na seção acima.",
+        "Sua situação eleitoral em 2026 permanece pendente de conferência nesta ficha.":
+            "A situação eleitoral de 2026 está verificada na seção acima.",
+        "Dados do mandato e resultado eleitoral requerem revisão complementar.":
+            "O período da cadeira e a situação eleitoral constam da seção acima; a pesquisa legislativa segue em complementação.",
+    }
+    for antigo, novo in substituir_frases.items():
+        resto = resto.replace(antigo, novo)
     cabecalho = re.search(r"(?m)^# [^\n]+", resto)
     if not cabecalho:
         raise ValueError(f"Falta título Markdown de perfil: {registro['nome']}")
