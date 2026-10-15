@@ -114,7 +114,6 @@
       sumario.textContent = "Nenhuma seção cadastrada.";
     }
   }
-}
   // Consulta dos mapas nominais importados da Câmara. Filtros independentes por turno.
   document.querySelectorAll(".votos-turno").forEach((bloco) => {
     const buscaVotos = bloco.querySelector(".votos-busca");
