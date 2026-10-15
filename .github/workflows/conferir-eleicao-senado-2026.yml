@@ -1,0 +1,59 @@
+name: Conferir situação eleitoral do Senado (2026)
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/conferir_eleicao_senado_2026.py'
+      - '.github/workflows/conferir-eleicao-senado-2026.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  verificar-eleicao-senado:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Verificar o script antes de executar
+        run: python -m py_compile scripts/conferir_eleicao_senado_2026.py
+
+      - name: Atualizar os 81 perfis e controles
+        run: python scripts/conferir_eleicao_senado_2026.py
+
+      - name: Conferir coerência dos resultados e registrar
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          textos=[p.read_text(encoding='utf-8') for p in Path('parlamentares/senadores').glob('*.md') if p.name!='ACOMPANHAMENTO.md']
+          assert len(textos)==81, f'{len(textos)} perfis'
+          def count(text):
+              return sum(text.count('categoria_eleitoral: "'+categoria+'"') for categoria in [text])
+          categorias=[
+            ('Reeleito em 2026',14),
+            ('Mandato até 2031',27),
+            ('Sem novo mandato no Senado em 2026',40),
+          ]
+          for categoria,esperado in categorias:
+              encontrado=sum('categoria_eleitoral: "'+categoria+'"' in t for t in textos)
+              assert encontrado==esperado,(categoria,encontrado,esperado)
+          print('Validação final aprovada: 81 senadores, categorias 14/27/40.')
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md index.html PLANO-DE-FASES.md parlamentares/senadores/
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: confere situação eleitoral de 81 senadores em 2026"
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push origin "HEAD:$GITHUB_REF_NAME"
+          fi
