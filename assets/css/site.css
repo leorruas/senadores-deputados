@@ -396,3 +396,71 @@ a:focus-visible, input:focus-visible, select:focus-visible { outline: 3px solid 
   .atalhos-casas a,.atalhos-casas a:first-child,.atalhos-casas a:last-child { border-right:0; padding:1.2rem 0; }
   .atalhos-casas a:first-child { border-bottom:var(--rule); }
 }
+
+
+/* Paginação única para Câmara, Senado e índice geral */
+.paginacao {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem 2rem;
+  padding: 1.4rem 0;
+  margin: 1.2rem 0 0;
+  border-top: 2px solid var(--color-text);
+  border-bottom: 1px solid var(--color-text);
+}
+.paginacao__resumo {
+  margin: 0;
+  color: var(--color-muted);
+  font-size: .72rem;
+  line-height: 1.4;
+  letter-spacing: .045em;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+.paginacao__controles {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: .35rem;
+}
+.paginacao__botao {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 38px;
+  min-height: 38px;
+  padding: .6rem .7rem;
+  border: 1px solid var(--color-text);
+  border-radius: 0;
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-size: .75rem;
+  font-weight: 900;
+  line-height: 1.1;
+  cursor: pointer;
+}
+.paginacao__botao:hover:not(:disabled),
+.paginacao__botao:focus-visible {
+  background: var(--color-light);
+  color: var(--color-green);
+}
+.paginacao__botao--atual,
+.paginacao__botao--atual:hover:not(:disabled) {
+  background: var(--color-green);
+  border-color: var(--color-green);
+  color: white;
+}
+.paginacao__botao:disabled { color: #777; border-color: #bbb; cursor: not-allowed; opacity: .7; }
+.paginacao__reticencias { min-width: 20px; padding: .3rem; text-align: center; font-size: .88rem; font-weight: 800; }
+.lista-perfis, .camara-lista { scroll-margin-top: 1.5rem; }
+@media (max-width: 800px) {
+  .paginacao__controles { justify-content: flex-start; }
+}
+@media (max-width: 620px) {
+  .paginacao { flex-direction: column; align-items: stretch; gap: 1rem; }
+  .paginacao__botao { min-height: 42px; min-width: 38px; padding: .65rem .55rem; }
+  .paginacao__controles { gap: .3rem; }
+}
