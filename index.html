@@ -17,6 +17,10 @@ permalink: /
   <p class="home-hero__descricao">O que parlamentares disseram, propuseram e votaram. Um histórico para consultar, conferir e acompanhar ao longo do tempo.</p>
   <p class="home-hero__contador"><strong>{{ perfis | size }}</strong><span>perfis<br>documentados</span></p>
 </section>
+<div class="atalhos-casas" aria-label="Consultar por casa legislativa">
+  <a href="{{ '/senado/' | relative_url }}"><span>01 / SENADO</span><strong>{{ perfis | size }} FICHAS INICIADAS</strong><span aria-hidden="true">↗</span></a>
+  <a href="{{ '/camara/' | relative_url }}"><span>02 / CÂMARA</span><strong>513 DEPUTADOS NO INVENTÁRIO</strong><span aria-hidden="true">↗</span></a>
+</div>
 
 <section class="catalogo" aria-labelledby="titulo-catalogo">
   <header class="titulo-secao">
