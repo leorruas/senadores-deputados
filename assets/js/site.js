@@ -1,4 +1,113 @@
 (() => {
+  // Mesma paginação no índice geral, Senado e Câmara.
+  // A busca e os filtros sempre consideram TODOS os registros da página.
+  const criarPaginador = (itens, navegacao, singular, plural, lista) => {
+    const tamanhoPagina = 30;
+    let resultados = itens;
+
+    const renderizar = () => {
+      const total = resultados.length;
+      const numeroPaginas = Math.max(1, Math.ceil(total / tamanhoPagina));
+      const parametro = Number(new URL(window.location.href).searchParams.get("pagina"));
+      const paginaAtual = Number.isSafeInteger(parametro)
+        ? Math.min(numeroPaginas, Math.max(1, parametro))
+        : 1;
+      const primeiro = (paginaAtual - 1) * tamanhoPagina;
+      const mostrados = new Set(resultados.slice(primeiro, primeiro + tamanhoPagina));
+
+      itens.forEach((item) => { item.hidden = !mostrados.has(item); });
+
+      if (!navegacao) return;
+      navegacao.replaceChildren();
+      navegacao.hidden = total <= tamanhoPagina;
+      if (navegacao.hidden) return;
+
+      const resumo = document.createElement("p");
+      resumo.className = "paginacao__resumo";
+      resumo.setAttribute("role", "status");
+      resumo.textContent = "Exibindo " + (primeiro + 1) + "–"
+        + Math.min(primeiro + tamanhoPagina, total)
+        + " de " + total + " " + (total === 1 ? singular : plural);
+
+      const controles = document.createElement("div");
+      controles.className = "paginacao__controles";
+
+      const mudarPagina = (numero) => {
+        const endereco = new URL(window.location.href);
+        if (numero === 1) endereco.searchParams.delete("pagina");
+        else endereco.searchParams.set("pagina", String(numero));
+        window.history.pushState(null, "", endereco);
+        renderizar();
+        if (lista) {
+          const reduzMovimento = window.matchMedia &&
+            window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+          lista.scrollIntoView({ behavior: reduzMovimento ? "auto" : "smooth", block: "start" });
+        }
+      };
+
+      const botaoPagina = (texto, numero, descricao, desabilitado = false, atual = false) => {
+        const botao = document.createElement("button");
+        botao.type = "button";
+        botao.className = "paginacao__botao";
+        botao.textContent = texto;
+        botao.setAttribute("aria-label", descricao);
+        if (atual) {
+          botao.setAttribute("aria-current", "page");
+          botao.classList.add("paginacao__botao--atual");
+        }
+        botao.disabled = desabilitado;
+        botao.addEventListener("click", () => mudarPagina(numero));
+        return botao;
+      };
+
+      controles.appendChild(botaoPagina(
+        "← ANTERIOR", Math.max(1, paginaAtual - 1), "Página anterior", paginaAtual === 1
+      ));
+
+      const numeros = new Set([1, 2, paginaAtual - 1, paginaAtual,
+        paginaAtual + 1, numeroPaginas - 1, numeroPaginas]);
+      const paginasVisiveis = [...numeros]
+        .filter((numero) => numero >= 1 && numero <= numeroPaginas)
+        .sort((a, b) => a - b);
+
+      let anterior = 0;
+      paginasVisiveis.forEach((numero) => {
+        if (anterior && numero - anterior > 1) {
+          if (numero - anterior === 2) {
+            controles.appendChild(botaoPagina(
+              String(anterior + 1), anterior + 1,
+              "Página " + (anterior + 1) + " de " + numeroPaginas
+            ));
+          } else {
+            const intervalo = document.createElement("span");
+            intervalo.className = "paginacao__reticencias";
+            intervalo.textContent = "…";
+            intervalo.setAttribute("aria-hidden", "true");
+            controles.appendChild(intervalo);
+          }
+        }
+        controles.appendChild(botaoPagina(
+          String(numero), numero, "Página " + numero + " de " + numeroPaginas,
+          false, numero === paginaAtual
+        ));
+        anterior = numero;
+      });
+
+      controles.appendChild(botaoPagina(
+        "PRÓXIMA →", Math.min(numeroPaginas, paginaAtual + 1),
+        "Próxima página", paginaAtual === numeroPaginas
+      ));
+      navegacao.append(resumo, controles);
+    };
+
+    return {
+      mostrar: (filtrados) => {
+        resultados = filtrados;
+        renderizar();
+      }
+    };
+  };
+
   const busca = document.getElementById("busca");
   const uf = document.getElementById("uf");
   const partido = document.getElementById("partido");
@@ -11,6 +120,10 @@
   const vazio = document.getElementById("sem-resultados");
   const normalizar = (texto) => (texto || "")
     .normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
+  const paginadorPerfis = criarPaginador(
+    perfis, document.getElementById("paginacao-perfis"), "perfil", "perfis",
+    document.getElementById("lista-perfis")
+  );
 
   if (busca && uf && partido && cargo && situacao && contagem && vazio) {
     const campos = [
@@ -30,16 +143,15 @@
 
     const filtrar = () => {
       const termo = normalizar(busca.value);
-      let visiveis = 0;
-      perfis.forEach((perfil) => {
-        const corresponde = normalizar(perfil.dataset.busca).includes(termo)
+      const encontrados = perfis.filter((perfil) =>
+        normalizar(perfil.dataset.busca).includes(termo)
           && (!uf.value || normalizar(perfil.dataset.uf) === normalizar(uf.value))
           && (!partido.value || normalizar(perfil.dataset.partido) === normalizar(partido.value))
           && (!cargo.value || normalizar(perfil.dataset.cargo).includes(normalizar(cargo.value)))
-          && (!situacao.value || perfil.dataset.situacao === situacao.value);
-        perfil.hidden = !corresponde;
-        if (corresponde) visiveis++;
-      });
+          && (!situacao.value || perfil.dataset.situacao === situacao.value)
+      );
+      const visiveis = encontrados.length;
+      paginadorPerfis.mostrar(encontrados);
       contagem.textContent = visiveis + (visiveis === 1 ? " perfil encontrado" : " perfis encontrados");
       vazio.hidden = visiveis !== 0;
       if (limpar) limpar.hidden = busca.value.length === 0;
@@ -53,6 +165,7 @@
         if (valor) endereco.searchParams.set(chave, valor);
         else endereco.searchParams.delete(chave);
       });
+      endereco.searchParams.delete("pagina");
       window.history.replaceState(null, "", endereco);
       filtrar();
     };
@@ -148,6 +261,10 @@
   const tipoCatalogo = document.querySelector(".camara-inventario");
   const singularCatalogo = tipoCatalogo?.dataset.itemSingular || "deputado";
   const pluralCatalogo = tipoCatalogo?.dataset.itemPlural || "deputados";
+  const paginadorCamara = criarPaginador(
+    deputadosCamara, document.getElementById("paginacao-camara"),
+    singularCatalogo, pluralCatalogo, document.querySelector(".camara-lista")
+  );
 
   if (camaraBusca && camaraUf && camaraPartido && camaraContagem && camaraVazio) {
     const camposCamara = [["q", camaraBusca], ["uf", camaraUf], ["partido", camaraPartido]];
@@ -161,15 +278,14 @@
       });
     };
     const filtrarCamara = () => {
-      let visiveis = 0;
       const termo = normalizarCamara(camaraBusca.value);
-      deputadosCamara.forEach((deputado) => {
-        const corresponde = normalizarCamara(deputado.dataset.camaraBusca).includes(termo)
+      const encontrados = deputadosCamara.filter((deputado) =>
+        normalizarCamara(deputado.dataset.camaraBusca).includes(termo)
           && (!camaraUf.value || deputado.dataset.camaraUf === camaraUf.value)
-          && (!camaraPartido.value || deputado.dataset.camaraPartido === camaraPartido.value);
-        deputado.hidden = !corresponde;
-        if (corresponde) visiveis++;
-      });
+          && (!camaraPartido.value || deputado.dataset.camaraPartido === camaraPartido.value)
+      );
+      const visiveis = encontrados.length;
+      paginadorCamara.mostrar(encontrados);
       camaraContagem.textContent = visiveis + (visiveis === 1 ? " " + singularCatalogo + " encontrado" : " " + pluralCatalogo + " encontrados");
       camaraVazio.hidden = visiveis > 0;
       if (camaraLimpar) camaraLimpar.hidden = !camposCamara.some(([, campo]) => campo.value);
@@ -181,6 +297,7 @@
         if (valor) endereco.searchParams.set(chave, valor);
         else endereco.searchParams.delete(chave);
       });
+      endereco.searchParams.delete("pagina");
       window.history.replaceState(null, "", endereco);
       filtrarCamara();
     };
