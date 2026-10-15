@@ -5,9 +5,9 @@ title: Fernando Dueire
 partido: PSD
 uf: PE
 cargo: Senador
-mandato: "A verificar"
-situacao: "Situação eleitoral e mandato posterior a verificar"
-categoria_eleitoral: "A verificar"
+mandato: "Cadeira 2019 a 2027 (1º suplente)"
+situacao: "Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026"
+categoria_eleitoral: "Sem novo mandato no Senado em 2026"
 atualizado: 2026-10-14
 permalink: /parlamentares/senadores/fernando-dueire/
 resumo: "Autor de proposta para melhorias em estradas vicinais e relator de projeto de regularização fundiária urbana."
@@ -18,6 +18,19 @@ temas:
   - Trabalho
 ---
 # Fernando Dueire
+
+<!-- inicio:verificacao-eleitoral-2026 -->
+## Situação eleitoral — conferência de 2026-10-14
+
+**Situação:** Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026.
+
+**Cadeira:** Cadeira 2019 a 2027 (1º suplente). **Condição no registro do Senado:** 1º suplente.
+
+**Fontes oficiais:** [Senado: cadeira e suplência](https://www12.senado.leg.br/manualdecomunicacao/como-citar-os-senadores) · [Senado: 54 eleitos em 2026](https://www12.senado.leg.br/noticias/materias/2026/10/04/conheca-os-54-senadores-eleitos-neste-domingo).
+
+**Critério:** esta classificação diferencia vitória na eleição de 2026, continuidade de uma cadeira escolhida em 2022 e ausência de novo mandato eleito para o Senado em 2026. A categoria de encerramento da cadeira **não afirma que a pessoa tenha sido candidata ou derrotada nas urnas**. Para suplentes, o período indicado é o da cadeira, não um mandato individual obtido por eleição direta.
+<!-- fim:verificacao-eleitoral-2026 -->
+
 
 ## Mandato
 

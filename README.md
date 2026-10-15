@@ -20,6 +20,10 @@ Os três índices — [Parlamentares](https://leorruas.github.io/senadores-deput
 
 [**Abrir índice do Senado**](https://leorruas.github.io/senadores-deputados/senado/) — acesso às 81 fichas iniciadas, ainda com pesquisa documental pendente em parte delas.
 
+## Situação eleitoral dos senadores — 14/10/2026
+
+**81/81 fichas verificadas quanto ao período da cadeira e ao resultado para o Senado em 2026:** 14 reeleitos, 27 cadeiras com mandato 2023–2031 (não disputadas em 2026) e 40 cadeiras 2019–2027 sem novo mandato eleito para a pessoa que as ocupa no inventário. Esta última categoria **não implica que todos tenham concorrido**. A condição de titular ou suplente está nas fichas individuais. Há notas específicas para candidaturas a governador e à Presidência. Fontes: [cadastro do Senado](https://www12.senado.leg.br/manualdecomunicacao/como-citar-os-senadores), [reeleitos em 2026](https://www12.senado.leg.br/noticias/materias/2026/10/05/em-2027-senado-tera-40-senadores-novos-e-14-reeleitos) e [eleitos por estado](https://www12.senado.leg.br/noticias/materias/2026/10/04/conheca-os-54-senadores-eleitos-neste-domingo).
+
 ## Controle das 81 fichas do Senado
 
 [**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **81 criadas, 0 pendentes de criação.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
@@ -28,108 +32,108 @@ Os três índices — [Parlamentares](https://leorruas.github.io/senadores-deput
 
 | Parlamentar | Cargo e UF | Mandato | Situação em outubro de 2026 |
 | --- | --- | --- | --- |
-| [Eliziane Gama](parlamentares/senadores/eliziane-gama-pt-ma.md) | Senadora, MA (PT; antes PSD) | 2019 a 2027 | Não reeleita |
-| [Cleitinho](parlamentares/senadores/cleitinho-republicanos-mg.md) | Senador, MG (Republicanos) | 2023 a 2031 | Mandato em curso |
-| [Carlos Portinho](parlamentares/senadores/carlos-portinho-pl-rj.md) | Senador, RJ (PL) | Reeleito para 2027 a 2035 | Reeleito |
-| [Davi Alcolumbre](parlamentares/senadores/davi-alcolumbre-uniao-ap.md) | Senador, AP (União Brasil) | 2023 a 2031 | Mandato em curso |
-| [Magno Malta](parlamentares/senadores/magno-malta-pl-es.md) | Senador, ES (PL) | 2023 a 2031 | Mandato em curso |
-| [Randolfe Rodrigues](parlamentares/senadores/randolfe-rodrigues-pt-ap.md) | Senador, AP (PT) | 2019 a 2027 | Não reeleito |
-| [Hamilton Mourão](parlamentares/senadores/hamilton-mourao-republicanos-rs.md) | Senador, RS (Republicanos) | 2023 a 2031 | Mandato em curso |
-| [Jaime Bagattoli](parlamentares/senadores/jaime-bagattoli-pl-ro.md) | Senador, RO (PL) | 2023 a 2031 | Mandato em curso |
-| [Tereza Cristina](parlamentares/senadores/tereza-cristina-pp-ms.md) | Senadora, MS (PP) | 2023 a 2031 | Mandato em curso |
-| [Fabiano Contarato](parlamentares/senadores/fabiano-contarato-pt-es.md) | Senador, ES (PT) | 2019 a 2027 | Não reeleito |
-| [Humberto Costa](parlamentares/senadores/humberto-costa-pt-pe.md) | Senador, PE (PT) | Reeleito para 2027 a 2035 | Reeleito |
-| [Flávio Bolsonaro](parlamentares/senadores/flavio-bolsonaro-pl-rj.md) | Senador, RJ (PL) | 2019 a 2027 | Situação posterior pendente |
-| [Omar Aziz](parlamentares/senadores/omar-aziz-psd-am.md) | Senador, AM (PSD) | 2023 a 2031 | Mandato em curso |
-| [Oriovisto Guimarães](parlamentares/senadores/oriovisto-guimaraes-psdb-pr.md) | Senador, PR (PSDB) | 2019 a 2027 | Eleição de 2026 a verificar |
-| [Paulo Paim](parlamentares/senadores/paulo-paim-pt-rs.md) | Senador, RS (PT) | 2019 a 2027 | Não concorreu em 2026 |
-| [Rogério Marinho](parlamentares/senadores/rogerio-marinho-pl-rn.md) | Senador, RN (PL) | 2023 a 2031 | Mandato em curso |
-| [Teresa Leitão](parlamentares/senadores/teresa-leitao-pt-pe.md) | Senadora, PE (PT) | 2023 a 2031 | Mandato em curso; não disputou em 2026 |
-| [Vanderlan Cardoso](parlamentares/senadores/vanderlan-cardoso-psd-go.md) | Senador, GO (PSD) | 2019 a 2027 | Não reeleito |
-| [Zenaide Maia](parlamentares/senadores/zenaide-maia-psd-rn.md) | Senadora, RN (PSD) | 2019 a 2027 | Não reeleita |
+| [Eliziane Gama](parlamentares/senadores/eliziane-gama-pt-ma.md) | Senadora, MA (PT; antes PSD) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Cleitinho](parlamentares/senadores/cleitinho-republicanos-mg.md) | Senador, MG (Republicanos) | 2023 a 2031 | Eleito governador de Minas Gerais em 2026; cadeira senatorial até 2031 |
+| [Carlos Portinho](parlamentares/senadores/carlos-portinho-pl-rj.md) | Senador, RJ (PL) | Cadeira 2019 a 2027 (1º suplente); eleito para 2027 a 2035 | Reeleito para o Senado em 2026 (mandato 2027–2035) |
+| [Davi Alcolumbre](parlamentares/senadores/davi-alcolumbre-uniao-ap.md) | Senador, AP (União Brasil) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
+| [Magno Malta](parlamentares/senadores/magno-malta-pl-es.md) | Senador, ES (PL) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
+| [Randolfe Rodrigues](parlamentares/senadores/randolfe-rodrigues-pt-ap.md) | Senador, AP (PT) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Hamilton Mourão](parlamentares/senadores/hamilton-mourao-republicanos-rs.md) | Senador, RS (Republicanos) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
+| [Jaime Bagattoli](parlamentares/senadores/jaime-bagattoli-pl-ro.md) | Senador, RO (PL) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
+| [Tereza Cristina](parlamentares/senadores/tereza-cristina-pp-ms.md) | Senadora, MS (PP) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
+| [Fabiano Contarato](parlamentares/senadores/fabiano-contarato-pt-es.md) | Senador, ES (PT) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Humberto Costa](parlamentares/senadores/humberto-costa-pt-pe.md) | Senador, PE (PT) | 2019 a 2027; reeleito para 2027 a 2035 | Reeleito para o Senado em 2026 (mandato 2027–2035) |
+| [Flávio Bolsonaro](parlamentares/senadores/flavio-bolsonaro-pl-rj.md) | Senador, RJ (PL) | 2019 a 2027 | Disputa o 2º turno presidencial em 25/10/2026; cadeira senatorial até 2027 |
+| [Omar Aziz](parlamentares/senadores/omar-aziz-psd-am.md) | Senador, AM (PSD) | 2023 a 2031 | Disputa 2º turno para governador do Amazonas em 25/10/2026; cadeira senatorial até 2031 |
+| [Oriovisto Guimarães](parlamentares/senadores/oriovisto-guimaraes-psdb-pr.md) | Senador, PR (PSDB) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Paulo Paim](parlamentares/senadores/paulo-paim-pt-rs.md) | Senador, RS (PT) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Rogério Marinho](parlamentares/senadores/rogerio-marinho-pl-rn.md) | Senador, RN (PL) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
+| [Teresa Leitão](parlamentares/senadores/teresa-leitao-pt-pe.md) | Senadora, PE (PT) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
+| [Vanderlan Cardoso](parlamentares/senadores/vanderlan-cardoso-psd-go.md) | Senador, GO (PSD) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Zenaide Maia](parlamentares/senadores/zenaide-maia-psd-rn.md) | Senadora, RN (PSD) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
 
-| [Jaques Wagner](parlamentares/senadores/jaques-wagner-pt-ba.md) | Senador, BA (PT) | Reeleito para 2027 a 2035 | Reeleito |
-| [Efraim Filho](parlamentares/senadores/efraim-filho-pl-pb.md) | Senador, PB (PL) | 2023 a 2031 | Mandato em curso |
-| [Sergio Moro](parlamentares/senadores/sergio-moro-pl-pr.md) | Senador, PR (PL) | 2023 a 2031 | Mandato em curso |
+| [Jaques Wagner](parlamentares/senadores/jaques-wagner-pt-ba.md) | Senador, BA (PT) | 2019 a 2027; reeleito para 2027 a 2035 | Reeleito para o Senado em 2026 (mandato 2027–2035) |
+| [Efraim Filho](parlamentares/senadores/efraim-filho-pl-pb.md) | Senador, PB (PL) | 2023 a 2031 | Concorreu ao governo de Paraíba em 2026; cadeira senatorial até 2031 |
+| [Sergio Moro](parlamentares/senadores/sergio-moro-pl-pr.md) | Senador, PR (PL) | 2023 a 2031 | Eleito governador de Paraná em 2026; cadeira senatorial até 2031 |
 
-| [Alessandro Vieira](parlamentares/senadores/alessandro-vieira-mdb-se.md) | Senador, SE (MDB) | 2019 a 2027 | Eleição de 2026 a verificar |
-| [Rogério Carvalho](parlamentares/senadores/rogerio-carvalho-pt-se.md) | Senador, SE (PT) | 2019 a 2027 | Eleição de 2026 a verificar |
-| [Soraya Thronicke](parlamentares/senadores/soraya-thronicke-psb-ms.md) | Senadora, MS (PSB) | 2019 a 2027 | Eleição de 2026 a verificar |
+| [Alessandro Vieira](parlamentares/senadores/alessandro-vieira-mdb-se.md) | Senador, SE (MDB) | 2019 a 2027; reeleito para 2027 a 2035 | Reeleito para o Senado em 2026 (mandato 2027–2035) |
+| [Rogério Carvalho](parlamentares/senadores/rogerio-carvalho-pt-se.md) | Senador, SE (PT) | 2019 a 2027; reeleito para 2027 a 2035 | Reeleito para o Senado em 2026 (mandato 2027–2035) |
+| [Soraya Thronicke](parlamentares/senadores/soraya-thronicke-psb-ms.md) | Senadora, MS (PSB) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
 
-| [Dr. Hiran](parlamentares/senadores/dr-hiran-pp-rr.md) | Senador, RR (PP) | 2023 a 2031 | Mandato em curso |
-| [Wellington Fagundes](parlamentares/senadores/wellington-fagundes-pl-mt.md) | Senador, MT (PL) | 2023 a 2031 | Mandato em curso |
-| [Professora Dorinha Seabra](parlamentares/senadores/professora-dorinha-seabra-uniao-to.md) | Senadora, TO (União Brasil) | 2023 a 2031 | Mandato em curso |
+| [Dr. Hiran](parlamentares/senadores/dr-hiran-pp-rr.md) | Senador, RR (PP) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
+| [Wellington Fagundes](parlamentares/senadores/wellington-fagundes-pl-mt.md) | Senador, MT (PL) | 2023 a 2031 | Concorreu ao governo de Mato Grosso em 2026; cadeira senatorial até 2031 |
+| [Professora Dorinha Seabra](parlamentares/senadores/professora-dorinha-seabra-uniao-to.md) | Senadora, TO (União Brasil) | 2023 a 2031 | Disputa 2º turno para governador do Tocantins em 25/10/2026; cadeira senatorial até 2031 |
 
-| [Weverton](parlamentares/senadores/weverton-pdt-ma.md) | Senador, MA (PDT) | 2019 a 2027 | Eleição a verificar |
-| [Flávio Arns](parlamentares/senadores/flavio-arns-psb-pr.md) | Senador, PR (PSB) | 2019 a 2027 | Eleição a verificar |
-| [Veneziano Vital do Rêgo](parlamentares/senadores/veneziano-vital-do-rego-mdb-pb.md) | Senador, PB (MDB) | 2019 a 2027 | Eleição a verificar |
+| [Weverton](parlamentares/senadores/weverton-pdt-ma.md) | Senador, MA (PDT) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Flávio Arns](parlamentares/senadores/flavio-arns-psb-pr.md) | Senador, PR (PSB) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Veneziano Vital do Rêgo](parlamentares/senadores/veneziano-vital-do-rego-mdb-pb.md) | Senador, PB (MDB) | 2019 a 2027; reeleito para 2027 a 2035 | Reeleito para o Senado em 2026 (mandato 2027–2035) |
 
-| [Renan Calheiros](parlamentares/senadores/renan-calheiros-mdb-al.md) | Senador, AL (MDB) | 2019 a 2027 | Eleição a verificar |
-| [Eduardo Braga](parlamentares/senadores/eduardo-braga-mdb-am.md) | Senador, AM (MDB) | 2019 a 2027 | Eleição a verificar |
-| [Damares Alves](parlamentares/senadores/damares-alves-republicanos-df.md) | Senadora, DF (Republicanos) | 2023 a 2031 | Mandato em curso |
+| [Renan Calheiros](parlamentares/senadores/renan-calheiros-mdb-al.md) | Senador, AL (MDB) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Eduardo Braga](parlamentares/senadores/eduardo-braga-mdb-am.md) | Senador, AM (MDB) | 2019 a 2027; reeleito para 2027 a 2035 | Reeleito para o Senado em 2026 (mandato 2027–2035) |
+| [Damares Alves](parlamentares/senadores/damares-alves-republicanos-df.md) | Senadora, DF (Republicanos) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
 
-| [Ciro Nogueira](parlamentares/senadores/ciro-nogueira-pp-pi.md) | Senador, PI (PP) | 2019 a 2027 | Eleição a verificar |
-| [Marcelo Castro](parlamentares/senadores/marcelo-castro-mdb-pi.md) | Senador, PI (MDB) | 2019 a 2027 | Eleição a verificar |
-| [Otto Alencar](parlamentares/senadores/otto-alencar-psd-ba.md) | Senador, BA (PSD) | 2023 a 2031 | Mandato em curso |
+| [Ciro Nogueira](parlamentares/senadores/ciro-nogueira-pp-pi.md) | Senador, PI (PP) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Marcelo Castro](parlamentares/senadores/marcelo-castro-mdb-pi.md) | Senador, PI (MDB) | 2019 a 2027; reeleito para 2027 a 2035 | Reeleito para o Senado em 2026 (mandato 2027–2035) |
+| [Otto Alencar](parlamentares/senadores/otto-alencar-psd-ba.md) | Senador, BA (PSD) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
 
-| [Beto Faro](parlamentares/senadores/beto-faro-pt-pa.md) | Senador, PA (PT) | 2023 a 2031 | Mandato em curso |
-| [Jader Barbalho](parlamentares/senadores/jader-barbalho-mdb-pa.md) | Senador, PA (MDB) | 2019 a 2027 | Eleição a verificar |
-| [Zequinha Marinho](parlamentares/senadores/zequinha-marinho-podemos-pa.md) | Senador, PA (Podemos) | 2019 a 2027 | Eleição a verificar |
+| [Beto Faro](parlamentares/senadores/beto-faro-pt-pa.md) | Senador, PA (PT) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
+| [Jader Barbalho](parlamentares/senadores/jader-barbalho-mdb-pa.md) | Senador, PA (MDB) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Zequinha Marinho](parlamentares/senadores/zequinha-marinho-podemos-pa.md) | Senador, PA (Podemos) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
 
-| [Daniella Ribeiro](parlamentares/senadores/daniella-ribeiro-pp-pb.md) | Senadora, PB (PP) | 2019 a 2027 | Situação eleitoral a verificar |
-| [Fernando Dueire](parlamentares/senadores/fernando-dueire-psd-pe.md) | Senador, PE (PSD) | A verificar | Situação eleitoral a verificar |
-| [Nelsinho Trad](parlamentares/senadores/nelsinho-trad-psd-ms.md) | Senador, MS (PSD) | 2019 a 2027 | Situação eleitoral a verificar |
+| [Daniella Ribeiro](parlamentares/senadores/daniella-ribeiro-pp-pb.md) | Senadora, PB (PP) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Fernando Dueire](parlamentares/senadores/fernando-dueire-psd-pe.md) | Senador, PE (PSD) | Cadeira 2019 a 2027 (1º suplente) | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Nelsinho Trad](parlamentares/senadores/nelsinho-trad-psd-ms.md) | Senador, MS (PSD) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
 
-| [Ana Paula Lobato](parlamentares/senadores/ana-paula-lobato-psb-ma.md) | Senadora, MA (PSB) | 2023 a 2031 | Mandato em curso |
-| [Mara Gabrilli](parlamentares/senadores/mara-gabrilli-psd-sp.md) | Senadora, SP (PSD) | 2019 a 2027 | Eleição a verificar |
-| [Romário](parlamentares/senadores/romario-sem-partido-rj.md) | Senador, RJ (sem partido) | 2019 a 2027 | Eleição a verificar |
+| [Ana Paula Lobato](parlamentares/senadores/ana-paula-lobato-psb-ma.md) | Senadora, MA (PSB) | Cadeira 2023 a 2031 (1º suplente) | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
+| [Mara Gabrilli](parlamentares/senadores/mara-gabrilli-psd-sp.md) | Senadora, SP (PSD) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Romário](parlamentares/senadores/romario-sem-partido-rj.md) | Senador, RJ (sem partido) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
 
-| [Alan Rick](parlamentares/senadores/alan-rick-republicanos-ac.md) | Senador, AC (Republicanos) | 2019 a 2027 | Eleição a verificar |
-| [Marcio Bittar](parlamentares/senadores/marcio-bittar-pl-ac.md) | Senador, AC (PL) | 2019 a 2027 | Eleição a verificar |
-| [Sérgio Petecão](parlamentares/senadores/sergio-petecao-psd-ac.md) | Senador, AC (PSD) | 2019 a 2027 | Eleição a verificar |
+| [Alan Rick](parlamentares/senadores/alan-rick-republicanos-ac.md) | Senador, AC (Republicanos) | 2023 a 2031 | Disputa 2º turno para governador do Acre em 25/10/2026; cadeira senatorial até 2031 |
+| [Marcio Bittar](parlamentares/senadores/marcio-bittar-pl-ac.md) | Senador, AC (PL) | 2019 a 2027; reeleito para 2027 a 2035 | Reeleito para o Senado em 2026 (mandato 2027–2035) |
+| [Sérgio Petecão](parlamentares/senadores/sergio-petecao-psd-ac.md) | Senador, AC (PSD) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
 
-| [Dra. Eudócia](parlamentares/senadores/dra-eudocia-psdb-al.md) | Senadora, AL (PSDB) | Exercício em 2026 | Detalhes do mandato a verificar |
-| [Lucas Barreto](parlamentares/senadores/lucas-barreto-psd-ap.md) | Senador, AP (PSD) | Exercício em 2026 | Detalhes do mandato a verificar |
-| [Roberta Acioly](parlamentares/senadores/roberta-acioly-republicanos-rr.md) | Senadora, RR (Republicanos) | Exercício em 2026 | Detalhes do mandato a verificar |
+| [Dra. Eudócia](parlamentares/senadores/dra-eudocia-psdb-al.md) | Senadora, AL (PSDB) | Cadeira 2019 a 2027 (1º suplente) | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Lucas Barreto](parlamentares/senadores/lucas-barreto-psd-ap.md) | Senador, AP (PSD) | 2019 a 2027; reeleito para 2027 a 2035 | Reeleito para o Senado em 2026 (mandato 2027–2035) |
+| [Roberta Acioly](parlamentares/senadores/roberta-acioly-republicanos-rr.md) | Senadora, RR (Republicanos) | Cadeira 2019 a 2027 (1º suplente) | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
 
-| [Ivete da Silveira](parlamentares/senadores/ivete-da-silveira-mdb-sc.md) | Senadora, SC (MDB) | Exercício em 2026 | Situação eleitoral a verificar |
-| [Jorge Seif](parlamentares/senadores/jorge-seif-pl-sc.md) | Senador, SC (PL) | Exercício em 2026 | Situação eleitoral a verificar |
-| [Esperidião Amin](parlamentares/senadores/esperidiao-amin-pp-sc.md) | Senador, SC (PP) | Exercício em 2026 | Situação eleitoral a verificar |
+| [Ivete da Silveira](parlamentares/senadores/ivete-da-silveira-mdb-sc.md) | Senadora, SC (MDB) | Cadeira 2019 a 2027 (1º suplente) | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Jorge Seif](parlamentares/senadores/jorge-seif-pl-sc.md) | Senador, SC (PL) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
+| [Esperidião Amin](parlamentares/senadores/esperidiao-amin-pp-sc.md) | Senador, SC (PP) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
 
-| [Carlos Viana](parlamentares/senadores/carlos-viana-psd-mg.md) | Senador, MG (PSD na lista de referência) | Exercício em 2026 | Histórico partidário a conferir |
-| [Izalci Lucas](parlamentares/senadores/izalci-lucas-pl-df.md) | Senador, DF (PL) | Exercício em 2026 | Eleição de 2026 a verificar |
-| [Giordano](parlamentares/senadores/giordano-podemos-sp.md) | Senador, SP (Podemos) | Exercício em 2026 | Eleição de 2026 a verificar |
+| [Carlos Viana](parlamentares/senadores/carlos-viana-psd-mg.md) | Senador, MG (PSD na lista de referência) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Izalci Lucas](parlamentares/senadores/izalci-lucas-pl-df.md) | Senador, DF (PL) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Giordano](parlamentares/senadores/giordano-podemos-sp.md) | Senador, SP (Podemos) | Cadeira 2019 a 2027 (1º suplente) | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
 
-| [Cid Gomes](parlamentares/senadores/cid-gomes-psb-ce.md) | Senador, CE (PSB) | Exercício em 2026 | Mandato a conferir |
-| [Confúcio Moura](parlamentares/senadores/confucio-moura-mdb-ro.md) | Senador, RO (MDB) | Exercício em 2026 | Mandato a conferir |
-| [Styvenson Valentim](parlamentares/senadores/styvenson-valentim-podemos-rn.md) | Senador, RN (Podemos) | Exercício em 2026 | Mandato a conferir |
+| [Cid Gomes](parlamentares/senadores/cid-gomes-psb-ce.md) | Senador, CE (PSB) | 2019 a 2027; reeleito para 2027 a 2035 | Reeleito para o Senado em 2026 (mandato 2027–2035) |
+| [Confúcio Moura](parlamentares/senadores/confucio-moura-mdb-ro.md) | Senador, RO (MDB) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Styvenson Valentim](parlamentares/senadores/styvenson-valentim-podemos-rn.md) | Senador, RN (Podemos) | 2019 a 2027; reeleito para 2027 a 2035 | Reeleito para o Senado em 2026 (mandato 2027–2035) |
 
-| [Plínio Valério](parlamentares/senadores/plinio-valerio-psdb-am.md) | Senador, AM (PSDB) | Exercício em 2026 | Situação eleitoral a verificar |
-| [Jayme Campos](parlamentares/senadores/jayme-campos-uniao-mt.md) | Senador, MT (União Brasil) | Exercício em 2026 | Situação eleitoral a verificar |
-| [Laércio Oliveira](parlamentares/senadores/laercio-oliveira-pp-se.md) | Senador, SE (PP) | Exercício em 2026 | Situação eleitoral a verificar |
+| [Plínio Valério](parlamentares/senadores/plinio-valerio-psdb-am.md) | Senador, AM (PSDB) | 2019 a 2027; reeleito para 2027 a 2035 | Reeleito para o Senado em 2026 (mandato 2027–2035) |
+| [Jayme Campos](parlamentares/senadores/jayme-campos-uniao-mt.md) | Senador, MT (União Brasil) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Laércio Oliveira](parlamentares/senadores/laercio-oliveira-pp-se.md) | Senador, SE (PP) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
 
-| [Carlos Fávaro](parlamentares/senadores/carlos-favaro-psd-mt.md) | Senador, MT (PSD) | Exercício em 2026 | Detalhes do mandato a conferir |
-| [Astronauta Marcos Pontes](parlamentares/senadores/astronauta-marcos-pontes-pl-sp.md) | Senador, SP (PL) | 2023 a 2031 | Mandato em curso |
-| [Jussara Lima](parlamentares/senadores/jussara-lima-psd-pi.md) | Senadora, PI (PSD) | Exercício em 2026 | Detalhes do mandato a conferir |
+| [Carlos Fávaro](parlamentares/senadores/carlos-favaro-psd-mt.md) | Senador, MT (PSD) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Astronauta Marcos Pontes](parlamentares/senadores/astronauta-marcos-pontes-pl-sp.md) | Senador, SP (PL) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
+| [Jussara Lima](parlamentares/senadores/jussara-lima-psd-pi.md) | Senadora, PI (PSD) | Cadeira 2023 a 2031 (1º suplente) | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
 
-| [Marcos Rogério](parlamentares/senadores/marcos-rogerio-pl-ro.md) | Senador, RO (PL) | Exercício em 2026 | Situação eleitoral a verificar |
-| [Eduardo Gomes](parlamentares/senadores/eduardo-gomes-pl-to.md) | Senador, TO (PL) | Exercício em 2026 | Situação eleitoral a verificar |
-| [Irajá](parlamentares/senadores/iraja-psd-to.md) | Senador, TO (PSD) | Exercício em 2026 | Situação eleitoral a verificar |
+| [Marcos Rogério](parlamentares/senadores/marcos-rogerio-pl-ro.md) | Senador, RO (PL) | 2019 a 2027 | Eleito governador de Rondônia em 2026; cadeira senatorial até 2027 |
+| [Eduardo Gomes](parlamentares/senadores/eduardo-gomes-pl-to.md) | Senador, TO (PL) | 2019 a 2027; reeleito para 2027 a 2035 | Reeleito para o Senado em 2026 (mandato 2027–2035) |
+| [Irajá](parlamentares/senadores/iraja-psd-to.md) | Senador, TO (PSD) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
 
-| [Renan Filho](parlamentares/senadores/renan-filho-mdb-al.md) | Senador eleito, AL (MDB) | 2023 a 2031 | Períodos de licença/exercício a conferir |
-| [Camilo Santana](parlamentares/senadores/camilo-santana-pt-ce.md) | Senador eleito, CE (PT) | 2023 a 2031 | Períodos de licença/exercício a conferir |
-| [Chico Rodrigues](parlamentares/senadores/chico-rodrigues-psb-rr.md) | Senador, RR (PSB na lista de referência) | Exercício a conferir | Pesquisa inicial incompleta |
+| [Renan Filho](parlamentares/senadores/renan-filho-mdb-al.md) | Senador eleito, AL (MDB) | 2023 a 2031 | Concorreu ao governo de Alagoas em 2026; cadeira senatorial até 2031 |
+| [Camilo Santana](parlamentares/senadores/camilo-santana-pt-ce.md) | Senador eleito, CE (PT) | 2023 a 2031 | Cadeira senatorial 2023–2031; não disputada ao Senado em 2026 |
+| [Chico Rodrigues](parlamentares/senadores/chico-rodrigues-psb-rr.md) | Senador, RR (PSB na lista de referência) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
 
-| [Jorge Kajuru](parlamentares/senadores/jorge-kajuru-psb-go.md) | Senador, GO (PSB) | Exercício a verificar | Pesquisa legislativa pendente |
-| [Wilder Morais](parlamentares/senadores/wilder-morais-pl-go.md) | Senador, GO (PL) | Exercício a verificar | Pesquisa legislativa pendente |
-| [Luis Carlos Heinze](parlamentares/senadores/luis-carlos-heinze-pp-rs.md) | Senador, RS (PP) | Exercício a verificar | Pesquisa legislativa pendente |
+| [Jorge Kajuru](parlamentares/senadores/jorge-kajuru-psb-go.md) | Senador, GO (PSB) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Wilder Morais](parlamentares/senadores/wilder-morais-pl-go.md) | Senador, GO (PL) | 2023 a 2031 | Concorreu ao governo de Goiás em 2026; cadeira senatorial até 2031 |
+| [Luis Carlos Heinze](parlamentares/senadores/luis-carlos-heinze-pp-rs.md) | Senador, RS (PP) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
 
-| [Angelo Coronel](parlamentares/senadores/angelo-coronel-republicanos-ba.md) | Senador, BA (Republicanos na lista de referência) | Exercício a verificar | Pesquisa documental pendente |
-| [Sargento Reginauro](parlamentares/senadores/sargento-reginauro-psdb-ce.md) | Senador, CE (PSDB na lista de referência) | Exercício a verificar | Pesquisa documental pendente |
-| [Leany Lemos](parlamentares/senadores/leany-lemos-psb-df.md) | Senadora, DF (PSB na lista de referência) | Exercício a verificar | Pesquisa documental pendente |
+| [Angelo Coronel](parlamentares/senadores/angelo-coronel-republicanos-ba.md) | Senador, BA (Republicanos na lista de referência) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Sargento Reginauro](parlamentares/senadores/sargento-reginauro-psdb-ce.md) | Senador, CE (PSDB na lista de referência) | Cadeira 2019 a 2027 (1º suplente) | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Leany Lemos](parlamentares/senadores/leany-lemos-psb-df.md) | Senadora, DF (PSB na lista de referência) | Cadeira 2019 a 2027 (1º suplente) | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
 
-| [Marcos do Val](parlamentares/senadores/marcos-do-val-avante-es.md) | Senador, ES (Avante na lista de referência) | Exercício a verificar | Pesquisa documental pendente |
-| [Renzo Braz](parlamentares/senadores/renzo-braz-pp-mg.md) | Senador, MG (PP na lista de referência) | Exercício a verificar | Pesquisa documental pendente |
+| [Marcos do Val](parlamentares/senadores/marcos-do-val-avante-es.md) | Senador, ES (Avante na lista de referência) | 2019 a 2027 | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
+| [Renzo Braz](parlamentares/senadores/renzo-braz-pp-mg.md) | Senador, MG (PP na lista de referência) | Cadeira 2019 a 2027 (1º suplente) | Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026 |
 
 ## Acompanhamento de votações
 

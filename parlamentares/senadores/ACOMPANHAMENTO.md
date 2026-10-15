@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Controle das fichas do Senado
-permalink: /senado/
+permalink: /senado/acompanhamento/
 ---
 <div class="pagina-texto" markdown="1">
 
@@ -18,6 +18,12 @@ Esta é a lista dos **81 senadores em exercício** na data acima, agrupados por 
 **Fontes:** [Senado Federal: relatório dos 81 senadores em exercício, 14/10/2026](https://adm.senado.gov.br/adm-dadosabertos/api/v1/senadores?formato=html) · [Acompanhamento específico da votação da PEC 221/2019](https://github.com/leorruas/senadores-deputados/blob/main/votacoes/pec-221-2019.md).
 
 **Partidos:** siglas baseadas no cadastro oficial consultado. Eliziane Gama está identificada como PT por sua filiação divulgada em abril de 2026, embora o relatório do Senado ainda a liste como PSD. Para evitar perda de contexto, mudanças posteriores devem ser registradas com data.
+
+## Conferência da situação eleitoral — 14/10/2026
+
+**81 de 81 perfis conferidos quanto à eleição de 2026**: **14 reeleitos**, **27 cadeiras 2023–2031 não disputadas em 2026**, **40 cadeiras 2019–2027 sem novo mandato eleito para seus ocupantes**. Essa divisão descreve o destino das cadeiras; não significa que todos os ocupantes das 40 cadeiras tenham concorrido. As fichas distinguem titulares e suplentes, incluindo candidaturas a outros cargos.
+
+**Fontes:** [cadastro de mandatos e suplentes](https://www12.senado.leg.br/manualdecomunicacao/como-citar-os-senadores) · [54 senadores eleitos](https://www12.senado.leg.br/noticias/materias/2026/10/04/conheca-os-54-senadores-eleitos-neste-domingo) · [14 reeleitos](https://www12.senado.leg.br/noticias/materias/2026/10/05/em-2027-senado-tera-40-senadores-novos-e-14-reeleitos).
 
 ## Fichas por estado
 

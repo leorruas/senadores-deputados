@@ -5,9 +5,9 @@ title: Veneziano Vital do Rêgo
 partido: MDB
 uf: PB
 cargo: Senador
-mandato: "2019 a 2027"
-situacao: "Situação eleitoral de 2026 a verificar"
-categoria_eleitoral: "A verificar"
+mandato: "2019 a 2027; reeleito para 2027 a 2035"
+situacao: "Reeleito para o Senado em 2026 (mandato 2027–2035)"
+categoria_eleitoral: "Reeleito em 2026"
 atualizado: 2026-10-14
 permalink: /parlamentares/senadores/veneziano-vital-do-rego/
 resumo: "Vice-presidente do Senado no biênio 2025–2027; mandato até janeiro de 2027. Voto nominal no fim da escala 6x1 ainda pendente."
@@ -17,6 +17,19 @@ temas:
   - Escala 6x1
 ---
 # Veneziano Vital do Rêgo
+
+<!-- inicio:verificacao-eleitoral-2026 -->
+## Situação eleitoral — conferência de 2026-10-14
+
+**Situação:** Reeleito para o Senado em 2026 (mandato 2027–2035).
+
+**Cadeira:** 2019 a 2027; reeleito para 2027 a 2035. **Condição no registro do Senado:** titular.
+
+**Fontes oficiais:** [Senado: cadeira e suplência](https://www12.senado.leg.br/manualdecomunicacao/como-citar-os-senadores) · [Senado: 54 eleitos em 2026](https://www12.senado.leg.br/noticias/materias/2026/10/04/conheca-os-54-senadores-eleitos-neste-domingo) · [Senado: 14 reeleitos](https://www12.senado.leg.br/noticias/materias/2026/10/05/em-2027-senado-tera-40-senadores-novos-e-14-reeleitos).
+
+**Critério:** esta classificação diferencia vitória na eleição de 2026, continuidade de uma cadeira escolhida em 2022 e ausência de novo mandato eleito para o Senado em 2026. A categoria de encerramento da cadeira **não afirma que a pessoa tenha sido candidata ou derrotada nas urnas**. Para suplentes, o período indicado é o da cadeira, não um mandato individual obtido por eleição direta.
+<!-- fim:verificacao-eleitoral-2026 -->
+
 
 ## Mandato
 

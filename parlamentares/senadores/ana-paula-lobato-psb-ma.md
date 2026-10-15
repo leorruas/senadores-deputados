@@ -5,9 +5,9 @@ title: Ana Paula Lobato
 partido: PSB
 uf: MA
 cargo: Senadora
-mandato: "2023 a 2031"
-situacao: "Situação eleitoral de 2026 a verificar"
-categoria_eleitoral: "A verificar"
+mandato: "Cadeira 2023 a 2031 (1º suplente)"
+situacao: "Cadeira senatorial 2023–2031; não disputada ao Senado em 2026"
+categoria_eleitoral: "Mandato até 2031"
 atualizado: 2026-10-14
 permalink: /parlamentares/senadores/ana-paula-lobato/
 resumo: "Ficha inicial de Ana Paula Lobato com propostas e atos legislativos documentados em fontes do Senado."
@@ -17,6 +17,19 @@ temas:
   - Escala 6x1
 ---
 # Ana Paula Lobato
+
+<!-- inicio:verificacao-eleitoral-2026 -->
+## Situação eleitoral — conferência de 2026-10-14
+
+**Situação:** Cadeira senatorial 2023–2031; não disputada ao Senado em 2026.
+
+**Cadeira:** Cadeira 2023 a 2031 (1º suplente). **Condição no registro do Senado:** 1º suplente.
+
+**Fontes oficiais:** [Senado: cadeira e suplência](https://www12.senado.leg.br/manualdecomunicacao/como-citar-os-senadores) · [Senado: 54 eleitos em 2026](https://www12.senado.leg.br/noticias/materias/2026/10/04/conheca-os-54-senadores-eleitos-neste-domingo).
+
+**Critério:** esta classificação diferencia vitória na eleição de 2026, continuidade de uma cadeira escolhida em 2022 e ausência de novo mandato eleito para o Senado em 2026. A categoria de encerramento da cadeira **não afirma que a pessoa tenha sido candidata ou derrotada nas urnas**. Para suplentes, o período indicado é o da cadeira, não um mandato individual obtido por eleição direta.
+<!-- fim:verificacao-eleitoral-2026 -->
+
 
 ## Mandato
 Ana Paula Lobato ocupa cadeira no Senado pelo Maranhão durante o período legislativo de 2023 a 2031, conforme a lista de referência do projeto. A situação atual do exercício do mandato deve ser conferida no cadastro oficial quando a ficha for ampliada.

@@ -5,9 +5,9 @@ title: Marcos Rogério
 partido: PL
 uf: RO
 cargo: Senador
-mandato: "Exercício em 14/10/2026; período a conferir"
-situacao: "Situação eleitoral a verificar"
-categoria_eleitoral: "A verificar"
+mandato: "2019 a 2027"
+situacao: "Eleito governador de Rondônia em 2026; cadeira senatorial até 2027"
+categoria_eleitoral: "Sem novo mandato no Senado em 2026"
 atualizado: 2026-10-14
 permalink: /parlamentares/senadores/marcos-rogerio/
 resumo: "Ficha inicial com atos legislativos de 2026 e fontes oficiais."
@@ -18,6 +18,19 @@ temas:
   - Escala 6x1
 ---
 # Marcos Rogério
+
+<!-- inicio:verificacao-eleitoral-2026 -->
+## Situação eleitoral — conferência de 2026-10-14
+
+**Situação:** Eleito governador de Rondônia em 2026; cadeira senatorial até 2027.
+
+**Cadeira:** 2019 a 2027. **Condição no registro do Senado:** titular.
+
+**Fontes oficiais:** [Senado: cadeira e suplência](https://www12.senado.leg.br/manualdecomunicacao/como-citar-os-senadores) · [Senado: 54 eleitos em 2026](https://www12.senado.leg.br/noticias/materias/2026/10/04/conheca-os-54-senadores-eleitos-neste-domingo) · [Senado: governadores eleitos](https://www12.senado.leg.br/noticias/materias/2026/10/04/eleicao-para-governador-e-definida-em-primeiro-turno-em-20-estados).
+
+**Critério:** esta classificação diferencia vitória na eleição de 2026, continuidade de uma cadeira escolhida em 2022 e ausência de novo mandato eleito para o Senado em 2026. A categoria de encerramento da cadeira **não afirma que a pessoa tenha sido candidata ou derrotada nas urnas**. Para suplentes, o período indicado é o da cadeira, não um mandato individual obtido por eleição direta.
+<!-- fim:verificacao-eleitoral-2026 -->
+
 
 ## Identificação
 

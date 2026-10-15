@@ -6,8 +6,8 @@ partido: PL
 uf: RJ
 cargo: Senador
 mandato: "2019 a 2027"
-situacao: "Mandato no Senado até janeiro de 2027"
-categoria_eleitoral: "A verificar"
+situacao: "Disputa o 2º turno presidencial em 25/10/2026; cadeira senatorial até 2027"
+categoria_eleitoral: "Sem novo mandato no Senado em 2026"
 atualizado: 2026-10-14
 permalink: /parlamentares/senadores/flavio-bolsonaro/
 resumo: "Assinou a PEC 12/2026, sobre contratação por hora, e declarou apoio à PEC do fim da escala 6x1 em outubro de 2026."
@@ -19,6 +19,19 @@ temas:
   - Instituições
 ---
 # Flávio Bolsonaro (PL-RJ)
+
+<!-- inicio:verificacao-eleitoral-2026 -->
+## Situação eleitoral — conferência de 2026-10-14
+
+**Situação:** Disputa o 2º turno presidencial em 25/10/2026; cadeira senatorial até 2027.
+
+**Cadeira:** 2019 a 2027. **Condição no registro do Senado:** titular.
+
+**Fontes oficiais:** [Senado: cadeira e suplência](https://www12.senado.leg.br/manualdecomunicacao/como-citar-os-senadores) · [Senado: 54 eleitos em 2026](https://www12.senado.leg.br/noticias/materias/2026/10/04/conheca-os-54-senadores-eleitos-neste-domingo) · [Senado: 2º turno presidencial](https://www12.senado.leg.br/noticias/materias/2026/10/04/flavio-bolsonaro-e-lula-disputam-o-segundo-turno-das-eleicoes-para-presidente).
+
+**Critério:** esta classificação diferencia vitória na eleição de 2026, continuidade de uma cadeira escolhida em 2022 e ausência de novo mandato eleito para o Senado em 2026. A categoria de encerramento da cadeira **não afirma que a pessoa tenha sido candidata ou derrotada nas urnas**. Para suplentes, o período indicado é o da cadeira, não um mandato individual obtido por eleição direta.
+<!-- fim:verificacao-eleitoral-2026 -->
+
 
 **Ficha criada em:** 14/10/2026. Este é um levantamento parcial com documentos e declarações verificáveis, não um inventário completo de votos.
 

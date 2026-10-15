@@ -12,6 +12,10 @@ O trabalho continua em **lotes de 3 a 5 parlamentares**. Cada lote inclui: pesqu
 
 **Limite de cada etapa:** publicar somente as fichas sustentadas por fontes; marcar fatos não conferidos como pendentes. Não multiplicar fichas vazias apenas para avançar a contagem.
 
+## Situação eleitoral de 2026 — conferida
+
+Conferência do inventário de 81 fichas em 14/10/2026: **14 reeleições, 27 cadeiras com mandato até 2031 e 40 cadeiras que terminam em 2027 sem novo mandato no Senado eleito para a pessoa listada**. Foram corrigidos os períodos de exercício e identificados suplentes, usando o cadastro do Senado; em especial, **Romário ocupa cadeira 2023–2031**. A pesquisa legislativa de várias fichas continua pendente. Fontes: [quadro oficial de mandatos](https://www12.senado.leg.br/manualdecomunicacao/como-citar-os-senadores), [reeleitos](https://www12.senado.leg.br/noticias/materias/2026/10/05/em-2027-senado-tera-40-senadores-novos-e-14-reeleitos), [eleitos](https://www12.senado.leg.br/noticias/materias/2026/10/04/conheca-os-54-senadores-eleitos-neste-domingo).
+
 ## Fase 2: assuntos
 
 **Planejada, não implementada.** Definir uma lista de assuntos para todas as fichas, com nomes comuns, como trabalho, saúde, educação, orçamento, meio ambiente, direitos sociais e instituições. Criar uma forma única de identificar cada assunto no Markdown, com sinônimos como `6x1`, `jornada` e `descanso semanal`.

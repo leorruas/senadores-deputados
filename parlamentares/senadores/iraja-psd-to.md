@@ -5,9 +5,9 @@ title: Irajá
 partido: PSD
 uf: TO
 cargo: Senador
-mandato: "Exercício em 14/10/2026; período a conferir"
-situacao: "Situação eleitoral a verificar"
-categoria_eleitoral: "A verificar"
+mandato: "2019 a 2027"
+situacao: "Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026"
+categoria_eleitoral: "Sem novo mandato no Senado em 2026"
 atualizado: 2026-10-14
 permalink: /parlamentares/senadores/iraja/
 resumo: "Ficha inicial com atos legislativos de 2026 e fontes oficiais."
@@ -19,6 +19,19 @@ temas:
   - Convivência comunitária
 ---
 # Irajá
+
+<!-- inicio:verificacao-eleitoral-2026 -->
+## Situação eleitoral — conferência de 2026-10-14
+
+**Situação:** Cadeira até janeiro de 2027; sem novo mandato no Senado em 2026.
+
+**Cadeira:** 2019 a 2027. **Condição no registro do Senado:** titular.
+
+**Fontes oficiais:** [Senado: cadeira e suplência](https://www12.senado.leg.br/manualdecomunicacao/como-citar-os-senadores) · [Senado: 54 eleitos em 2026](https://www12.senado.leg.br/noticias/materias/2026/10/04/conheca-os-54-senadores-eleitos-neste-domingo).
+
+**Critério:** esta classificação diferencia vitória na eleição de 2026, continuidade de uma cadeira escolhida em 2022 e ausência de novo mandato eleito para o Senado em 2026. A categoria de encerramento da cadeira **não afirma que a pessoa tenha sido candidata ou derrotada nas urnas**. Para suplentes, o período indicado é o da cadeira, não um mandato individual obtido por eleição direta.
+<!-- fim:verificacao-eleitoral-2026 -->
+
 
 ## Identificação
 
