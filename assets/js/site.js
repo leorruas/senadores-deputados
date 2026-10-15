@@ -145,6 +145,9 @@
   const camaraContagem = document.getElementById("camara-contagem");
   const camaraVazio = document.getElementById("camara-sem-resultados");
   const deputadosCamara = Array.from(document.querySelectorAll(".camara-linha"));
+  const tipoCatalogo = document.querySelector(".camara-inventario");
+  const singularCatalogo = tipoCatalogo?.dataset.itemSingular || "deputado";
+  const pluralCatalogo = tipoCatalogo?.dataset.itemPlural || "deputados";
 
   if (camaraBusca && camaraUf && camaraPartido && camaraContagem && camaraVazio) {
     const camposCamara = [["q", camaraBusca], ["uf", camaraUf], ["partido", camaraPartido]];
@@ -167,7 +170,7 @@
         deputado.hidden = !corresponde;
         if (corresponde) visiveis++;
       });
-      camaraContagem.textContent = visiveis + (visiveis === 1 ? " deputado encontrado" : " deputados encontrados");
+      camaraContagem.textContent = visiveis + (visiveis === 1 ? " " + singularCatalogo + " encontrado" : " " + pluralCatalogo + " encontrados");
       camaraVazio.hidden = visiveis > 0;
       if (camaraLimpar) camaraLimpar.hidden = !camposCamara.some(([, campo]) => campo.value);
     };
