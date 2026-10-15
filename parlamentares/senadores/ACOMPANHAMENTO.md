@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Controle das fichas do Senado
-permalink: /senado/acompanhamento/
+permalink: /senado/acompanhamento/acompanhamento/
 ---
 <div class="pagina-texto" markdown="1">
 
