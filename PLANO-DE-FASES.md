@@ -20,13 +20,13 @@ Adicionar um índice de assuntos ao site e filtros que permitam encontrar parlam
 
 ## Fase 3: votações por proposta
 
-**Planejada, com registro preliminar iniciado.** Cada proposição terá uma página própria com seu texto, tramitação, turno e eventual votação de destaques e emendas. Para cada parlamentar, registrar:
+**Em desenvolvimento, com dossiê histórico e mapas nominais oficiais da Câmara já vinculados.** Cada proposição terá uma página própria com seu texto, tramitação, turno e eventual votação de destaques e emendas. Para cada parlamentar, registrar:
 
 - `sim`, `não`, `abstenção`, `ausência` ou `não registrou voto`, conforme a classificação oficial;
 - data, casa legislativa, turno, objeto da votação e link da fonte;
 - status da informação: `confirmado em mapa nominal`, `declaração registrada` ou `relato durante sessão, não confirmado`.
 
-Começar pela [PEC 221/2019, fim da escala 6x1](votacoes/pec-221-2019.md). O registro existente traz quatro manifestações “sim” informadas durante o acompanhamento ao vivo, **ainda sem atribuição de voto nominal oficial**. O documento final deverá oferecer visão da proposta e lista de votos individuais confirmados para cada turno.
+A primeira proposta é a [PEC 221/2019, fim da escala 6x1](votacoes/pec-221-2019.md). O dossiê acompanha Reginaldo Lopes (2019), Erika Hilton (2025), substitutivo de Leo Prates e votação da Câmara em dois turnos (27/05/2026). A lista nominal completa da Câmara será incluída automaticamente após importação e checagem de totais (script e workflow documentados no README). O acompanhamento do Senado em 14/10/2026 ainda não tem voto nominal comprovado na consulta; os quatro “sim” informados pelo usuário permanecem como **relatos não confirmados**, não resultado legislativo.
 
 ## Fase 4: Senado e Câmara em espaços separados
 
