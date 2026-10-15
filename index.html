@@ -19,7 +19,7 @@ permalink: /
 </section>
 <div class="atalhos-casas" aria-label="Consultar por casa legislativa">
   <a href="{{ '/senado/' | relative_url }}"><span>01 / SENADO</span><strong>{{ perfis | size }} FICHAS INICIADAS</strong><span aria-hidden="true">↗</span></a>
-  <a href="{{ '/camara/' | relative_url }}"><span>02 / CÂMARA</span><strong>513 DEPUTADOS NO INVENTÁRIO</strong><span aria-hidden="true">↗</span></a>
+  <a href="{{ '/camara/' | relative_url }}"><span>02 / CÂMARA</span><strong>{{ site.data.deputados_camara.total | default: 0 }} DEPUTADOS NO INVENTÁRIO</strong><span aria-hidden="true">↗</span></a>
 </div>
 
 <section class="catalogo" aria-labelledby="titulo-catalogo">
