@@ -8,6 +8,14 @@ O desenvolvimento está organizado no [plano por fases](PLANO-DE-FASES.md): prim
 
 [Abrir índice de votações](https://leorruas.github.io/senadores-deputados/votacoes/). As propostas são cadastradas em [\`_data/votacoes.yml\`](_data/votacoes.yml), com páginas individuais em \`votacoes/\`. O primeiro registro é o [dossiê da PEC 221/2019 — fim da escala 6x1](votacoes/pec-221-2019.md), com origem em 2019, PEC de Erika Hilton (2025), substitutivo de Leo Prates, cronologia de votações em 2026 e links para os **dois mapas nominais completos da Câmara**. O script [\`scripts/importar_votos_pec_221_2019.py\`](scripts/importar_votos_pec_221_2019.py) importa as listas nominais com verificação dos totais oficiais, publicadas em [\`_data/votos_pec_221_2019.json\`](_data/votos_pec_221_2019.json). **A importação dos dois turnos foi concluída com validação das contagens: 472/22 no primeiro e 461/19 no segundo.** Relatos durante a sessão do Senado não são votos oficiais.
 
+## Índice da Câmara dos Deputados
+
+[**Consultar lista da Câmara**](https://leorruas.github.io/senadores-deputados/camara/) — **513 deputados em exercício** na data do último retrato oficial (57ª legislatura). O inventário está em [`_data/deputados_camara.json`](_data/deputados_camara.json), importado da [API dos Dados Abertos da Câmara](https://dadosabertos.camara.leg.br/api/v2/deputados) pelo [script de importação](scripts/importar_deputados_camara.py). O arquivo tem identificador oficial, nome parlamentar, partido, UF e link de cadastro. A atualização automática ocorre semanalmente às segundas-feiras, com opção de execução manual no [workflow](.github/workflows/atualizar-camara.yml). A importação só publica nova lista depois de validar 513 deputados, 27 UFs, dados obrigatórios e identificadores únicos.
+
+**Importante:** essa lista é um inventário de deputados em exercício, **não 513 perfis pesquisados**, e não é a composição eleita em 2026 para a próxima legislatura. Suplentes assumidos podem constar entre os 513; licenciados podem não constar. O retrato registra a filiação informada pela Câmara naquele momento. Para consultas de votos por matéria e turno, usar os registros nominais, nunca inferir voto pela filiação partidária.
+
+[**Abrir índice do Senado**](https://leorruas.github.io/senadores-deputados/senado/) — acesso às 81 fichas iniciadas, ainda com pesquisa documental pendente em parte delas.
+
 ## Controle das 81 fichas do Senado
 
 [**Abrir acompanhamento por estado**](parlamentares/senadores/ACOMPANHAMENTO.md): 81 senadores em exercício em 14/10/2026, com caixas de seleção para registrar as fichas prontas. **81 criadas, 0 pendentes de criação.** Este é o inventário de pesquisa; [o registro dos votos da PEC 221/2019](votacoes/pec-221-2019.md) fica em documento separado.
