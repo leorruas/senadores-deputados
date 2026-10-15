@@ -136,4 +136,60 @@
     tipoVotos.addEventListener("change", filtrarVotos);
     filtrarVotos();
   });
+
+  // Inventário oficial da Câmara: filtro independente dos perfis pesquisados.
+  const camaraBusca = document.getElementById("camara-busca");
+  const camaraUf = document.getElementById("camara-uf");
+  const camaraPartido = document.getElementById("camara-partido");
+  const camaraLimpar = document.getElementById("camara-limpar");
+  const camaraContagem = document.getElementById("camara-contagem");
+  const camaraVazio = document.getElementById("camara-sem-resultados");
+  const deputadosCamara = Array.from(document.querySelectorAll(".camara-linha"));
+
+  if (camaraBusca && camaraUf && camaraPartido && camaraContagem && camaraVazio) {
+    const camposCamara = [["q", camaraBusca], ["uf", camaraUf], ["partido", camaraPartido]];
+    const normalizarCamara = (texto) => String(texto || "")
+      .normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
+
+    const lerParametrosCamara = () => {
+      const parametros = new URL(window.location.href).searchParams;
+      camposCamara.forEach(([chave, campo]) => {
+        campo.value = parametros.get(chave) || "";
+      });
+    };
+    const filtrarCamara = () => {
+      let visiveis = 0;
+      const termo = normalizarCamara(camaraBusca.value);
+      deputadosCamara.forEach((deputado) => {
+        const corresponde = normalizarCamara(deputado.dataset.camaraBusca).includes(termo)
+          && (!camaraUf.value || deputado.dataset.camaraUf === camaraUf.value)
+          && (!camaraPartido.value || deputado.dataset.camaraPartido === camaraPartido.value);
+        deputado.hidden = !corresponde;
+        if (corresponde) visiveis++;
+      });
+      camaraContagem.textContent = visiveis + (visiveis === 1 ? " deputado encontrado" : " deputados encontrados");
+      camaraVazio.hidden = visiveis > 0;
+      if (camaraLimpar) camaraLimpar.hidden = !camposCamara.some(([, campo]) => campo.value);
+    };
+    const atualizarCamara = () => {
+      const endereco = new URL(window.location.href);
+      camposCamara.forEach(([chave, campo]) => {
+        const valor = campo.value.trim();
+        if (valor) endereco.searchParams.set(chave, valor);
+        else endereco.searchParams.delete(chave);
+      });
+      window.history.replaceState(null, "", endereco);
+      filtrarCamara();
+    };
+    lerParametrosCamara();
+    camaraBusca.addEventListener("input", atualizarCamara);
+    [camaraUf, camaraPartido].forEach((campo) => campo.addEventListener("change", atualizarCamara));
+    if (camaraLimpar) camaraLimpar.addEventListener("click", () => {
+      camposCamara.forEach(([, campo]) => { campo.value = ""; });
+      atualizarCamara();
+      camaraBusca.focus();
+    });
+    window.addEventListener("popstate", () => { lerParametrosCamara(); filtrarCamara(); });
+    filtrarCamara();
+  }
 })();
