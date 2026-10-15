@@ -1,0 +1,45 @@
+---
+layout: default
+title: Senado
+permalink: /senado/
+resumo: Índice de fichas de pesquisa do Senado Federal, com busca por nome, estado e partido.
+---
+{% assign senadores = site.pages | where: "layout", "perfil" | where_exp: "pessoa", "pessoa.cargo contains 'Senador'" | sort: "nome" %}
+{% assign estados = senadores | map: "uf" | uniq | sort %}
+{% assign partidos = senadores | map: "partido" | uniq | sort %}
+
+<section class="camara-hero" aria-labelledby="titulo-senado">
+  <p class="sobretitulo">ARQUIVO PARLAMENTAR / SENADO FEDERAL</p>
+  <div class="camara-hero__grid">
+    <h1 id="titulo-senado">SENADO<span class="ponto-titulo">.</span></h1>
+    <div class="camara-hero__total"><strong>{{ senadores | size }}</strong><span>FICHAS<br>INICIADAS</span></div>
+  </div>
+  <div class="camara-hero__rodape">
+    <p>Consulte as fichas dos senadores por nome, estado ou partido. A pesquisa legislativa ainda está sendo completada em parte dos registros.</p>
+    <a href="{{ '/votacoes/' | relative_url }}">VER VOTAÇÕES ↗</a>
+  </div>
+</section>
+
+<section class="camara-inventario" aria-labelledby="titulo-senado-lista">
+  <header class="camara-inventario__titulo"><div><p class="sobretitulo">ÍNDICE / 01</p><h2 id="titulo-senado-lista">SENADORES<span class="contagem-total">({{ senadores | size }})</span></h2></div><p>Inventário inicial de 2026<br>Documentação em revisão</p></header>
+  <div class="camara-filtros" role="search" aria-label="Pesquisar senadores">
+    <div class="campo-busca"><label for="camara-busca">01 / Nome do senador</label><div class="campo-busca__linha"><input id="camara-busca" type="search" placeholder="Buscar senador..." autocomplete="off" aria-describedby="camara-contagem"><span aria-hidden="true">⌕</span></div></div>
+    <div class="campo-filtro"><label for="camara-uf">02 / Estado</label><select id="camara-uf"><option value="">Todas as UFs</option>{% for uf in estados %}<option value="{{ uf | escape }}">{{ uf | escape }}</option>{% endfor %}</select></div>
+    <div class="campo-filtro"><label for="camara-partido">03 / Partido</label><select id="camara-partido"><option value="">Todos os partidos</option>{% for sigla in partidos %}<option value="{{ sigla | escape }}">{{ sigla | escape }}</option>{% endfor %}</select></div>
+  </div>
+  <div class="camara-resultado"><p id="camara-contagem" aria-live="polite" role="status">{{ senadores | size }} senadores encontrados</p><button type="button" id="camara-limpar" hidden>LIMPAR FILTROS ×</button><span>ORDEM ALFABÉTICA</span></div>
+  <div class="camara-lista">
+    <div class="camara-lista__legenda" aria-hidden="true"><span>Nº</span><span>PARLAMENTAR</span><span>UF</span><span>PARTIDO</span><span>FICHA</span></div>
+    {% for pessoa in senadores %}
+    <a class="camara-linha" href="{{ pessoa.url | relative_url }}" data-camara-busca="{{ pessoa.nome | escape }}" data-camara-uf="{{ pessoa.uf | escape }}" data-camara-partido="{{ pessoa.partido | escape }}" aria-label="{{ pessoa.nome | escape }}, {{ pessoa.partido | escape }} de {{ pessoa.uf | escape }}. Abrir ficha de pesquisa">
+      <span class="camara-linha__numero" aria-hidden="true">{{ forloop.index | prepend: "00" | slice: -3, 3 }}</span>
+      <strong class="camara-linha__nome">{{ pessoa.nome | escape }}</strong>
+      <span class="camara-linha__uf">{{ pessoa.uf | escape }}</span>
+      <span class="camara-linha__partido">{{ pessoa.partido | escape }}</span>
+      <span class="camara-linha__link">FICHA ↗</span>
+    </a>
+    {% endfor %}
+  </div>
+  <p class="camara-vazio" id="camara-sem-resultados" hidden>Nenhum senador encontrado. Experimente outros filtros.</p>
+</section>
+<section class="camara-nota"><div><p class="sobretitulo">METODOLOGIA / 02</p><h2>FICHAS EM REVISÃO.</h2></div><div><p>As fichas reúnem registros documentais em diferentes estágios de pesquisa. Criar uma ficha não significa que todos os dados de mandato, filiação partidária, declarações e votos tenham sido verificados. Consulte sempre as fontes indicadas.</p><p><a href="{{ '/metodologia/' | relative_url }}">COMO DOCUMENTAMOS ↗</a></p></div></section>
