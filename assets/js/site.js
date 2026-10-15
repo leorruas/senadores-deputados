@@ -114,4 +114,27 @@
       sumario.textContent = "Nenhuma seção cadastrada.";
     }
   }
+}
+  // Consulta dos mapas nominais importados da Câmara. Filtros independentes por turno.
+  document.querySelectorAll(".votos-turno").forEach((bloco) => {
+    const buscaVotos = bloco.querySelector(".votos-busca");
+    const tipoVotos = bloco.querySelector(".votos-tipo");
+    const linhas = Array.from(bloco.querySelectorAll(".votos-tabela tbody tr"));
+    const contador = bloco.querySelector(".votos-contagem");
+    if (!buscaVotos || !tipoVotos || !contador) return;
+    const normalizarVoto = (valor) => (valor || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+    const filtrarVotos = () => {
+      const termo = normalizarVoto(buscaVotos.value.trim());
+      let total = 0;
+      linhas.forEach((linha) => {
+        const aparece = normalizarVoto(linha.dataset.busca).includes(termo) && (!tipoVotos.value || linha.dataset.voto === tipoVotos.value);
+        linha.hidden = !aparece;
+        if (aparece) total++;
+      });
+      contador.textContent = total + (total === 1 ? " registro encontrado" : " registros encontrados");
+    };
+    buscaVotos.addEventListener("input", filtrarVotos);
+    tipoVotos.addEventListener("change", filtrarVotos);
+    filtrarVotos();
+  });
 })();
