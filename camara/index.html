@@ -1,0 +1,93 @@
+---
+layout: default
+title: Câmara dos Deputados
+permalink: /camara/
+resumo: Inventário de deputados federais em exercício, com dados oficiais, busca por nome e filtros de UF e partido.
+---
+{% assign inventario = site.data.deputados_camara %}
+{% assign deputados = inventario.deputados %}
+{% assign estados = deputados | map: "uf" | uniq | sort %}
+{% assign partidos = deputados | map: "partido" | uniq | sort %}
+
+<section class="camara-hero" aria-labelledby="titulo-camara">
+  <p class="sobretitulo">ARQUIVO PARLAMENTAR / CÂMARA DOS DEPUTADOS</p>
+  <div class="camara-hero__grid">
+    <h1 id="titulo-camara">CÂMARA<span class="ponto-titulo">.</span></h1>
+    <div class="camara-hero__total">
+      <strong>{{ inventario.total | default: 0 }}</strong>
+      <span>DEPUTADOS<br>NO RETRATO</span>
+    </div>
+  </div>
+  <div class="camara-hero__rodape">
+    <p>Quem está em exercício na Câmara Federal. Consulte por nome, estado ou partido e acesse o cadastro oficial de cada parlamentar.</p>
+    <a href="{{ '/votacoes/pec-221-2019/' | relative_url }}">VER OS VOTOS DA ESCALA 6X1 ↗</a>
+  </div>
+</section>
+
+<section class="camara-inventario" aria-labelledby="titulo-camara-lista">
+  <header class="camara-inventario__titulo">
+    <div><p class="sobretitulo">ÍNDICE / 01</p><h2 id="titulo-camara-lista">DEPUTADOS<span class="contagem-total">({{ deputados | size }})</span></h2></div>
+    <p>57ª legislatura (2023–2027)<br>Retrato da fonte: {% if inventario.atualizado_em_utc %}{{ inventario.atualizado_em_utc | date: "%d/%m/%Y" }}{% else %}aguardando importação{% endif %}</p>
+  </header>
+
+  <div class="camara-filtros" role="search" aria-label="Pesquisar deputados">
+    <div class="campo-busca">
+      <label for="camara-busca">01 / Nome do deputado</label>
+      <div class="campo-busca__linha">
+        <input id="camara-busca" type="search" placeholder="Buscar deputado..." aria-describedby="camara-contagem" autocomplete="off">
+        <span aria-hidden="true">⌕</span>
+      </div>
+    </div>
+    <div class="campo-filtro">
+      <label for="camara-uf">02 / Estado</label>
+      <select id="camara-uf">
+        <option value="">Todas as UFs</option>
+        {% for estado in estados %}
+        <option value="{{ estado | escape }}">{{ estado | escape }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="campo-filtro">
+      <label for="camara-partido">03 / Partido</label>
+      <select id="camara-partido">
+        <option value="">Todos os partidos</option>
+        {% for sigla in partidos %}
+        <option value="{{ sigla | escape }}">{{ sigla | escape }}</option>
+        {% endfor %}
+      </select>
+    </div>
+  </div>
+
+  <div class="camara-resultado">
+    <p id="camara-contagem" role="status" aria-live="polite">{{ deputados | size }} deputados encontrados</p>
+    <button type="button" id="camara-limpar" hidden>LIMPAR FILTROS ×</button>
+    <span>ORDEM ALFABÉTICA</span>
+  </div>
+
+  {% if deputados and deputados.size > 0 %}
+  <div class="camara-lista" id="camara-lista">
+    <div class="camara-lista__legenda" aria-hidden="true"><span>Nº</span><span>PARLAMENTAR</span><span>UF</span><span>PARTIDO</span><span>FONTE</span></div>
+    {% for pessoa in deputados %}
+    <a class="camara-linha" href="{{ pessoa.url | escape }}" target="_blank" rel="noopener noreferrer" data-camara-busca="{{ pessoa.nome | escape }}" data-camara-uf="{{ pessoa.uf | escape }}" data-camara-partido="{{ pessoa.partido | escape }}" aria-label="{{ pessoa.nome | escape }}, {{ pessoa.partido | escape }} de {{ pessoa.uf | escape }}. Abrir ficha oficial na Câmara dos Deputados (nova guia)">
+      <span class="camara-linha__numero" aria-hidden="true">{{ forloop.index | prepend: "00" | slice: -3, 3 }}</span>
+      <strong class="camara-linha__nome">{{ pessoa.nome | escape }}</strong>
+      <span class="camara-linha__uf">{{ pessoa.uf | escape }}</span>
+      <span class="camara-linha__partido">{{ pessoa.partido | escape }}</span>
+      <span class="camara-linha__link">OFICIAL ↗</span>
+    </a>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="camara-vazio">O retrato da Câmara está sendo importado da fonte oficial. Tente novamente após a atualização do site.</p>
+  {% endif %}
+  <p class="camara-vazio" id="camara-sem-resultados" hidden>Nenhum deputado encontrado. Experimente outra combinação de filtros.</p>
+</section>
+
+<section class="camara-nota" aria-labelledby="camara-sobre-titulo">
+  <div><p class="sobretitulo">FONTE / 02</p><h2 id="camara-sobre-titulo">UM RETRATO.<br>NÃO UM VEREDITO.</h2></div>
+  <div>
+    <p>A relação mostra o nome parlamentar, a UF e o partido fornecidos pelos <a href="https://dadosabertos.camara.leg.br/" target="_blank" rel="noopener noreferrer">Dados Abertos da Câmara dos Deputados ↗</a> na data indicada. O cadastro pode mudar com licenças, substituições ou mudanças de partido.</p>
+    <p><strong>Esta é a lista inicial, não 513 fichas de pesquisa concluídas.</strong> O acesso “Oficial ↗” abre o cadastro da Câmara. Para consultar votos nominais que já verificamos, visite o <a href="{{ '/votacoes/' | relative_url }}">índice de votações ↗</a>.</p>
+    <p><a href="https://github.com/leorruas/senadores-deputados/blob/main/_data/deputados_camara.json" target="_blank" rel="noopener noreferrer">VER BASE UTILIZADA E DATA DE IMPORTAÇÃO ↗</a></p>
+  </div>
+</section>
