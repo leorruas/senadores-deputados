@@ -32,7 +32,7 @@ a:focus-visible, input:focus-visible, select:focus-visible { outline: 3px solid 
 .marca { display: inline-flex; align-items: center; gap: .75rem; font-weight: 900; font-size: 1.07rem; line-height: .89; letter-spacing: -.06em; text-decoration: none; }
 .marca img { width: 35px; height: auto; flex: 0 0 auto; }
 .marca-ponto, .ponto-titulo { color: var(--color-green); }
-.navegacao { display: flex; align-items: center; flex-wrap: wrap; justify-content: end; gap: clamp(.8rem, 3vw, 3rem); }
+.navegacao { display: flex; align-items: center; flex-wrap: wrap; justify-content: end; gap: clamp(.65rem, 1.8vw, 1.5rem); }
 .navegacao a { font-size: .68rem; font-weight: 800; letter-spacing: .09em; text-decoration: none; }
 .navegacao a:hover { color: var(--color-green); }
 .conteudo-principal { min-height: 55vh; }
@@ -380,4 +380,19 @@ a:focus-visible, input:focus-visible, select:focus-visible { outline: 3px solid 
 @media (max-width: 380px) {
   .camara-filtros { grid-template-columns:1fr; }
   .camara-filtros .campo-busca { grid-column:1; }
+}
+
+/* Chamadas para os dois diretórios na página inicial */
+.atalhos-casas { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); border-bottom:var(--rule); }
+.atalhos-casas a { display:grid; grid-template-columns:1fr auto; gap:.65rem; padding:1.5rem 1.3rem; border-right:var(--rule); text-decoration:none; transition:background .15s; }
+.atalhos-casas a:first-child { padding-left:0; }
+.atalhos-casas a:last-child { border-right:0; padding-right:0; }
+.atalhos-casas a:hover,.atalhos-casas a:focus-visible { background:#f2f7f2; }
+.atalhos-casas a > span:first-child { grid-column:1 / -1; font-size:.68rem; letter-spacing:.11em; font-weight:900; }
+.atalhos-casas strong { font-size:clamp(1.1rem,2vw,1.75rem); font-weight:900; line-height:1.1; letter-spacing:-.04em; }
+.atalhos-casas a > span:last-child { justify-self:end; font-size:1.6rem; line-height:1; }
+@media (max-width:620px) {
+  .atalhos-casas { grid-template-columns:1fr; }
+  .atalhos-casas a,.atalhos-casas a:first-child,.atalhos-casas a:last-child { border-right:0; padding:1.2rem 0; }
+  .atalhos-casas a:first-child { border-bottom:var(--rule); }
 }
