@@ -1,0 +1,5884 @@
+{
+  "origem": "Mapas nominais oficiais da Câmara dos Deputados",
+  "gerado_em_utc": "2026-10-15T00:04:02Z",
+  "turnos": [
+    {
+      "id": "primeiro",
+      "titulo": "1º turno — emenda aglutinativa nº 1",
+      "data": "2026-05-27",
+      "url_fonte": "https://www.camara.leg.br/internet/votacao/mostraVotacao.asp?codCasa=1&indTipoSessao=E&indTipoSessaoLegislativa=O&numLegislatura=57&numSessao=106&numSessaoLegislativa=4&tipo=partido&ideVotacao=13752",
+      "contagem": {
+        "Abstenção": 0,
+        "Sim": 472,
+        "Não": 22,
+        "Obstrução": 1
+      },
+      "votos": [
+        {
+          "nome": "Acácio Favacho",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Adail Filho",
+          "uf": "AM",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Adilson Barroso",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Adriana Ventura",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Adriano do Baldy",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Afonso Florence",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Afonso Hamm",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Aguinaldo Ribeiro",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Airton Faleiro",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "AJ Albuquerque",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alberto Fraga",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Albuquerque",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alceu Moreira",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alencar Santana",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alex Manente",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alexandre Guimarães",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alexandre Lindenmeyer",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alfredinho",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alfredo Gaspar",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alice Portugal",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Aliel Machado",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Aline Gurgel",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Altineu Côrtes",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Aluisio Mendes",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Amanda Gentil",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Amaro Neto",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Amom Mandel",
+          "uf": "AM",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ana Paula Leão",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ana Paula Lima",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ana Pimentel",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Andreia Siqueira",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "André Abdon",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "André Fernandes",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "André Ferreira",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "André Figueiredo",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "André Fufuca",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "André Janones",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Antonio Andrade",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Antonio Brito",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Antonio Carlos Rodrigues",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Antônia Lúcia",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Antônio Doido",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Any Ortiz",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Arlindo Chinaglia",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Arthur Lira",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Arthur Oliveira Maia",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Augusto Coutinho",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Aureo Ribeiro",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Aécio Neves",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Bacelar",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Baleia Rossi",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Bandeira de Mello",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Bebeto",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Benedita da Silva",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Benes Leocádio",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Beto Pereira",
+          "uf": "MS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Beto Preto",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Beto Richa",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Bia Kicis",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Bibo Nunes",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Bohn Gass",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Bruno Farias",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Bruno Ganem",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Cabo Gilberto Silva",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Camila Jara",
+          "uf": "MS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Capitão Alberto Neto",
+          "uf": "AM",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Capitão Alden",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Capitão Augusto",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carla Dickson",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carlos Chiodini",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Carlos Gomes",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carlos Henrique Gaguim",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carlos Jordy",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carlos Sampaio",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carlos Veras",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carlos Zarattini",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carol Dartora",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Caroline de Toni",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Castro Neto",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Celso Russomanno",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Celso Sabino",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Cezinha de Madureira",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Charles Fernandes",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Chico Alencar",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Chris Tonietto",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Clarissa Tércio",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Claudio Cajado",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Cleber Verde",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Clodoaldo Magalhães",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Coronel Assis",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Coronel Chrisóstomo",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Coronel Fernanda",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Coronel Meira",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Coronel Ulysses",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Cristiane Lopes",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Célia Xakriabá",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Célio Silveira",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Célio Studart",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Da Vitoria",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dagoberto Nogueira",
+          "uf": "MS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Daiana Santos",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dal Barreto",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Damião Feliciano",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dandara",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dani Cunha",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Daniel Agrobom",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Daniel Almeida",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Daniel Barbosa",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Daniel Freitas",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Daniel Trzeciak",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Daniela do Waguinho",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Daniela Reinehr",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Danilo Forte",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Danrlei de Deus Hinterholz",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "David Soares",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Defensor Stélio Dener",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegada Adriana Accorsi",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegada Ione",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegada Katarina",
+          "uf": "SE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Bruno Lima",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Caveira",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado da Cunha",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Fabio Costa",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Marcelo Freitas",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Matheus Laiola",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Palumbo",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Paulo Bilynskyj",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Éder Mauro",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Denise Pessôa",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Diego Andrade",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Diego Coronel",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Diego Garcia",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dilvanda Faro",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dimas Fabiano",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dimas Gadelha",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Domingos Neto",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Domingos Sávio",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dorinaldo Malafaia",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Doutor Luizinho",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr Flávio",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Daniel Soranz",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Fernando Máximo",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Francisco",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Frederico",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Ismael Alexandrino",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Jaziel",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Luiz Ovando",
+          "uf": "MS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Victor Linhalis",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Zacharias Calil",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dra. Alessandra Haber",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Duarte Jr.",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Duda Ramos",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Duda Salabert",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Eduardo Bismarck",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Eduardo da Fonte",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Eduardo Velloso",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Elcione Barbalho",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Eli Borges",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Elmar Nascimento",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Emanuel Pinheiro Neto",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Emidinho Madeira",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Enfermeira Rejane",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Eriberto Medeiros",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Erika Hilton",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Erika Kokay",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Eros Biondini",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Eunício Oliveira",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Evair Vieira de Melo",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fabio Garcia",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fabio Reis",
+          "uf": "SE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fabio Schiochet",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Fausto Jr.",
+          "uf": "AM",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fausto Pinato",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Felipe Becari",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Felipe Carreras",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Felipe Francischini",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fernanda Melchionna",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fernanda Pessoa",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fernando Coelho Filho",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fernando Mineiro",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fernando Monteiro",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fernando Rodolfo",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Filipe Barros",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Filipe Martins",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Florentino Neto",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Flávia Morais",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Flávio Nogueira",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Franciane Bayer",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fred Costa",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fred Linhares",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fábio Macedo",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fábio Teruel",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Félix Mendonça Júnior",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gabriel Mota",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gabriel Nunes",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "General Girão",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "General Pazuello",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Geraldo Mendes",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Geraldo Resende",
+          "uf": "MS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gervásio Maia",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gilberto Abramo",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gilberto Nascimento",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gilson Daniel",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gilson Marques",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Gilvan da Federal",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Giovani Cherini",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Glaustin da Fokus",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Glaycon Franco",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gleisi Hoffmann",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Greyce Elias",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Guilherme Uchoa",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gustavo Gayer",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gustinho Ribeiro",
+          "uf": "SE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gutemberg Reis",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Heitor Schuch",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Helder Salomão",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Helena Lima",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Helio Lopes",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Heloísa Helena",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Henderson Pinto",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Hercílio Coelho Diniz",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Hildo Rocha",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Hugo Leal",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Hugo Motta",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Icaro de Valmir",
+          "uf": "SE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Idilvan Alencar",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Igor Timo",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ilacir Bicalho",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Inácio Arruda",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ismael",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Isnaldo Bulhões Jr.",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Itamar Paim",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ivoneide Caetano",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Iza Arruda",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jack Rocha",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jadyel Alencar",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jandira Feghali",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jeferson Rodrigues",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jefferson Campos",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jilmar Tatto",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Joaquim Passarinho",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jonas Donizette",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jorge Araújo",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jorge Braz",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jorge Goetten",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jorge Solla",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Joseildo Ramos",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Josenildo",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Josivaldo JP",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "José Airton Félix Cirilo",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "José Medeiros",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "José Nelto",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "José Rocha",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "João Carlos",
+          "uf": "AM",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "João Cury",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "João Daniel",
+          "uf": "SE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "João Maia",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Juarez Costa",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Julia Zanatta",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Juliana Cardoso",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Julio Arcoverde",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Julio Cesar Ribeiro",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Julio Lopes",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Juninho do Pneu",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Junio Amaral",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Junior Lourenço",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Juscelino Filho",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Júlio Cesar",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Júnior Ferrari",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Júnior Mano",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Keniston Braga",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Kiko Celeguim",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Kim Kataguiri",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Lafayette de Andrada",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Laura Carneiro",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Leandre",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Leo Prates",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Leonardo Monteiro",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Leur Lomanto Júnior",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lincoln Portela",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lindbergh Farias",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lucas Ramos",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lucas Redecker",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Luciano Amaral",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luciano Bivar",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luciano Ducci",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luciano Vieira",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lucio Mosquini",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luisa Canziani",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiz Carlos Busato",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiz Carlos Hauly",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiz Carlos Motta",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiz Couto",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiz Fernando Faria",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiz Gastão",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiz Lima",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Obstrução"
+        },
+        {
+          "nome": "Luiz Nishimori",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiza Erundina",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luizianne Lins",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lula da Fonte",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lêda Borges",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lídice da Mata",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Magda Mofatto",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marangoni",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcel van Hattem",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Marcelo Crivella",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcelo Moraes",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcelo Nilo",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcelo Queiroz",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcelo Álvaro Antônio",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcio Alvino",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcon",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcos Aurélio Sampaio",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcos Pereira",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcos Pollon",
+          "uf": "MS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcos Soares",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcos Tavares",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Maria Arraes",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Maria do Rosário",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Maria Rosas",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marina Silva",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mario Frias",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marussa Boldrin",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marx Beltrão",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Matheus Noronha",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mauricio do Vôlei",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mauricio Marcon",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Mauricio Neves",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mauro Benevides Filho",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Maurício Carvalho",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Max Lemos",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Meire Serafim",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mendonça Filho",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Merlong Solano",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mersinho Lucena",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Messias Donato",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Miguel Lombardi",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Miguel Ângelo",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Milton Vieira",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Misael Varella",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Missionário José Olimpio",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Moses Rodrigues",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Murillo Gouvea",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Murilo Galdino",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Márcio Biolchi",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Márcio Honaiser",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Márcio Jerry",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Márcio Marinho",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mário Heringer",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mário Negromonte Jr.",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Natália Bonavides",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Nelson Barbudo",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Nely Aquino",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Neto Carletto",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Nicoletti",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Nikolas Ferreira",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Nilto Tatto",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Olival Marques",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Orlando Silva",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Osmar Terra",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Otoni de Paula",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Padre João",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pastor Diniz",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pastor Eurico",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pastor Gil",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pastor Henrique Vieira",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pastor Sargento Isidório",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Patrus Ananias",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulinho da Força",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Abi-Ackel",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Alexandre Barbosa",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Azi",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Folletto",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Freire Costa",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Guedes",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Lemos",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Litro",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Magalhães",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Marinho Jr",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Paulo Pimenta",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Teixeira",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulão",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pedro Aihara",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pedro Campos",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pedro Lucas Fernandes",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pedro Paulo",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pedro Uczai",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pedro Westphalen",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pezenti",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Pinheirinho",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pompeo de Mattos",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pr. Marco Feliciano",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Prof. Reginaldo Veras",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Professor Alcides",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Professora Luciene Cavalcante",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Professora Marcivania",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rafael Brito",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rafael Fera",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rafael Prudente",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rafael Simoes",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Raimundo Costa",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Raimundo Santos",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Reginaldo Lopes",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Reimont",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Renata Abreu",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Renilce Nicodemos",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Renildo Calheiros",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ribamar Silva",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ribeiro Neto",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ricardo Abrão",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ricardo Ayres",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ricardo Barros",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ricardo Guidi",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Ricardo Maia",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ricardo Salles",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Roberta Roma",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Roberto Duarte",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Robinson Faria",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Robério Monteiro",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rodolfo Nogueira",
+          "uf": "MS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rodrigo da Zaeli",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rodrigo de Castro",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rodrigo Gambale",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rodrigo Rollemberg",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rodrigo Valadares",
+          "uf": "SE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rogéria Santos",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rogério Correia",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Romero Rodrigues",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rosana Valle",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rosangela Gomes",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rosangela Moro",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Rosângela Reis",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rubens Otoni",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rubens Pereira Júnior",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rui Falcão",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ruy Carneiro",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Samuel Viana",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sanderson",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sandro Alex",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sargento Fahur",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sargento Gonçalves",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sargento Portugal",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Saullo Vianna",
+          "uf": "AM",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Saulo Pedroso",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sidney Leite",
+          "uf": "AM",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Silvia Cristina",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Silvio Antonio",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Silvio Costa Filho",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Silvye Alves",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Simone Marquetto",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Socorro Neri",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Soraya Santos",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Stefano Aguiar",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sâmia Bomfim",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sérgio Brito",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sérgio Turra",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Sóstenes Cavalcante",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sônia Guajajara",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Tabata Amaral",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Tadeu Veneri",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Talíria Petrone",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Tarcísio Motta",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Thiago de Joaldo",
+          "uf": "SE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Thiago Flores",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Tiago Dimas",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Tiririca",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Toninho Wandscheer",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Túlio Gadêlha",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Valmir Assunção",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vander Loubet",
+          "uf": "MS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vanderlan Alves",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vavá",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vermelho",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vicentinho Júnior",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vinicius Carvalho",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vinicius Gurgel",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vitor Lippi",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Waldemar Oliveira",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Waldenor Pereira",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Weliton Prado",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Wellington Roberto",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Welter",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Wilson Santiago",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Yury do Paredão",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zeca Dirceu",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zezinho Barbary",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zucco",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zé Adriano",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zé Haroldo Cathedral",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zé Neto",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zé Silva",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zé Trovão",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Zé Vitor",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Átila Lins",
+          "uf": "AM",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Átila Lira",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "id": "segundo",
+      "titulo": "2º turno — texto da PEC 221/2019",
+      "data": "2026-05-27",
+      "url_fonte": "https://www.camara.leg.br/internet/votacao/mostraVotacao.asp?codCasa=1&indTipoSessao=E&indTipoSessaoLegislativa=O&numLegislatura=57&numSessao=106&numSessaoLegislativa=4&tipo=partido&ideVotacao=13754",
+      "contagem": {
+        "Abstenção": 0,
+        "Sim": 461,
+        "Não": 19,
+        "Obstrução": 0
+      },
+      "votos": [
+        {
+          "nome": "Acácio Favacho",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Adail Filho",
+          "uf": "AM",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Adilson Barroso",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Adriana Ventura",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Adriano do Baldy",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Afonso Florence",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Afonso Hamm",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Afonso Motta",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Aguinaldo Ribeiro",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Airton Faleiro",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "AJ Albuquerque",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alberto Fraga",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Albuquerque",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alceu Moreira",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alencar Santana",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alex Manente",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alexandre Guimarães",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alexandre Lindenmeyer",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alfredinho",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alfredo Gaspar",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Alice Portugal",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Aliel Machado",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Aline Gurgel",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Altineu Côrtes",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Aluisio Mendes",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Amanda Gentil",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Amaro Neto",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Amom Mandel",
+          "uf": "AM",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ana Paula Leão",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ana Paula Lima",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ana Pimentel",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Andreia Siqueira",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "André Abdon",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "André Fernandes",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "André Ferreira",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "André Figueiredo",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "André Fufuca",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "André Janones",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Antonio Andrade",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Antonio Brito",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Antonio Carlos Rodrigues",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Antônia Lúcia",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Antônio Doido",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Any Ortiz",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Arlindo Chinaglia",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Arthur Lira",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Arthur Oliveira Maia",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Augusto Coutinho",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Aureo Ribeiro",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Aécio Neves",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Bacelar",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Baleia Rossi",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Bandeira de Mello",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Bebeto",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Benedita da Silva",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Benes Leocádio",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Beto Preto",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Beto Richa",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Bia Kicis",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Bibo Nunes",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Bohn Gass",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Bruno Farias",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Bruno Ganem",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Cabo Gilberto Silva",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Camila Jara",
+          "uf": "MS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Capitão Alberto Neto",
+          "uf": "AM",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Capitão Alden",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Capitão Augusto",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carla Dickson",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carlos Chiodini",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Carlos Gomes",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carlos Henrique Gaguim",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carlos Jordy",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carlos Sampaio",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carlos Veras",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carlos Zarattini",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Carol Dartora",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Caroline de Toni",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Castro Neto",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Celso Russomanno",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Celso Sabino",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Cezinha de Madureira",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Charles Fernandes",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Chico Alencar",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Chris Tonietto",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Clarissa Tércio",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Claudio Cajado",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Cleber Verde",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Clodoaldo Magalhães",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Coronel Assis",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Coronel Chrisóstomo",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Coronel Fernanda",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Coronel Meira",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Coronel Ulysses",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Cristiane Lopes",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Célia Xakriabá",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Célio Silveira",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Da Vitoria",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dagoberto Nogueira",
+          "uf": "MS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Daiana Santos",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dal Barreto",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Damião Feliciano",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dandara",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dani Cunha",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Daniel Agrobom",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Daniel Almeida",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Daniel Barbosa",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Daniel Freitas",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Daniel Trzeciak",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Daniela do Waguinho",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Daniela Reinehr",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Danilo Forte",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Danrlei de Deus Hinterholz",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "David Soares",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Defensor Stélio Dener",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegada Adriana Accorsi",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegada Ione",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegada Katarina",
+          "uf": "SE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Bruno Lima",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Caveira",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado da Cunha",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Fabio Costa",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Marcelo Freitas",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Matheus Laiola",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Palumbo",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Paulo Bilynskyj",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Delegado Éder Mauro",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Denise Pessôa",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Diego Coronel",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Diego Garcia",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dilvanda Faro",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dimas Fabiano",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dimas Gadelha",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Domingos Neto",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Domingos Sávio",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dorinaldo Malafaia",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Doutor Luizinho",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr Flávio",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Daniel Soranz",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Fernando Máximo",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Francisco",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Frederico",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Ismael Alexandrino",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Jaziel",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Luiz Ovando",
+          "uf": "MS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Victor Linhalis",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dr. Zacharias Calil",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Dra. Alessandra Haber",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Duarte Jr.",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Duda Ramos",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Duda Salabert",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Eduardo Bismarck",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Eduardo da Fonte",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Eduardo Velloso",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Elcione Barbalho",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Eli Borges",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Elmar Nascimento",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Emanuel Pinheiro Neto",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Emidinho Madeira",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Enfermeira Rejane",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Erika Hilton",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Erika Kokay",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Eros Biondini",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Eunício Oliveira",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Evair Vieira de Melo",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fabio Garcia",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fabio Reis",
+          "uf": "SE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fabio Schiochet",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Fausto Jr.",
+          "uf": "AM",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fausto Pinato",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Felipe Becari",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Felipe Carreras",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Felipe Francischini",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fernanda Melchionna",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fernanda Pessoa",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fernando Coelho Filho",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fernando Mineiro",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fernando Monteiro",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fernando Rodolfo",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Filipe Barros",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Filipe Martins",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Florentino Neto",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Flávia Morais",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Flávio Nogueira",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Franciane Bayer",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fred Costa",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fred Linhares",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fábio Macedo",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Fábio Teruel",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Félix Mendonça Júnior",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gabriel Mota",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gabriel Nunes",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "General Girão",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "General Pazuello",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Geraldo Mendes",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Geraldo Resende",
+          "uf": "MS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gervásio Maia",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gilberto Abramo",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gilberto Nascimento",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gilson Daniel",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gilson Marques",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Gilvan da Federal",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Giovani Cherini",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Glaustin da Fokus",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Glaycon Franco",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gleisi Hoffmann",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Greyce Elias",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Guilherme Uchoa",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gustavo Gayer",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gustinho Ribeiro",
+          "uf": "SE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Gutemberg Reis",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Heitor Schuch",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Helder Salomão",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Helena Lima",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Helio Lopes",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Heloísa Helena",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Henderson Pinto",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Hercílio Coelho Diniz",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Hildo Rocha",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Hugo Leal",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Hugo Motta",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Icaro de Valmir",
+          "uf": "SE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Idilvan Alencar",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Igor Timo",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ilacir Bicalho",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Inácio Arruda",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ismael",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Isnaldo Bulhões Jr.",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Itamar Paim",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ivoneide Caetano",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Iza Arruda",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jack Rocha",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jadyel Alencar",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jandira Feghali",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jeferson Rodrigues",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jefferson Campos",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jilmar Tatto",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Joaquim Passarinho",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jonas Donizette",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jorge Braz",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jorge Goetten",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Jorge Solla",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Joseildo Ramos",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Josenildo",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Josivaldo JP",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "José Airton Félix Cirilo",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "José Medeiros",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "José Nelto",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "José Priante",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "José Rocha",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "João Carlos",
+          "uf": "AM",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "João Cury",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "João Daniel",
+          "uf": "SE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "João Maia",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Juarez Costa",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Julia Zanatta",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Juliana Cardoso",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Julio Cesar Ribeiro",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Julio Lopes",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Juninho do Pneu",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Junio Amaral",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Junior Lourenço",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Juscelino Filho",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Júnior Ferrari",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Júnior Mano",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Keniston Braga",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Kiko Celeguim",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Kim Kataguiri",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Lafayette de Andrada",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Laura Carneiro",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Leandre",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Leo Prates",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Leonardo Monteiro",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Leur Lomanto Júnior",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lincoln Portela",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lindbergh Farias",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lucas Ramos",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lucas Redecker",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Luciano Amaral",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luciano Bivar",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luciano Ducci",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lucio Mosquini",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luisa Canziani",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiz Carlos Busato",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiz Carlos Hauly",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiz Carlos Motta",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiz Couto",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiz Fernando Faria",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiz Gastão",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiz Nishimori",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luiza Erundina",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Luizianne Lins",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lula da Fonte",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lêda Borges",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Lídice da Mata",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Magda Mofatto",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marangoni",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcel van Hattem",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Marcelo Crivella",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcelo Moraes",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcelo Nilo",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcelo Queiroz",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcelo Álvaro Antônio",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcio Alvino",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcon",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcos Aurélio Sampaio",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcos Soares",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marcos Tavares",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Maria Arraes",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Maria do Rosário",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Maria Rosas",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marina Silva",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mario Frias",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marussa Boldrin",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Marx Beltrão",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Matheus Noronha",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mauricio do Vôlei",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mauricio Marcon",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Mauricio Neves",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mauro Benevides Filho",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Maurício Carvalho",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Max Lemos",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Meire Serafim",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mendonça Filho",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Merlong Solano",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mersinho Lucena",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Messias Donato",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Miguel Lombardi",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Miguel Ângelo",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Milton Vieira",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Missionário José Olimpio",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Moses Rodrigues",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Murillo Gouvea",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Murilo Galdino",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Márcio Biolchi",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Márcio Honaiser",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Márcio Jerry",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Márcio Marinho",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mário Heringer",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Mário Negromonte Jr.",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Natália Bonavides",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Nelson Barbudo",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Nely Aquino",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Neto Carletto",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Nicoletti",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Nikolas Ferreira",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Nilto Tatto",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Olival Marques",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Orlando Silva",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Osmar Terra",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Otoni de Paula",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Padre João",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pastor Diniz",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pastor Eurico",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pastor Gil",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pastor Henrique Vieira",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pastor Sargento Isidório",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Patrus Ananias",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulinho da Força",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Abi-Ackel",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Alexandre Barbosa",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Azi",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Folletto",
+          "uf": "ES",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Freire Costa",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Guedes",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Lemos",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Litro",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Magalhães",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Pimenta",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulo Teixeira",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Paulão",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pedro Aihara",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pedro Campos",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pedro Lucas Fernandes",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pedro Paulo",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pedro Uczai",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pedro Westphalen",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pezenti",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Pinheirinho",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pompeo de Mattos",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Pr. Marco Feliciano",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Prof. Reginaldo Veras",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Professor Alcides",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Professora Luciene Cavalcante",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Professora Marcivania",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rafael Brito",
+          "uf": "AL",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rafael Fera",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rafael Prudente",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rafael Simoes",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Raimundo Costa",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Raimundo Santos",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Reginaldo Lopes",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Reimont",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Renata Abreu",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Renilce Nicodemos",
+          "uf": "PA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Renildo Calheiros",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ribamar Silva",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ribeiro Neto",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ricardo Abrão",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ricardo Ayres",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ricardo Barros",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ricardo Guidi",
+          "uf": "SC",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Ricardo Maia",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ricardo Salles",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Roberta Roma",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Roberto Duarte",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Robinson Faria",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Robério Monteiro",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rodolfo Nogueira",
+          "uf": "MS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rodrigo da Zaeli",
+          "uf": "MT",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rodrigo de Castro",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rodrigo Gambale",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rodrigo Rollemberg",
+          "uf": "DF",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rodrigo Valadares",
+          "uf": "SE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rogéria Santos",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rogério Correia",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Romero Rodrigues",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rosana Valle",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rosangela Gomes",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rosangela Moro",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Rosângela Reis",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rubens Otoni",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rubens Pereira Júnior",
+          "uf": "MA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Rui Falcão",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Ruy Carneiro",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Samuel Viana",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sanderson",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sandro Alex",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sargento Fahur",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sargento Gonçalves",
+          "uf": "RN",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sargento Portugal",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Saullo Vianna",
+          "uf": "AM",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Saulo Pedroso",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Silvia Cristina",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Silvio Costa Filho",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Silvye Alves",
+          "uf": "GO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Simone Marquetto",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Socorro Neri",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Soraya Santos",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Stefano Aguiar",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sâmia Bomfim",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sérgio Brito",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sérgio Turra",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Não"
+        },
+        {
+          "nome": "Sóstenes Cavalcante",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Sônia Guajajara",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Tabata Amaral",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Tadeu Veneri",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Talíria Petrone",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Tarcísio Motta",
+          "uf": "RJ",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Thiago de Joaldo",
+          "uf": "SE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Thiago Flores",
+          "uf": "RO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Tiago Dimas",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Tiririca",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Toninho Wandscheer",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Túlio Gadêlha",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Valmir Assunção",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vander Loubet",
+          "uf": "MS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vanderlan Alves",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vavá",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vermelho",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vicentinho Júnior",
+          "uf": "TO",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vinicius Carvalho",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vinicius Gurgel",
+          "uf": "AP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Vitor Lippi",
+          "uf": "SP",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Waldemar Oliveira",
+          "uf": "PE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Waldenor Pereira",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Weliton Prado",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Wellington Roberto",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Welter",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Wilson Santiago",
+          "uf": "PB",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Yury do Paredão",
+          "uf": "CE",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zeca Dirceu",
+          "uf": "PR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zezinho Barbary",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zucco",
+          "uf": "RS",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zé Adriano",
+          "uf": "AC",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zé Haroldo Cathedral",
+          "uf": "RR",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zé Neto",
+          "uf": "BA",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zé Silva",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Zé Vitor",
+          "uf": "MG",
+          "partido": "",
+          "voto": "Sim"
+        },
+        {
+          "nome": "Átila Lira",
+          "uf": "PI",
+          "partido": "",
+          "voto": "Sim"
+        }
+      ]
+    }
+  ]
+}
