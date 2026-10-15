@@ -30,7 +30,9 @@ A primeira proposta é a [PEC 221/2019, fim da escala 6x1](votacoes/pec-221-2019
 
 ## Fase 4: Senado e Câmara em espaços separados
 
-**Planejada.** Adaptar a navegação para que Senado e Câmara tenham índices próprios, reutilizando a ficha Markdown. Quando a pesquisa chegar à Câmara, criar um inventário de deputados em exercício com data de referência, antes de abrir centenas de fichas.
+**Índices implementados; pesquisa da Câmara pendente.** A navegação dispõe de [índice do Senado](senado/index.html), com as 81 fichas do projeto, e [índice da Câmara](camara/index.html), com os 513 deputados em exercício importados da API oficial. A consulta da Câmara inclui nome, partido, UF e link para o cadastro oficial de cada deputado, além de busca e filtros combináveis.
+
+O inventário da Câmara fica em [`_data/deputados_camara.json`](_data/deputados_camara.json), gerado pelo [importador](scripts/importar_deputados_camara.py) e [workflow semanal](.github/workflows/atualizar-camara.yml). É um **retrato datado**, não a lista de eleitos de 2026 nem a comprovação de 513 pesquisas concluídas. **Próxima etapa:** abrir fichas documentadas dos deputados em pequenos lotes, com checagem de identidade, exercício, autoria, relatorias e votos por matéria.
 
 ## Regras que valem para todas as fases
 
