@@ -26,7 +26,7 @@ Adicionar um índice de assuntos ao site e filtros que permitam encontrar parlam
 - data, casa legislativa, turno, objeto da votação e link da fonte;
 - status da informação: `confirmado em mapa nominal`, `declaração registrada` ou `relato durante sessão, não confirmado`.
 
-A primeira proposta é a [PEC 221/2019, fim da escala 6x1](votacoes/pec-221-2019.md). O dossiê acompanha Reginaldo Lopes (2019), Erika Hilton (2025), substitutivo de Leo Prates e votação da Câmara em dois turnos (27/05/2026). A lista nominal completa da Câmara será incluída automaticamente após importação e checagem de totais (script e workflow documentados no README). O acompanhamento do Senado em 14/10/2026 ainda não tem voto nominal comprovado na consulta; os quatro “sim” informados pelo usuário permanecem como **relatos não confirmados**, não resultado legislativo.
+A primeira proposta é a [PEC 221/2019, fim da escala 6x1](votacoes/pec-221-2019.md). O dossiê acompanha Reginaldo Lopes (2019), Erika Hilton (2025), substitutivo de Leo Prates e votação da Câmara em dois turnos (27/05/2026). As listas nominais completas da Câmara foram **importadas e conferidas contra os dois placares oficiais**, incluindo obstrução no primeiro turno; a consulta permite filtrar por nome, UF e voto (script e workflow documentados no README). O acompanhamento do Senado em 14/10/2026 ainda não tem voto nominal comprovado na consulta; os quatro “sim” informados pelo usuário permanecem como **relatos não confirmados**, não resultado legislativo.
 
 ## Fase 4: Senado e Câmara em espaços separados
 
