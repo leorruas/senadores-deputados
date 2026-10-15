@@ -64,6 +64,23 @@ def extrair_mapa(html):
         raise ValueError("O mapa contém registros duplicados: revise o parser antes de publicar.")
     return sorted(registros, key=lambda r: (r["nome"].casefold(), r["uf"]))
 
+def extrair_partidos_do_mapa_por_uf(html):
+    """No mapa por UF, a segunda coluna identifica o partido de cada deputado."""
+    soup = BeautifulSoup(html, "html.parser")
+    partidos = {}
+    for tr in soup.find_all("tr"):
+        colunas = tr.find_all("td", recursive=False)
+        if len(colunas) < 4:
+            continue
+        valores = [limpar(td.get_text(" ", strip=True)) for td in colunas]
+        nome, sigla, voto = valores[0], valores[1], valores[-1]
+        if nome and sigla and voto in VOTOS:
+            sigla = {"Republican": "Republicanos", "Solidaried": "Solidariedade"}.get(sigla, sigla)
+            if nome in partidos and partidos[nome] != sigla:
+                raise ValueError(f"Partido conflitante para {nome}.")
+            partidos[nome] = sigla
+    return partidos
+
 def main():
     cliente = requests.Session()
     cliente.headers.update({"User-Agent": "ArquivoParlamentar/1.0 (pesquisa pública; fonte Câmara dos Deputados)"})
@@ -74,6 +91,15 @@ def main():
         resposta.raise_for_status()
         resposta.encoding = resposta.apparent_encoding or resposta.encoding
         votos = extrair_mapa(resposta.text)
+        resposta_uf = cliente.get(BASE, params={**params, "tipo": "uf"}, timeout=40)
+        resposta_uf.raise_for_status()
+        resposta_uf.encoding = resposta_uf.apparent_encoding or resposta_uf.encoding
+        partidos = extrair_partidos_do_mapa_por_uf(resposta_uf.text)
+        faltantes = [v["nome"] for v in votos if v["nome"] not in partidos]
+        if faltantes:
+            raise ValueError(f"Partido não identificado no mapa oficial para: {faltantes[:12]}")
+        for voto in votos:
+            voto["partido"] = partidos[voto["nome"]]
         contagem = {chave: sum(v["voto"] == chave for v in votos) for chave in VOTOS}
         for escolha, esperado in turno["esperado"].items():
             if contagem[escolha] != esperado:
