@@ -1,5 +1,5 @@
 {
-  "atualizado_em_utc": "2026-10-19T16:39:24Z",
+  "atualizado_em_utc": "2026-10-26T16:20:10Z",
   "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados",
   "legislatura": 57,
   "total": 513,
@@ -1847,13 +1847,6 @@
       "url": "https://www.camara.leg.br/deputados/141464"
     },
     {
-      "id": 74140,
-      "nome": "José Carlos Araujo",
-      "partido": "DC",
-      "uf": "BA",
-      "url": "https://www.camara.leg.br/deputados/74140"
-    },
-    {
       "id": 204472,
       "nome": "José Medeiros",
       "partido": "PL",
@@ -2048,6 +2041,13 @@
       "partido": "REPUBLICANOS",
       "uf": "GO",
       "url": "https://www.camara.leg.br/deputados/220566"
+    },
+    {
+      "id": 80815,
+      "nome": "Leo Prates",
+      "partido": "REPUBLICANOS",
+      "uf": "BA",
+      "url": "https://www.camara.leg.br/deputados/80815"
     },
     {
       "id": 122195,
