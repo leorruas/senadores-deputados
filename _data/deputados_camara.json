@@ -1,5 +1,5 @@
 {
-  "atualizado_em_utc": "2026-11-02T19:51:00Z",
+  "atualizado_em_utc": "2026-11-09T20:13:21Z",
   "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados",
   "legislatura": 57,
   "total": 513,
@@ -2050,13 +2050,6 @@
       "url": "https://www.camara.leg.br/deputados/80815"
     },
     {
-      "id": 122195,
-      "nome": "Leonardo Gadelha",
-      "partido": "PODE",
-      "uf": "PB",
-      "url": "https://www.camara.leg.br/deputados/122195"
-    },
-    {
       "id": 74156,
       "nome": "Leonardo Monteiro",
       "partido": "PT",
@@ -3140,6 +3133,13 @@
       "partido": "PT",
       "uf": "MG",
       "url": "https://www.camara.leg.br/deputados/204480"
+    },
+    {
+      "id": 160629,
+      "nome": "Romero Rodrigues",
+      "partido": "PODE",
+      "uf": "PB",
+      "url": "https://www.camara.leg.br/deputados/160629"
     },
     {
       "id": 204525,
