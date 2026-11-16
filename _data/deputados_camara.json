@@ -1,5 +1,5 @@
 {
-  "atualizado_em_utc": "2026-11-09T20:13:21Z",
+  "atualizado_em_utc": "2026-11-16T19:54:10Z",
   "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados",
   "legislatura": 57,
   "total": 513,
@@ -1490,6 +1490,13 @@
       "url": "https://www.camara.leg.br/deputados/204394"
     },
     {
+      "id": 74383,
+      "nome": "Giacobo",
+      "partido": "PSD",
+      "uf": "PR",
+      "url": "https://www.camara.leg.br/deputados/74383"
+    },
+    {
       "id": 204491,
       "nome": "Gilberto Abramo",
       "partido": "REPUBLICANOS",
@@ -1705,13 +1712,6 @@
       "partido": "MDB",
       "uf": "AL",
       "url": "https://www.camara.leg.br/deputados/204436"
-    },
-    {
-      "id": 225846,
-      "nome": "Itamar Paim",
-      "partido": "PL",
-      "uf": "PR",
-      "url": "https://www.camara.leg.br/deputados/225846"
     },
     {
       "id": 220696,
